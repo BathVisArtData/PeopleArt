@@ -161,7 +161,7 @@ Realism/volodymyr-orlovsky_landscape.jpg -1
 PopArt/claes-oldenburg_profiterole-1990.jpg -1
 Tonalism/john-henry-twachtman_tiger-lilies-1.jpg -1
 AnalyticalRealism/pavel-filonov_untitled-st-george-the-victorious-1915.jpg 1
-Synthetism/emile-bernard_african-woman-1895.jpg -1
+Synthetism/emile-bernard_african-woman-1895.jpg 1
 HighRenaissance/leonardo-da-vinci_drawing-of-lilies-for-an-annunciation.jpg -1
 Rococo/carl-ludwig-johann-christineck_portrait-of-daria-aleksandrovna-troubetskaya.jpg 1
 Cubo-Futurism/david-burliuk_ukrainians-1912.jpg 1
@@ -503,7 +503,7 @@ PosterArtRealism/rolf-amstrong_cover-of-may-1921-issue-of-photoplay-1921.jpg 1
 FantasticRealism/wojciech-siudmak_behind-the-mirror.jpg 1
 Impressionism/samuel-mutzner_prim-var-1930.jpg -1
 PopArt/roy-lichtenstein_washing-machine-1961.jpg -1
-Impressionism/nikolay-bogdanov-belsky_reading-a-book.jpg -1
+Impressionism/nikolay-bogdanov-belsky_reading-a-book.jpg 1
 Symbolism/konstantin-bogaevsky_atlantis-1922.jpg -1
 Tonalism/albert-pinkham-ryder_the-pond.jpg -1
 Shin-hanga/natori-shunsen_taminosuke-in-the-role-of-otsuma-1915.jpg 1
@@ -709,7 +709,7 @@ Neo-baroque/giorgio-de-chirico_the-horses-of-apollo-1974.jpg -1
 Constructivism/laszlo-moholy-nagy_xanti-schawinsky-on-a-bauhaus-balcony.jpg 1
 Academicism/theodor-aman_fruit-basket.jpg -1
 ArtNouveau(Modern)/nicholas-roerich_light-night-castle-of-prince-judas-iscariot-1909.jpg -1
-photo/008001.jpg -1
+photo/008001.jpg 1
 photo/009029.jpg -1
 AnalyticalRealism/pavel-filonov_west-and-east-1913.jpg 1
 Naturalism/charles-tunnicliffe_white-turkey.jpg -1
@@ -1177,13 +1177,11 @@ MagicRealism/eyvind-earle_snow-trees.jpg -1
 Neo-baroque/giorgio-de-chirico_the-fall-of-phaeton.jpg -1
 PopArt/patrick-procktor_leaping-cataract-victoria-falls-1974.jpg -1
 Cubo-Futurism/aristarkh-lentulov_portrait-of-artist-s-wife-and-daughter-1915.jpg 1
-Cubo-Futurism/aleksandra-ekster_venice-1924.jpg -1
 AnalyticalRealism/pavel-filonov_portrait-of-nikolay-glebov-putilovsky-1936.jpg 1
 Shin-hanga/hiroshi-yoshida_obatan-parrot-1926.jpg -1
 photo/003796.jpg -1
 Naturalism/helene-schjerfbeck_girl-reading-1904.jpg 1
 PopArt/burhan-dogancay_sailing-hearts-1977.jpg -1
-Realism/sue-coe_carousel.jpg -1
 Naturalism/henrique-pousao_senhora-vestida-de-negro-1882.jpg 1
 Symbolism/jacek-malczewski_in-the-dust-cloud.jpg -1
 AnalyticalRealism/pavel-filonov_head-1923.jpg 1
@@ -1270,7 +1268,6 @@ Naturalism/marianne-north_the-wild-tamarind-of-jamaica-with-scarlet-pod-and-barb
 Naturalism/charles-tunnicliffe_rock-and-roll.jpg -1
 MagicRealism/felix-vallotton_the-door-of-bulagaio-1913.jpg -1
 Cubism/georges-braque_the-green-jug.jpg -1
-ArtNouveau(Modern)/boris-kustodiev_england-1926.jpg -1
 Tonalism/julian-alden-weir_the-bridge-nocturne-aka-nocturne-queensboro-bridge-1910.jpg -1
 Ukiyo-e/hiroshige_hydrangea-and-kingfisher.jpg -1
 Ukiyo-e/paul-jacoulet_la-cruche-mongolie.jpg 1
@@ -1286,7 +1283,7 @@ Constructivism/m-h-maxy_box-1925.jpg -1
 Divisionism/henri-martin_boats-in-port-collioure-1.jpg -1
 Shin-hanga/torii-kotondo_taking-a-nap-1933.jpg 1
 Ukiyo-e/hiroshige_moon-swallows-and-peach-blossoms.jpg -1
-Cubo-Futurism/kazimir-malevich_portrait-of-m-v-matyushin-1913.jpg -1
+Cubo-Futurism/kazimir-malevich_portrait-of-m-v-matyushin-1913.jpg 1
 FeministArt/kiki-smith_wolf-girl-1999.jpg 1
 ProtoRenaissance/giotto_temperance.jpg 1
 Neo-baroque/giorgio-de-chirico_black-grape.jpg -1
@@ -1297,7 +1294,6 @@ Impressionism/octav-bancila_r-ncu-ntre-vii.jpg 1
 Realism/camille-corot_the-boatman-left-the-bank-with-a-woman-and-a-child-sitting-in-his-boat-sunset.jpg -1
 Rococo/pietro-longhi_fall-of-the-giants-1734-1.jpg -1
 HighRenaissance/michelangelo_bust-of-brutus.jpg 1
-Cubo-Futurism/aleksandra-ekster_venice-1925.jpg -1
 Cubism/amadeo-de-souza-cardoso_untitled-boats-1913.jpg -1
 Constructivism/max-bill_sun-lamp-1951.jpg -1
 NewEuropeanPainting/bracha-l-ettinger_eurydice-n-20-1996.jpg -1

@@ -1,0 +1,46 @@
+<annotation>
+<folder>Naturalism</folder>
+<style>Naturalism</style>
+<filename>jose-malhoa_the-artist-s-studio-1894.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>jose-malhoa</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>367</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>109</xmin>
+		<ymin>96</ymin>
+		<xmax>228</xmax>
+		<ymax>367</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>348</xmin>
+		<ymin>162</ymin>
+		<xmax>446</xmax>
+		<ymax>274</ymax>
+	</bndbox>
+</object>
+</annotation>

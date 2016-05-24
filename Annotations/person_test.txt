@@ -3,7 +3,7 @@ Divisionism/henri-martin_the-lot-at-st-cirq-lapopie.jpg -1
 ArtDeco/rene-magritte_advertisment-for-norine-2.jpg 1
 FeministArt/miriam-schapiro_pleasure-dome-2003.jpg -1
 Neo-Rococo/franz-xaver-winterhalter_countess-alexander-nikolaevitch-lamsdorff.jpg 1
-Symbolism/kuzma-petrov-vodkin_artist-s-model-from-the-back-1906.jpg -1
+Symbolism/kuzma-petrov-vodkin_artist-s-model-from-the-back-1906.jpg 1
 Biedermeier/carl-spitzweg_the-portrait-painter-1855.jpg 1
 HighRenaissance/raphael_portrait-of-elizabeth-gonzaga.jpg 1
 Constructivism/laszlo-moholy-nagy_composition-z-viii-1924.jpg -1
@@ -1100,7 +1100,7 @@ cartoon/kids0.jpg 1
 NewEuropeanPainting/luc-tuymans_five-years-2004.jpg -1
 Tonalism/leon-dabo_new-york-dawn-the-hudson.jpg -1
 Symbolism/nicholas-roerich_border-of-tibet-1940.jpg -1
-Naturalism/jose-malhoa_the-artist-s-studio-1894.jpg -1
+Naturalism/jose-malhoa_the-artist-s-studio-1894.jpg 1
 Divisionism/henri-martin_labastide-in-spring-behind-the-presbytere.jpg -1
 Muralism/jose-clemente-orozco_the-rich-people-detail-1924-1.jpg 1
 FeministArt/joan-snyder_women-make-lists.jpg -1
@@ -1254,7 +1254,6 @@ Constructivism/theo-van-doesburg_design-1924.jpg -1
 Tonalism/james-mcneill-whistler_arrangement-in-brown-and-black-portrait-of-miss-rosa-corder-1878.jpg 1
 Constructivism/kazimir-malevich_four-pieces-with-a-the-hammer-and-sickle.jpg 1
 Realism/eyvind-earle_california-tapestry.jpg -1
-MagicRealism/ivan-albright_noname-12.jpg 1
 FantasticRealism/wojciech-siudmak_the-organic-kingdom.jpg -1
 Naturalism/marianne-north_life-on-the-coast-of-praslin-seychelles-1883.jpg -1
 photo/003913.jpg 1
@@ -1572,7 +1571,7 @@ Naturalism/archibald-thorburn_bluetits-on-a-teasel-1922.jpg -1
 Cubism/carlos-merida_faces.jpg -1
 LowbrowArt/luke-chueh_bear-in-mind-2006.jpg -1
 NorthernRenaissance/hans-baldung_the-flood-1516.jpg -1
-NorthernRenaissance/albrecht-durer_birth-of-christ.jpg -1
+NorthernRenaissance/albrecht-durer_birth-of-christ.jpg 1
 Symbolism/nicholas-roerich_himalayas-41.jpg -1
 Muralism/jose-clemente-orozco_wheel-1939.jpg -1
 PopArt/ralph-goings_rainbow-1968.jpg -1

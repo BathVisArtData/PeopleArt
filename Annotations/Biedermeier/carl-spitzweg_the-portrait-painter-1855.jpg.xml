@@ -91,16 +91,4 @@
 		<ymax>152</ymax>
 	</bndbox>
 </object>
-<object>
-	<pose>Frontal</pose>
-	<truncated>1</truncated>
-	<difficult>1</difficult>
-	<name>person</name>
-	<bndbox>
-		<xmin>186</xmin>
-		<ymin>82</ymin>
-		<xmax>205</xmax>
-		<ymax>108</ymax>
-	</bndbox>
-</object>
 </annotation>

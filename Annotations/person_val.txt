@@ -380,7 +380,6 @@ ArtNouveau(Modern)/jules-cheret_hippodrome-leona-dare-1883.jpg 1
 Shin-hanga/hasui-kawase_tsuchizaki-akita-1928.jpg -1
 Tonalism/john-henry-twachtman_dutch-landscape.jpg -1
 Shin-hanga/ohara-koson_small-white-egret.jpg -1
-Neo-baroque/giorgio-de-chirico_bacchanal-scene.jpg -1
 FeministArt/yayoi-kusama_infinity-mirror-room-1965.jpg 1
 MagicRealism/abidin-dino_hand-and-the-eye-of-needle-1980.jpg -1
 Shin-hanga/joan-ponc_suite-perversitats-1949.jpg 1
@@ -405,7 +404,7 @@ ArtDeco/erte_bon-soir.jpg 1
 Cubo-Futurism/olga-rozanova_city.jpg -1
 Photorealism/ralph-goings_coffee-and-donut-2005.jpg -1
 Ukiyo-e/paul-jacoulet_la-tresseuse-de-paniers-remoue-yap-1948.jpg 1
-Cubism/willi-baumeister_swimmers-on-the-ladder-1929.jpg -1
+Cubism/willi-baumeister_swimmers-on-the-ladder-1929.jpg 1
 MagicRealism/eyvind-earle_early-autumn-1996.jpg -1
 Impressionism/raoul-dufy_treading-the-blue-sky-1949.jpg 1
 Biedermeier/ferdinand-georg-waldm-ller_the-birthday-table-1840-1.jpg 1
@@ -789,7 +788,6 @@ Synthetism/paul-serusier_the-seat-at-poldu-sunset.jpg -1
 Cubism/paul-cezanne_bend-in-forest-road-1906.jpg -1
 Suprematism/kazimir-malevich_three-suprematic-figures.jpg 1
 MagicRealism/eyvind-earle_jewel-forest-1988.jpg -1
-photo/006962.jpg -1
 InternationalGothic/limbourg-brothers_christ-in-glory.jpg 1
 Biedermeier/ferdinand-georg-waldm-ller_rushwood-collectors-in-the-wienerwald-1855.jpg 1
 Suprematism/kazimir-malevich_suprematism-1.jpg -1
@@ -1082,7 +1080,6 @@ Ukiyo-e/katsushika-hokusai_tengu.jpg -1
 MagicRealism/avigdor-arikha_canadian-envelope-1977.jpg -1
 ArtNouveau(Modern)/ivan-bilibin_sketch-for-the-spectacle-the-action-of-theophile-1907.jpg -1
 Ukiyo-e/kitagawa-utamaro_oiran-hanaogi.jpg 1
-Cubism/jacques-villon_taureau-et-g-meaux.jpg -1
 Neo-Rococo/franz-xaver-winterhalter_empress-elisabeth-of-austria-in-dancing-dress.jpg 1
 Realism/theodore-rousseau_marshland-in-les-landes.jpg -1
 PosterArtRealism/rolf-amstrong_tahitian-nude.jpg 1

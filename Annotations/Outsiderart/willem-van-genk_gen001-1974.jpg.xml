@@ -43,4 +43,28 @@
 		<ymax>124</ymax>
 	</bndbox>
 </object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>358</xmin>
+		<ymin>169</ymin>
+		<xmax>386</xmax>
+		<ymax>304</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>358</xmin>
+		<ymin>169</ymin>
+		<xmax>386</xmax>
+		<ymax>211</ymax>
+	</bndbox>
+</object>
 </annotation>

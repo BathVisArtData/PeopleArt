@@ -1,0 +1,70 @@
+<annotation>
+<folder>Impressionism</folder>
+<style>Impressionism</style>
+<filename>nikolay-bogdanov-belsky_reading-a-book.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>maurice-prendergast</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>381</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>30</xmin>
+		<ymin>63</ymin>
+		<xmax>225</xmax>
+		<ymax>341</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>124</xmin>
+		<ymin>36</ymin>
+		<xmax>261</xmax>
+		<ymax>240</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>178</xmin>
+		<ymin>127</ymin>
+		<xmax>374</xmax>
+		<ymax>283</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>324</xmin>
+		<ymin>66</ymin>
+		<xmax>500</xmax>
+		<ymax>379</ymax>
+	</bndbox>
+</object>
+</annotation>

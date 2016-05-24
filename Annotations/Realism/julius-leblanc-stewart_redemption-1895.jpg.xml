@@ -27,8 +27,8 @@
 	<bndbox>
 		<xmin>122</xmin>
 		<ymin>89</ymin>
-		<xmax>210</xmax>
-		<ymax>389</ymax>
+		<xmax>235</xmax>
+		<ymax>380</ymax>
 	</bndbox>
 </object>
 <object>
@@ -53,6 +53,102 @@
 		<ymin>167</ymin>
 		<xmax>473</xmax>
 		<ymax>279</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>317</xmin>
+		<ymin>120</ymin>
+		<xmax>342</xmax>
+		<ymax>160</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>334</xmin>
+		<ymin>122</ymin>
+		<xmax>362</xmax>
+		<ymax>158</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>358</xmin>
+		<ymin>111</ymin>
+		<xmax>388</xmax>
+		<ymax>184</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>369</xmin>
+		<ymin>107</ymin>
+		<xmax>406</xmax>
+		<ymax>161</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>383</xmin>
+		<ymin>113</ymin>
+		<xmax>433</xmax>
+		<ymax>181</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>420</xmin>
+		<ymin>108</ymin>
+		<xmax>474</xmax>
+		<ymax>187</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>450</xmin>
+		<ymin>97</ymin>
+		<xmax>500</xmax>
+		<ymax>240</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>360</xmin>
+		<ymin>157</ymin>
+		<xmax>416</xmax>
+		<ymax>223</ymax>
 	</bndbox>
 </object>
 </annotation>

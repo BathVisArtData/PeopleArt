@@ -1,0 +1,41 @@
+<annotation>
+<folder>Cubism</folder>
+<style>Cubism</style>
+<filename>willi-baumeister_swimmers-on-the-ladder-1929.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+</source>
+<size>
+	<width>355</width>
+	<height>439</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>1</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>94</xmin>
+		<ymin>12</ymin>
+		<xmax>221</xmax>
+		<ymax>408</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>185</xmin>
+		<ymin>38</ymin>
+		<xmax>332</xmax>
+		<ymax>282</ymax>
+	</bndbox>
+</object>
+</annotation>

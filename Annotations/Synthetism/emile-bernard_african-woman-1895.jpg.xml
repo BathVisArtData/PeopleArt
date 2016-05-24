@@ -1,7 +1,7 @@
 <annotation>
-<folder>MagicRealism</folder>
-<style>MagicRealism</style>
-<filename>ivan-albright_noname-12.jpg</filename>
+<folder>Synthetism</folder>
+<style>Synthetism</style>
+<filename>emile-bernard_african-woman-1895.jpg</filename>
 <source>
 	<database>art_person_v2</database>
 	<annotation>art_person_v2</annotation>
@@ -10,10 +10,10 @@
 </source>
 <owner>
 	<flickrid>0</flickrid>
-	<name>ivan-albright</name>
+	<name>emile-bernard</name>
 </owner>
 <size>
-	<width>397</width>
+	<width>378</width>
 	<height>500</height>
 	<depth>3</depth>
 </size>
@@ -21,14 +21,14 @@
 <difficult>0</difficult>
 <object>
 	<pose>Frontal</pose>
-	<truncated>1</truncated>
+	<truncated>0</truncated>
 	<difficult>0</difficult>
 	<name>person</name>
 	<bndbox>
-		<xmin>72</xmin>
-		<ymin>69</ymin>
-		<xmax>236</xmax>
-		<ymax>266</ymax>
+		<xmin>46</xmin>
+		<ymin>1</ymin>
+		<xmax>378</xmax>
+		<ymax>500</ymax>
 	</bndbox>
 </object>
 </annotation>
