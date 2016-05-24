@@ -1,0 +1,22 @@
+<annotation>
+<folder>Realism</folder>
+<style>Realism</style>
+<filename>theodore-rousseau_not_detected_198922.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>theodore-rousseau</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>411</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>1</difficult>
+</annotation>

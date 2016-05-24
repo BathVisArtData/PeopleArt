@@ -1,0 +1,178 @@
+<annotation>
+<folder>Muralism</folder>
+<style>Muralism</style>
+<filename>diego-rivera_the-sugar-mill-1923.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>diego-rivera</name>
+</owner>
+<size>
+	<width>379</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>24</xmin>
+		<ymin>117</ymin>
+		<xmax>73</xmax>
+		<ymax>339</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>131</xmin>
+		<ymin>115</ymin>
+		<xmax>177</xmax>
+		<ymax>342</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>211</xmin>
+		<ymin>133</ymin>
+		<xmax>263</xmax>
+		<ymax>343</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>299</xmin>
+		<ymin>137</ymin>
+		<xmax>367</xmax>
+		<ymax>349</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>176</xmin>
+		<ymin>115</ymin>
+		<xmax>233</xmax>
+		<ymax>207</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>211</xmin>
+		<ymin>90</ymin>
+		<xmax>283</xmax>
+		<ymax>177</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>164</xmin>
+		<ymin>104</ymin>
+		<xmax>199</xmax>
+		<ymax>143</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>234</xmin>
+		<ymin>326</ymin>
+		<xmax>319</xmax>
+		<ymax>414</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>270</xmin>
+		<ymin>377</ymin>
+		<xmax>362</xmax>
+		<ymax>471</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>294</xmin>
+		<ymin>354</ymin>
+		<xmax>379</xmax>
+		<ymax>444</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>140</xmin>
+		<ymin>350</ymin>
+		<xmax>207</xmax>
+		<ymax>440</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>68</xmin>
+		<ymin>387</ymin>
+		<xmax>188</xmax>
+		<ymax>473</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>354</ymin>
+		<xmax>78</xmax>
+		<ymax>447</ymax>
+	</bndbox>
+</object>
+</annotation>

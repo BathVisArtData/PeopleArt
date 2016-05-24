@@ -1,0 +1,46 @@
+<annotation>
+<folder>Neo-baroque</folder>
+<style>Neo-baroque</style>
+<filename>salvador-dali_rock-and-infuriated-horse-sleeping-under-the-sea.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>salvador-dali</name>
+</owner>
+<size>
+	<width>411</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>335</xmin>
+		<ymin>306</ymin>
+		<xmax>410</xmax>
+		<ymax>377</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>170</xmin>
+		<ymin>98</ymin>
+		<xmax>242</xmax>
+		<ymax>244</ymax>
+	</bndbox>
+</object>
+</annotation>

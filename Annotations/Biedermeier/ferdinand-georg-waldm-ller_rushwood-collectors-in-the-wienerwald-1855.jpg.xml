@@ -1,0 +1,82 @@
+<annotation>
+<folder>Biedermeier</folder>
+<style>Biedermeier</style>
+<filename>ferdinand-georg-waldm-ller_rushwood-collectors-in-the-wienerwald-1855.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>ferdinand-georg-waldm-ller</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>412</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>81</xmin>
+		<ymin>254</ymin>
+		<xmax>214</xmax>
+		<ymax>387</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>129</xmin>
+		<ymin>178</ymin>
+		<xmax>188</xmax>
+		<ymax>300</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>180</xmin>
+		<ymin>162</ymin>
+		<xmax>226</xmax>
+		<ymax>303</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>252</xmin>
+		<ymin>225</ymin>
+		<xmax>309</xmax>
+		<ymax>340</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>307</xmin>
+		<ymin>246</ymin>
+		<xmax>384</xmax>
+		<ymax>379</ymax>
+	</bndbox>
+</object>
+</annotation>

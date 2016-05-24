@@ -1,0 +1,22 @@
+<annotation>
+<folder>Muralism</folder>
+<style>Muralism</style>
+<filename>diego-rivera_the-world-of-today-and-tomorrow-1935.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>diego-rivera</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>418</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>1</difficult>
+</annotation>

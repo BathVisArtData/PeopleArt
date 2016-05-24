@@ -1,0 +1,34 @@
+<annotation>
+<folder>Academicism</folder>
+<style>Academicism</style>
+<filename>eugene-de-blaas_the-flower-seller.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>eugene-de-blaas</name>
+</owner>
+<size>
+	<width>262</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>48</xmin>
+		<ymin>28</ymin>
+		<xmax>208</xmax>
+		<ymax>477</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,70 @@
+<annotation>
+<folder>LowbrowArt</folder>
+<style>LowbrowArt</style>
+<filename>robert-williams_hot-rod-race-1976.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>robert-williams</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>314</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>211</xmin>
+		<ymin>88</ymin>
+		<xmax>259</xmax>
+		<ymax>134</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>395</xmin>
+		<ymin>139</ymin>
+		<xmax>446</xmax>
+		<ymax>174</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>166</xmin>
+		<ymin>79</ymin>
+		<xmax>194</xmax>
+		<ymax>103</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>194</xmin>
+		<ymin>94</ymin>
+		<xmax>213</xmax>
+		<ymax>116</ymax>
+	</bndbox>
+</object>
+</annotation>

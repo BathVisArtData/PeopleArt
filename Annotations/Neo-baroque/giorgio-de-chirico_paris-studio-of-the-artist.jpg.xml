@@ -1,0 +1,58 @@
+<annotation>
+<folder>Neo-baroque</folder>
+<style>Neo-baroque</style>
+<filename>giorgio-de-chirico_paris-studio-of-the-artist.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>giorgio-de-chirico</name>
+</owner>
+<size>
+	<width>400</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>264</xmin>
+		<ymin>172</ymin>
+		<xmax>346</xmax>
+		<ymax>470</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>69</xmin>
+		<ymin>257</ymin>
+		<xmax>103</xmax>
+		<ymax>317</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>75</xmin>
+		<ymin>116</ymin>
+		<xmax>100</xmax>
+		<ymax>147</ymax>
+	</bndbox>
+</object>
+</annotation>

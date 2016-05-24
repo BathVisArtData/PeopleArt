@@ -1,0 +1,34 @@
+<annotation>
+<folder>EnvironmentalArt</folder>
+<style>EnvironmentalArt</style>
+<filename>marko-pogacnik_programmed-wood.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>marko-pogacnik</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>374</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>161</xmin>
+		<ymin>250</ymin>
+		<xmax>200</xmax>
+		<ymax>336</ymax>
+	</bndbox>
+</object>
+</annotation>

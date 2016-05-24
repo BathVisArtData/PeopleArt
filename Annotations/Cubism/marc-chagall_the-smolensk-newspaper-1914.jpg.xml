@@ -1,0 +1,46 @@
+<annotation>
+<folder>Cubism</folder>
+<style>Cubism</style>
+<filename>marc-chagall_the-smolensk-newspaper-1914.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>marc-chagall</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>382</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>10</xmin>
+		<ymin>59</ymin>
+		<xmax>138</xmax>
+		<ymax>284</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>192</xmin>
+		<ymin>65</ymin>
+		<xmax>405</xmax>
+		<ymax>370</ymax>
+	</bndbox>
+</object>
+</annotation>

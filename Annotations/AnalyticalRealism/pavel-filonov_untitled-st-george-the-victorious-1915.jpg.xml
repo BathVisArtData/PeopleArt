@@ -1,0 +1,46 @@
+<annotation>
+<folder>AnalyticalRealism</folder>
+<style>AnalyticalRealism</style>
+<filename>pavel-filonov_untitled-st-george-the-victorious-1915.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>pavel-filonov</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>460</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>175</xmin>
+		<ymin>74</ymin>
+		<xmax>350</xmax>
+		<ymax>455</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>414</xmin>
+		<ymin>22</ymin>
+		<xmax>459</xmax>
+		<ymax>121</ymax>
+	</bndbox>
+</object>
+</annotation>

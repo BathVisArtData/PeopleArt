@@ -1,0 +1,94 @@
+<annotation>
+<folder>PopArt</folder>
+<style>PopArt</style>
+<filename>romare-bearden_out-chorus-1980.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>romare-bearden</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>379</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>393</xmin>
+		<ymin>146</ymin>
+		<xmax>500</xmax>
+		<ymax>335</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>162</xmin>
+		<ymin>182</ymin>
+		<xmax>274</xmax>
+		<ymax>375</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>223</xmin>
+		<ymin>125</ymin>
+		<xmax>331</xmax>
+		<ymax>371</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>113</xmin>
+		<ymin>117</ymin>
+		<xmax>211</xmax>
+		<ymax>282</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>6</xmin>
+		<ymin>141</ymin>
+		<xmax>92</xmax>
+		<ymax>370</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>18</xmin>
+		<ymin>86</ymin>
+		<xmax>142</xmax>
+		<ymax>195</ymax>
+	</bndbox>
+</object>
+</annotation>

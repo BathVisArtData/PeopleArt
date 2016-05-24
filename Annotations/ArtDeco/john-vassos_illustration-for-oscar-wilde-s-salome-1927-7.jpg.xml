@@ -1,0 +1,46 @@
+<annotation>
+<folder>ArtDeco</folder>
+<style>ArtDeco</style>
+<filename>john-vassos_illustration-for-oscar-wilde-s-salome-1927-7.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>john-vassos</name>
+</owner>
+<size>
+	<width>369</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>155</xmin>
+		<ymin>55</ymin>
+		<xmax>343</xmax>
+		<ymax>496</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>129</xmin>
+		<ymin>200</ymin>
+		<xmax>184</xmax>
+		<ymax>383</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,70 @@
+<annotation>
+<folder>Photorealism</folder>
+<style>Photorealism</style>
+<filename>glennray-tutor_dream-of-love-2004.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>glennray-tutor</name>
+</owner>
+<size>
+	<width>401</width>
+	<height>398</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>19</xmin>
+		<ymin>142</ymin>
+		<xmax>366</xmax>
+		<ymax>396</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>191</xmin>
+		<ymin>96</ymin>
+		<xmax>347</xmax>
+		<ymax>215</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>202</xmin>
+		<ymin>100</ymin>
+		<xmax>358</xmax>
+		<ymax>197</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>245</xmin>
+		<ymin>380</ymin>
+		<xmax>281</xmax>
+		<ymax>394</ymax>
+	</bndbox>
+</object>
+</annotation>

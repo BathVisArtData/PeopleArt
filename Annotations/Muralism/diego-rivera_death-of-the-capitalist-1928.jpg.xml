@@ -1,0 +1,178 @@
+<annotation>
+<folder>Muralism</folder>
+<style>Muralism</style>
+<filename>diego-rivera_death-of-the-capitalist-1928.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>diego-rivera</name>
+</owner>
+<size>
+	<width>239</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>291</ymin>
+		<xmax>133</xmax>
+		<ymax>500</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>4</xmin>
+		<ymin>177</ymin>
+		<xmax>91</xmax>
+		<ymax>340</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>48</xmin>
+		<ymin>181</ymin>
+		<xmax>79</xmax>
+		<ymax>399</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>26</xmin>
+		<ymin>116</ymin>
+		<xmax>78</xmax>
+		<ymax>174</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>64</xmin>
+		<ymin>72</ymin>
+		<xmax>116</xmax>
+		<ymax>382</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>110</xmin>
+		<ymin>98</ymin>
+		<xmax>138</xmax>
+		<ymax>144</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>167</xmin>
+		<ymin>106</ymin>
+		<xmax>209</xmax>
+		<ymax>145</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>204</xmin>
+		<ymin>119</ymin>
+		<xmax>224</xmax>
+		<ymax>174</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>119</xmin>
+		<ymin>75</ymin>
+		<xmax>208</xmax>
+		<ymax>191</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>196</xmin>
+		<ymin>172</ymin>
+		<xmax>231</xmax>
+		<ymax>459</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>176</xmin>
+		<ymin>186</ymin>
+		<xmax>225</xmax>
+		<ymax>323</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>79</xmin>
+		<ymin>190</ymin>
+		<xmax>175</xmax>
+		<ymax>489</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>90</xmin>
+		<ymin>185</ymin>
+		<xmax>217</xmax>
+		<ymax>500</ymax>
+	</bndbox>
+</object>
+</annotation>

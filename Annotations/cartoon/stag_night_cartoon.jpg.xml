@@ -1,0 +1,94 @@
+<annotation>
+<folder>cartoon</folder>
+<style>cartoon</style>
+<filename>stag_night_cartoon.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>googleimage</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>unknown</name>
+</owner>
+<size>
+	<width>475</width>
+	<height>369</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>34</xmin>
+		<ymin>129</ymin>
+		<xmax>97</xmax>
+		<ymax>316</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>393</xmin>
+		<ymin>112</ymin>
+		<xmax>463</xmax>
+		<ymax>293</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>114</xmin>
+		<ymin>145</ymin>
+		<xmax>172</xmax>
+		<ymax>210</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>160</xmin>
+		<ymin>135</ymin>
+		<xmax>210</xmax>
+		<ymax>205</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>224</xmin>
+		<ymin>146</ymin>
+		<xmax>270</xmax>
+		<ymax>203</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>275</xmin>
+		<ymin>142</ymin>
+		<xmax>334</xmax>
+		<ymax>210</ymax>
+	</bndbox>
+</object>
+</annotation>

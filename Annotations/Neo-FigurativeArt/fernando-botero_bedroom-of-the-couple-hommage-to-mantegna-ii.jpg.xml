@@ -1,0 +1,94 @@
+<annotation>
+<folder>Neo-FigurativeArt</folder>
+<style>Neo-FigurativeArt</style>
+<filename>fernando-botero_bedroom-of-the-couple-hommage-to-mantegna-ii.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>fernando-botero</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>446</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>17</xmin>
+		<ymin>74</ymin>
+		<xmax>166</xmax>
+		<ymax>326</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>112</xmin>
+		<ymin>246</ymin>
+		<xmax>222</xmax>
+		<ymax>438</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>180</xmin>
+		<ymin>37</ymin>
+		<xmax>360</xmax>
+		<ymax>201</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>190</xmin>
+		<ymin>142</ymin>
+		<xmax>377</xmax>
+		<ymax>433</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>361</xmin>
+		<ymin>28</ymin>
+		<xmax>494</xmax>
+		<ymax>406</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>364</xmin>
+		<ymin>271</ymin>
+		<xmax>471</xmax>
+		<ymax>437</ymax>
+	</bndbox>
+</object>
+</annotation>

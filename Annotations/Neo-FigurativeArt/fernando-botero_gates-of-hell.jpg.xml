@@ -1,0 +1,106 @@
+<annotation>
+<folder>Neo-FigurativeArt</folder>
+<style>Neo-FigurativeArt</style>
+<filename>fernando-botero_gates-of-hell.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>fernando-botero</name>
+</owner>
+<size>
+	<width>346</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>125</xmin>
+		<ymin>365</ymin>
+		<xmax>219</xmax>
+		<ymax>492</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>116</xmin>
+		<ymin>282</ymin>
+		<xmax>232</xmax>
+		<ymax>408</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>143</xmin>
+		<ymin>179</ymin>
+		<xmax>278</xmax>
+		<ymax>285</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>76</xmin>
+		<ymin>401</ymin>
+		<xmax>97</xmax>
+		<ymax>422</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>243</xmin>
+		<ymin>432</ymin>
+		<xmax>264</xmax>
+		<ymax>446</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>122</xmin>
+		<ymin>473</ymin>
+		<xmax>144</xmax>
+		<ymax>491</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>200</xmin>
+		<ymin>474</ymin>
+		<xmax>218</xmax>
+		<ymax>488</ymax>
+	</bndbox>
+</object>
+</annotation>

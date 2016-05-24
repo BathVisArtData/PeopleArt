@@ -1,0 +1,70 @@
+<annotation>
+<folder>Rococo</folder>
+<style>Rococo</style>
+<filename>giovanni-battista-tiepolo_the-flight-to-egypt.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>giovanni-battista-tiepolo</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>334</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>264</xmin>
+		<ymin>68</ymin>
+		<xmax>449</xmax>
+		<ymax>227</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>275</xmin>
+		<ymin>189</ymin>
+		<xmax>345</xmax>
+		<ymax>302</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>154</xmin>
+		<ymin>156</ymin>
+		<xmax>225</xmax>
+		<ymax>248</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>98</xmin>
+		<ymin>101</ymin>
+		<xmax>181</xmax>
+		<ymax>267</ymax>
+	</bndbox>
+</object>
+</annotation>

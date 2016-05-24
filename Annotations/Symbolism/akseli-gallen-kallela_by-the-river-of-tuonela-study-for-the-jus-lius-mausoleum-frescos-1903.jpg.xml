@@ -1,0 +1,118 @@
+<annotation>
+<folder>Symbolism</folder>
+<style>Symbolism</style>
+<filename>akseli-gallen-kallela_by-the-river-of-tuonela-study-for-the-jus-lius-mausoleum-frescos-1903.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>akseli-gallen-kallela</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>260</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>6</xmin>
+		<ymin>175</ymin>
+		<xmax>96</xmax>
+		<ymax>258</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>90</xmin>
+		<ymin>50</ymin>
+		<xmax>291</xmax>
+		<ymax>260</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>376</xmin>
+		<ymin>50</ymin>
+		<xmax>451</xmax>
+		<ymax>255</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>302</xmin>
+		<ymin>4</ymin>
+		<xmax>368</xmax>
+		<ymax>137</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>342</xmin>
+		<ymin>39</ymin>
+		<xmax>402</xmax>
+		<ymax>194</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>400</xmin>
+		<ymin>11</ymin>
+		<xmax>459</xmax>
+		<ymax>106</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>447</xmin>
+		<ymin>1</ymin>
+		<xmax>487</xmax>
+		<ymax>39</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>460</xmin>
+		<ymin>1</ymin>
+		<xmax>500</xmax>
+		<ymax>257</ymax>
+	</bndbox>
+</object>
+</annotation>

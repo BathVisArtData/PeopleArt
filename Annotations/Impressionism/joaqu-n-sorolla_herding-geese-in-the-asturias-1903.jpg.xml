@@ -1,0 +1,34 @@
+<annotation>
+<folder>Impressionism</folder>
+<style>Impressionism</style>
+<filename>joaqu-n-sorolla_herding-geese-in-the-asturias-1903.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>joaqu-n-sorolla</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>337</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>258</xmin>
+		<ymin>13</ymin>
+		<xmax>347</xmax>
+		<ymax>142</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,34 @@
+<annotation>
+<folder>Synthetism</folder>
+<style>Synthetism</style>
+<filename>paul-gauguin_the-beautiful-angel-madame-angele-satre-the-innkeeper-at-pont-aven-1889.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>paul-gauguin</name>
+</owner>
+<size>
+	<width>390</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>164</xmin>
+		<ymin>114</ymin>
+		<xmax>385</xmax>
+		<ymax>499</ymax>
+	</bndbox>
+</object>
+</annotation>

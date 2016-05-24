@@ -1,0 +1,58 @@
+<annotation>
+<folder>Neo-baroque</folder>
+<style>Neo-baroque</style>
+<filename>giorgio-de-chirico_landscape-with-divinity.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>giorgio-de-chirico</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>392</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>64</xmin>
+		<ymin>23</ymin>
+		<xmax>177</xmax>
+		<ymax>95</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>313</xmin>
+		<ymin>286</ymin>
+		<xmax>338</xmax>
+		<ymax>336</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>332</xmin>
+		<ymin>292</ymin>
+		<xmax>355</xmax>
+		<ymax>335</ymax>
+	</bndbox>
+</object>
+</annotation>

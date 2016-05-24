@@ -1,0 +1,58 @@
+<annotation>
+<folder>Impressionism</folder>
+<style>Impressionism</style>
+<filename>william-merritt-chase_shinnecock-landscape.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>william-merritt-chase</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>334</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>285</xmin>
+		<ymin>178</ymin>
+		<xmax>314</xmax>
+		<ymax>228</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>331</xmin>
+		<ymin>190</ymin>
+		<xmax>367</xmax>
+		<ymax>241</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>102</xmin>
+		<ymin>172</ymin>
+		<xmax>121</xmax>
+		<ymax>199</ymax>
+	</bndbox>
+</object>
+</annotation>

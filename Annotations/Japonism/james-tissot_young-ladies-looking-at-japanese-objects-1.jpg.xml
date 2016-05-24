@@ -1,0 +1,70 @@
+<annotation>
+<folder>Japonism</folder>
+<style>Japonism</style>
+<filename>james-tissot_young-ladies-looking-at-japanese-objects-1.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>james-tissot</name>
+</owner>
+<size>
+	<width>351</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>124</xmin>
+		<ymin>109</ymin>
+		<xmax>300</xmax>
+		<ymax>432</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>71</xmin>
+		<ymin>91</ymin>
+		<xmax>199</xmax>
+		<ymax>406</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>315</xmin>
+		<ymin>136</ymin>
+		<xmax>350</xmax>
+		<ymax>169</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>334</xmin>
+		<ymin>109</ymin>
+		<xmax>351</xmax>
+		<ymax>145</ymax>
+	</bndbox>
+</object>
+</annotation>

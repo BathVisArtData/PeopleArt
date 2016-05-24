@@ -1,0 +1,46 @@
+<annotation>
+<folder>Photorealism</folder>
+<style>Photorealism</style>
+<filename>audrey-flack_queen-1976.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>audrey-flack</name>
+</owner>
+<size>
+	<width>499</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>247</xmin>
+		<ymin>325</ymin>
+		<xmax>316</xmax>
+		<ymax>418</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>349</xmin>
+		<ymin>341</ymin>
+		<xmax>406</xmax>
+		<ymax>428</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,22 @@
+<annotation>
+<folder>Constructivism</folder>
+<style>Constructivism</style>
+<filename>janos-mattis-teutsch_blue-figure-1927.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>janos-mattis-teutsch</name>
+</owner>
+<size>
+	<width>267</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>1</difficult>
+</annotation>

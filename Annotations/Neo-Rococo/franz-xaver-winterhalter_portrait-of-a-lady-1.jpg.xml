@@ -1,0 +1,34 @@
+<annotation>
+<folder>Neo-Rococo</folder>
+<style>Neo-Rococo</style>
+<filename>franz-xaver-winterhalter_portrait-of-a-lady-1.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>franz-xaver-winterhalter</name>
+</owner>
+<size>
+	<width>367</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>34</xmin>
+		<ymin>92</ymin>
+		<xmax>358</xmax>
+		<ymax>478</ymax>
+	</bndbox>
+</object>
+</annotation>

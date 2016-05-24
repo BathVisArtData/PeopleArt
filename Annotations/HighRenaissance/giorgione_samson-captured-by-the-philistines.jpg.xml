@@ -1,0 +1,58 @@
+<annotation>
+<folder>HighRenaissance</folder>
+<style>HighRenaissance</style>
+<filename>giorgione_samson-captured-by-the-philistines.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>giorgione</name>
+</owner>
+<size>
+	<width>404</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>2</xmin>
+		<ymin>38</ymin>
+		<xmax>400</xmax>
+		<ymax>498</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>49</ymin>
+		<xmax>112</xmax>
+		<ymax>327</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>249</xmin>
+		<ymin>46</ymin>
+		<xmax>401</xmax>
+		<ymax>271</ymax>
+	</bndbox>
+</object>
+</annotation>

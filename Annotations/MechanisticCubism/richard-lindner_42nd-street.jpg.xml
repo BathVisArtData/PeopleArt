@@ -1,0 +1,70 @@
+<annotation>
+<folder>MechanisticCubism</folder>
+<style>MechanisticCubism</style>
+<filename>richard-lindner_42nd-street.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>richard-lindner</name>
+</owner>
+<size>
+	<width>433</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>30</xmin>
+		<ymin>47</ymin>
+		<xmax>222</xmax>
+		<ymax>241</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>216</xmin>
+		<ymin>42</ymin>
+		<xmax>397</xmax>
+		<ymax>249</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>335</xmin>
+		<ymin>276</ymin>
+		<xmax>433</xmax>
+		<ymax>499</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>2</xmin>
+		<ymin>282</ymin>
+		<xmax>110</xmax>
+		<ymax>499</ymax>
+	</bndbox>
+</object>
+</annotation>

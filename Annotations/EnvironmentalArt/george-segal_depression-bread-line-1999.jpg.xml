@@ -1,0 +1,82 @@
+<annotation>
+<folder>EnvironmentalArt</folder>
+<style>EnvironmentalArt</style>
+<filename>george-segal_depression-bread-line-1999.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>george-segal</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>375</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>68</ymin>
+		<xmax>89</xmax>
+		<ymax>325</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>75</xmin>
+		<ymin>70</ymin>
+		<xmax>159</xmax>
+		<ymax>344</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>139</xmin>
+		<ymin>43</ymin>
+		<xmax>225</xmax>
+		<ymax>351</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>239</xmin>
+		<ymin>52</ymin>
+		<xmax>327</xmax>
+		<ymax>361</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>345</xmin>
+		<ymin>62</ymin>
+		<xmax>429</xmax>
+		<ymax>375</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,46 @@
+<annotation>
+<folder>Muralism</folder>
+<style>Muralism</style>
+<filename>vela-zanetti_the-age-1990.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>vela-zanetti</name>
+</owner>
+<size>
+	<width>425</width>
+	<height>347</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>16</xmin>
+		<ymin>201</ymin>
+		<xmax>85</xmax>
+		<ymax>322</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>119</xmin>
+		<ymin>1</ymin>
+		<xmax>422</xmax>
+		<ymax>344</ymax>
+	</bndbox>
+</object>
+</annotation>

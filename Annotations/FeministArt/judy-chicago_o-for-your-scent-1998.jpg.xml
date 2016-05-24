@@ -1,0 +1,46 @@
+<annotation>
+<folder>FeministArt</folder>
+<style>FeministArt</style>
+<filename>judy-chicago_o-for-your-scent-1998.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>judy-chicago</name>
+</owner>
+<size>
+	<width>437</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>186</xmin>
+		<ymin>123</ymin>
+		<xmax>297</xmax>
+		<ymax>258</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>118</xmin>
+		<ymin>199</ymin>
+		<xmax>247</xmax>
+		<ymax>310</ymax>
+	</bndbox>
+</object>
+</annotation>

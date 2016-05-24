@@ -1,0 +1,58 @@
+<annotation>
+<folder>PopArt</folder>
+<style>PopArt</style>
+<filename>hiro-yamagata_diving.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>hiro-yamagata</name>
+</owner>
+<size>
+	<width>300</width>
+	<height>224</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>18</xmin>
+		<ymin>14</ymin>
+		<xmax>81</xmax>
+		<ymax>156</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>111</xmin>
+		<ymin>20</ymin>
+		<xmax>182</xmax>
+		<ymax>158</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>206</xmin>
+		<ymin>27</ymin>
+		<xmax>287</xmax>
+		<ymax>153</ymax>
+	</bndbox>
+</object>
+</annotation>

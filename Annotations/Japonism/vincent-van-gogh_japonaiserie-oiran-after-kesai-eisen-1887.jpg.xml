@@ -1,0 +1,34 @@
+<annotation>
+<folder>Japonism</folder>
+<style>Japonism</style>
+<filename>vincent-van-gogh_japonaiserie-oiran-after-kesai-eisen-1887.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>vincent-van-gogh</name>
+</owner>
+<size>
+	<width>298</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>70</xmin>
+		<ymin>39</ymin>
+		<xmax>222</xmax>
+		<ymax>433</ymax>
+	</bndbox>
+</object>
+</annotation>

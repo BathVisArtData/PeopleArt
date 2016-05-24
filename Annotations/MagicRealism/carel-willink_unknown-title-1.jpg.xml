@@ -1,0 +1,94 @@
+<annotation>
+<folder>MagicRealism</folder>
+<style>MagicRealism</style>
+<filename>carel-willink_unknown-title-1.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>carel-willink</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>399</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>32</ymin>
+		<xmax>411</xmax>
+		<ymax>332</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>180</xmin>
+		<ymin>194</ymin>
+		<xmax>223</xmax>
+		<ymax>258</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>234</xmin>
+		<ymin>198</ymin>
+		<xmax>301</xmax>
+		<ymax>267</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>317</xmin>
+		<ymin>197</ymin>
+		<xmax>375</xmax>
+		<ymax>285</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>384</xmin>
+		<ymin>201</ymin>
+		<xmax>448</xmax>
+		<ymax>290</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>473</xmin>
+		<ymin>179</ymin>
+		<xmax>500</xmax>
+		<ymax>267</ymax>
+	</bndbox>
+</object>
+</annotation>

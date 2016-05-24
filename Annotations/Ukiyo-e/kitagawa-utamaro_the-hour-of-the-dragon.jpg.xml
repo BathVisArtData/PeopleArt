@@ -1,0 +1,46 @@
+<annotation>
+<folder>Ukiyo-e</folder>
+<style>Ukiyo-e</style>
+<filename>kitagawa-utamaro_the-hour-of-the-dragon.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>kitagawa-utamaro</name>
+</owner>
+<size>
+	<width>331</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>105</xmin>
+		<ymin>140</ymin>
+		<xmax>331</xmax>
+		<ymax>445</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>35</xmin>
+		<ymin>167</ymin>
+		<xmax>112</xmax>
+		<ymax>401</ymax>
+	</bndbox>
+</object>
+</annotation>

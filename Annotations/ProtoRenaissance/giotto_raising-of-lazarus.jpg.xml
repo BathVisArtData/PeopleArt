@@ -1,0 +1,178 @@
+<annotation>
+<folder>ProtoRenaissance</folder>
+<style>ProtoRenaissance</style>
+<filename>giotto_raising-of-lazarus.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>giotto</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>468</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>16</xmin>
+		<ymin>164</ymin>
+		<xmax>78</xmax>
+		<ymax>390</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>67</xmin>
+		<ymin>152</ymin>
+		<xmax>151</xmax>
+		<ymax>378</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>35</xmin>
+		<ymin>155</ymin>
+		<xmax>75</xmax>
+		<ymax>294</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>128</xmin>
+		<ymin>327</ymin>
+		<xmax>316</xmax>
+		<ymax>447</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>153</xmin>
+		<ymin>301</ymin>
+		<xmax>315</xmax>
+		<ymax>426</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>308</xmin>
+		<ymin>333</ymin>
+		<xmax>427</xmax>
+		<ymax>450</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>441</xmin>
+		<ymin>279</ymin>
+		<xmax>487</xmax>
+		<ymax>436</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>178</xmin>
+		<ymin>173</ymin>
+		<xmax>274</xmax>
+		<ymax>348</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>271</xmin>
+		<ymin>139</ymin>
+		<xmax>352</xmax>
+		<ymax>362</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>335</xmin>
+		<ymin>149</ymin>
+		<xmax>381</xmax>
+		<ymax>349</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>382</xmin>
+		<ymin>157</ymin>
+		<xmax>460</xmax>
+		<ymax>347</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>439</xmin>
+		<ymin>151</ymin>
+		<xmax>477</xmax>
+		<ymax>292</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>186</xmin>
+		<ymin>148</ymin>
+		<xmax>258</xmax>
+		<ymax>298</ymax>
+	</bndbox>
+</object>
+</annotation>

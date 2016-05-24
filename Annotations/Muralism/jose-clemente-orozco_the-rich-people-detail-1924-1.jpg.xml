@@ -1,0 +1,82 @@
+<annotation>
+<folder>Muralism</folder>
+<style>Muralism</style>
+<filename>jose-clemente-orozco_the-rich-people-detail-1924-1.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>jose-clemente-orozco</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>375</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>2</xmin>
+		<ymin>65</ymin>
+		<xmax>86</xmax>
+		<ymax>336</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>27</xmin>
+		<ymin>60</ymin>
+		<xmax>190</xmax>
+		<ymax>339</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>171</xmin>
+		<ymin>56</ymin>
+		<xmax>330</xmax>
+		<ymax>341</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>289</xmin>
+		<ymin>57</ymin>
+		<xmax>394</xmax>
+		<ymax>301</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>401</xmin>
+		<ymin>67</ymin>
+		<xmax>500</xmax>
+		<ymax>308</ymax>
+	</bndbox>
+</object>
+</annotation>

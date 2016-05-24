@@ -1,0 +1,34 @@
+<annotation>
+<folder>Suprematism</folder>
+<style>Suprematism</style>
+<filename>kazimir-malevich_girl-with-red-flagpole-1933.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>kazimir-malevich</name>
+</owner>
+<size>
+	<width>408</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>43</xmin>
+		<ymin>23</ymin>
+		<xmax>334</xmax>
+		<ymax>498</ymax>
+	</bndbox>
+</object>
+</annotation>

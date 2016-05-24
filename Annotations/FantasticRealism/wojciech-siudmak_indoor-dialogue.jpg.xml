@@ -1,0 +1,46 @@
+<annotation>
+<folder>FantasticRealism</folder>
+<style>FantasticRealism</style>
+<filename>wojciech-siudmak_indoor-dialogue.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>wojciech-siudmak</name>
+</owner>
+<size>
+	<width>382</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>94</xmin>
+		<ymin>102</ymin>
+		<xmax>330</xmax>
+		<ymax>255</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>90</xmin>
+		<ymin>263</ymin>
+		<xmax>335</xmax>
+		<ymax>420</ymax>
+	</bndbox>
+</object>
+</annotation>

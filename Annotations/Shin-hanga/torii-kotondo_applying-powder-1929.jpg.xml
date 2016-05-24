@@ -1,0 +1,34 @@
+<annotation>
+<folder>Shin-hanga</folder>
+<style>Shin-hanga</style>
+<filename>torii-kotondo_applying-powder-1929.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>torii-kotondo</name>
+</owner>
+<size>
+	<width>320</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>30</xmin>
+		<ymin>81</ymin>
+		<xmax>291</xmax>
+		<ymax>487</ymax>
+	</bndbox>
+</object>
+</annotation>

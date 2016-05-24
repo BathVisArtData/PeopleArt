@@ -1,0 +1,130 @@
+<annotation>
+<folder>Muralism</folder>
+<style>Muralism</style>
+<filename>jose-clemente-orozco_the-great-mexican-revolutionary-law-and-the-freedom-of-slaves-1949.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>jose-clemente-orozco</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>375</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>130</xmin>
+		<ymin>9</ymin>
+		<xmax>317</xmax>
+		<ymax>234</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>247</ymin>
+		<xmax>92</xmax>
+		<ymax>345</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>227</xmin>
+		<ymin>232</ymin>
+		<xmax>289</xmax>
+		<ymax>343</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>144</xmin>
+		<ymin>236</ymin>
+		<xmax>422</xmax>
+		<ymax>341</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>370</xmin>
+		<ymin>248</ymin>
+		<xmax>486</xmax>
+		<ymax>341</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>440</xmin>
+		<ymin>268</ymin>
+		<xmax>499</xmax>
+		<ymax>344</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>1</ymin>
+		<xmax>148</xmax>
+		<ymax>247</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>257</xmin>
+		<ymin>18</ymin>
+		<xmax>467</xmax>
+		<ymax>160</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>295</xmin>
+		<ymin>75</ymin>
+		<xmax>498</xmax>
+		<ymax>226</ymax>
+	</bndbox>
+</object>
+</annotation>

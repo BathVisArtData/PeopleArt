@@ -1,0 +1,46 @@
+<annotation>
+<folder>Symbolism</folder>
+<style>Symbolism</style>
+<filename>felicien-rops_human-pardon-1881.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>felicien-rops</name>
+</owner>
+<size>
+	<width>334</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>4</xmin>
+		<ymin>90</ymin>
+		<xmax>88</xmax>
+		<ymax>392</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>173</xmin>
+		<ymin>67</ymin>
+		<xmax>286</xmax>
+		<ymax>484</ymax>
+	</bndbox>
+</object>
+</annotation>

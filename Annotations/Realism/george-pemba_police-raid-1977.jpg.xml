@@ -1,0 +1,82 @@
+<annotation>
+<folder>Realism</folder>
+<style>Realism</style>
+<filename>george-pemba_police-raid-1977.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>george-pemba</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>330</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>367</xmin>
+		<ymin>21</ymin>
+		<xmax>494</xmax>
+		<ymax>330</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>337</xmin>
+		<ymin>46</ymin>
+		<xmax>395</xmax>
+		<ymax>254</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>270</xmin>
+		<ymin>35</ymin>
+		<xmax>358</xmax>
+		<ymax>279</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>199</xmin>
+		<ymin>14</ymin>
+		<xmax>281</xmax>
+		<ymax>214</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>138</xmin>
+		<ymin>41</ymin>
+		<xmax>226</xmax>
+		<ymax>225</ymax>
+	</bndbox>
+</object>
+</annotation>

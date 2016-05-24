@@ -1,0 +1,46 @@
+<annotation>
+<folder>Naturalism</folder>
+<style>Naturalism</style>
+<filename>jose-malhoa_um-compasso-dif-cil-li-o-de-violino-1895.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>jose-malhoa</name>
+</owner>
+<size>
+	<width>424</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>106</xmin>
+		<ymin>170</ymin>
+		<xmax>305</xmax>
+		<ymax>445</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>189</xmin>
+		<ymin>109</ymin>
+		<xmax>350</xmax>
+		<ymax>428</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,46 @@
+<annotation>
+<folder>Neo-baroque</folder>
+<style>Neo-baroque</style>
+<filename>yiannis-tsaroychis_dominic.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>yiannis-tsaroychis</name>
+</owner>
+<size>
+	<width>360</width>
+	<height>180</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>46</xmin>
+		<ymin>44</ymin>
+		<xmax>170</xmax>
+		<ymax>179</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>226</xmin>
+		<ymin>6</ymin>
+		<xmax>342</xmax>
+		<ymax>172</ymax>
+	</bndbox>
+</object>
+</annotation>

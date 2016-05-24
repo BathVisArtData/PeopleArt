@@ -1,0 +1,58 @@
+<annotation>
+<folder>Suprematism</folder>
+<style>Suprematism</style>
+<filename>kazimir-malevich_three-heads.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>kazimir-malevich</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>304</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>16</xmin>
+		<ymin>27</ymin>
+		<xmax>183</xmax>
+		<ymax>279</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>177</xmin>
+		<ymin>23</ymin>
+		<xmax>322</xmax>
+		<ymax>281</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>310</xmin>
+		<ymin>35</ymin>
+		<xmax>480</xmax>
+		<ymax>294</ymax>
+	</bndbox>
+</object>
+</annotation>

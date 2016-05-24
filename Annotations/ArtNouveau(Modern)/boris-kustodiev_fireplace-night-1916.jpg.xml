@@ -1,0 +1,46 @@
+<annotation>
+<folder>ArtNouveau(Modern)</folder>
+<style>ArtNouveau(Modern)</style>
+<filename>boris-kustodiev_fireplace-night-1916.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>boris-kustodiev</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>398</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>314</xmin>
+		<ymin>276</ymin>
+		<xmax>374</xmax>
+		<ymax>350</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>419</xmin>
+		<ymin>298</ymin>
+		<xmax>481</xmax>
+		<ymax>352</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,82 @@
+<annotation>
+<folder>MagicRealism</folder>
+<style>MagicRealism</style>
+<filename>jean-helion_the-big-daily-read-grande-journalerie-1950.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>jean-helion</name>
+</owner>
+<size>
+	<width>435</width>
+	<height>288</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>33</xmin>
+		<ymin>73</ymin>
+		<xmax>138</xmax>
+		<ymax>284</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>111</xmin>
+		<ymin>60</ymin>
+		<xmax>168</xmax>
+		<ymax>128</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>142</xmin>
+		<ymin>67</ymin>
+		<xmax>244</xmax>
+		<ymax>284</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>226</xmin>
+		<ymin>67</ymin>
+		<xmax>282</xmax>
+		<ymax>184</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>265</xmin>
+		<ymin>60</ymin>
+		<xmax>383</xmax>
+		<ymax>271</ymax>
+	</bndbox>
+</object>
+</annotation>

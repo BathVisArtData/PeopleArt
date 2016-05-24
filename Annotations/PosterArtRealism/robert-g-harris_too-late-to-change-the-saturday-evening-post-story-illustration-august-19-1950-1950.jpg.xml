@@ -1,0 +1,46 @@
+<annotation>
+<folder>PosterArtRealism</folder>
+<style>PosterArtRealism</style>
+<filename>robert-g-harris_too-late-to-change-the-saturday-evening-post-story-illustration-august-19-1950-1950.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>robert-g-harris</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>367</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>107</xmin>
+		<ymin>3</ymin>
+		<xmax>498</xmax>
+		<ymax>367</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>82</ymin>
+		<xmax>171</xmax>
+		<ymax>363</ymax>
+	</bndbox>
+</object>
+</annotation>

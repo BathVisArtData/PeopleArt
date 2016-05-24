@@ -1,0 +1,166 @@
+<annotation>
+<folder>Academicism</folder>
+<style>Academicism</style>
+<filename>jean-leon-gerome_eminence-grise-fran-ois-leclerc-du-tremblay.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>jean-leon-gerome</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>336</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>82</xmin>
+		<ymin>181</ymin>
+		<xmax>132</xmax>
+		<ymax>288</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>147</xmin>
+		<ymin>197</ymin>
+		<xmax>204</xmax>
+		<ymax>318</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>190</xmin>
+		<ymin>199</ymin>
+		<xmax>248</xmax>
+		<ymax>321</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>233</xmin>
+		<ymin>168</ymin>
+		<xmax>257</xmax>
+		<ymax>200</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>242</xmin>
+		<ymin>180</ymin>
+		<xmax>296</xmax>
+		<ymax>303</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>287</xmin>
+		<ymin>157</ymin>
+		<xmax>326</xmax>
+		<ymax>228</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>307</xmin>
+		<ymin>145</ymin>
+		<xmax>346</xmax>
+		<ymax>224</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>260</xmin>
+		<ymin>149</ymin>
+		<xmax>313</xmax>
+		<ymax>224</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>388</xmin>
+		<ymin>125</ymin>
+		<xmax>433</xmax>
+		<ymax>225</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>138</xmin>
+		<ymin>60</ymin>
+		<xmax>170</xmax>
+		<ymax>149</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>186</xmin>
+		<ymin>97</ymin>
+		<xmax>216</xmax>
+		<ymax>185</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>205</xmin>
+		<ymin>92</ymin>
+		<xmax>233</xmax>
+		<ymax>160</ymax>
+	</bndbox>
+</object>
+</annotation>

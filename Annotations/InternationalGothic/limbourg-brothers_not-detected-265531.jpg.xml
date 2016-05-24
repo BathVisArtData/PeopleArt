@@ -1,0 +1,58 @@
+<annotation>
+<folder>InternationalGothic</folder>
+<style>InternationalGothic</style>
+<filename>limbourg-brothers_not-detected-265531.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>limbourg-brothers</name>
+</owner>
+<size>
+	<width>423</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>121</ymin>
+		<xmax>87</xmax>
+		<ymax>391</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>134</xmin>
+		<ymin>112</ymin>
+		<xmax>292</xmax>
+		<ymax>497</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>334</xmin>
+		<ymin>127</ymin>
+		<xmax>423</xmax>
+		<ymax>415</ymax>
+	</bndbox>
+</object>
+</annotation>

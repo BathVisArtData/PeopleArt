@@ -1,0 +1,82 @@
+<annotation>
+<folder>Neo-baroque</folder>
+<style>Neo-baroque</style>
+<filename>giorgio-de-chirico_christ-and-the-storm-1914.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>giorgio-de-chirico</name>
+</owner>
+<size>
+	<width>444</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>112</xmin>
+		<ymin>224</ymin>
+		<xmax>242</xmax>
+		<ymax>379</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>129</xmin>
+		<ymin>128</ymin>
+		<xmax>302</xmax>
+		<ymax>279</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>194</xmin>
+		<ymin>211</ymin>
+		<xmax>360</xmax>
+		<ymax>344</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>302</xmin>
+		<ymin>111</ymin>
+		<xmax>385</xmax>
+		<ymax>266</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>369</xmin>
+		<ymin>125</ymin>
+		<xmax>442</xmax>
+		<ymax>343</ymax>
+	</bndbox>
+</object>
+</annotation>

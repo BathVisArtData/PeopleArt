@@ -1,0 +1,34 @@
+<annotation>
+<folder>ArtNouveau(Modern)</folder>
+<style>ArtNouveau(Modern)</style>
+<filename>henri-de-toulouse-lautrec_they-woman-with-a-tub-1896.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>henri-de-toulouse-lautrec</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>383</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>103</xmin>
+		<ymin>80</ymin>
+		<xmax>347</xmax>
+		<ymax>340</ymax>
+	</bndbox>
+</object>
+</annotation>

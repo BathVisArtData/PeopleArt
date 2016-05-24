@@ -1,0 +1,130 @@
+<annotation>
+<folder>SocialistRealism</folder>
+<style>SocialistRealism</style>
+<filename>jules-perahim_the-argument-1958.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>jules-perahim</name>
+</owner>
+<size>
+	<width>439</width>
+	<height>311</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>11</xmin>
+		<ymin>37</ymin>
+		<xmax>151</xmax>
+		<ymax>305</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>155</xmin>
+		<ymin>25</ymin>
+		<xmax>289</xmax>
+		<ymax>310</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>281</xmin>
+		<ymin>144</ymin>
+		<xmax>345</xmax>
+		<ymax>310</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>253</xmin>
+		<ymin>115</ymin>
+		<xmax>329</xmax>
+		<ymax>269</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>336</xmin>
+		<ymin>83</ymin>
+		<xmax>388</xmax>
+		<ymax>245</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>366</xmin>
+		<ymin>77</ymin>
+		<xmax>414</xmax>
+		<ymax>236</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>366</xmin>
+		<ymin>231</ymin>
+		<xmax>425</xmax>
+		<ymax>311</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>401</xmin>
+		<ymin>80</ymin>
+		<xmax>439</xmax>
+		<ymax>227</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>402</xmin>
+		<ymin>37</ymin>
+		<xmax>439</xmax>
+		<ymax>117</ymax>
+	</bndbox>
+</object>
+</annotation>

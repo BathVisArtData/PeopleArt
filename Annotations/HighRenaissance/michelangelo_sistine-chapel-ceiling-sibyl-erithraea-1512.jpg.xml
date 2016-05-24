@@ -1,0 +1,82 @@
+<annotation>
+<folder>HighRenaissance</folder>
+<style>HighRenaissance</style>
+<filename>michelangelo_sistine-chapel-ceiling-sibyl-erithraea-1512.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>michelangelo</name>
+</owner>
+<size>
+	<width>340</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>3</xmin>
+		<ymin>1</ymin>
+		<xmax>53</xmax>
+		<ymax>126</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>49</xmin>
+		<ymin>26</ymin>
+		<xmax>272</xmax>
+		<ymax>347</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>183</xmin>
+		<ymin>16</ymin>
+		<xmax>272</xmax>
+		<ymax>77</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>292</xmin>
+		<ymin>1</ymin>
+		<xmax>340</xmax>
+		<ymax>131</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>133</xmin>
+		<ymin>434</ymin>
+		<xmax>214</xmax>
+		<ymax>500</ymax>
+	</bndbox>
+</object>
+</annotation>

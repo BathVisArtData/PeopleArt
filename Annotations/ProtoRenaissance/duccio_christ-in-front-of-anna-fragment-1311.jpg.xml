@@ -1,0 +1,106 @@
+<annotation>
+<folder>ProtoRenaissance</folder>
+<style>ProtoRenaissance</style>
+<filename>duccio_christ-in-front-of-anna-fragment-1311.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>duccio</name>
+</owner>
+<size>
+	<width>446</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>60</ymin>
+		<xmax>99</xmax>
+		<ymax>487</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>63</xmin>
+		<ymin>116</ymin>
+		<xmax>259</xmax>
+		<ymax>497</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>217</xmin>
+		<ymin>54</ymin>
+		<xmax>326</xmax>
+		<ymax>500</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>223</xmin>
+		<ymin>3</ymin>
+		<xmax>421</xmax>
+		<ymax>500</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>382</xmin>
+		<ymin>56</ymin>
+		<xmax>446</xmax>
+		<ymax>497</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>281</xmin>
+		<ymin>24</ymin>
+		<xmax>343</xmax>
+		<ymax>130</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>365</xmin>
+		<ymin>43</ymin>
+		<xmax>414</xmax>
+		<ymax>133</ymax>
+	</bndbox>
+</object>
+</annotation>

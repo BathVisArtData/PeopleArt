@@ -1,0 +1,46 @@
+<annotation>
+<folder>Synthetism</folder>
+<style>Synthetism</style>
+<filename>paul-serusier_scene.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>paul-serusier</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>248</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>9</xmin>
+		<ymin>38</ymin>
+		<xmax>193</xmax>
+		<ymax>248</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>190</xmin>
+		<ymin>3</ymin>
+		<xmax>496</xmax>
+		<ymax>248</ymax>
+	</bndbox>
+</object>
+</annotation>

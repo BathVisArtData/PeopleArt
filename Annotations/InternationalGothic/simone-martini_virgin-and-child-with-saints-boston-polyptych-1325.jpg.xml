@@ -1,0 +1,154 @@
+<annotation>
+<folder>InternationalGothic</folder>
+<style>InternationalGothic</style>
+<filename>simone-martini_virgin-and-child-with-saints-boston-polyptych-1325.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>simone-martini</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>298</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>20</xmin>
+		<ymin>153</ymin>
+		<xmax>87</xmax>
+		<ymax>269</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>111</xmin>
+		<ymin>155</ymin>
+		<xmax>179</xmax>
+		<ymax>271</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>205</xmin>
+		<ymin>136</ymin>
+		<xmax>302</xmax>
+		<ymax>272</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>239</xmin>
+		<ymin>161</ymin>
+		<xmax>293</xmax>
+		<ymax>248</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>322</xmin>
+		<ymin>153</ymin>
+		<xmax>393</xmax>
+		<ymax>273</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>418</xmin>
+		<ymin>151</ymin>
+		<xmax>482</xmax>
+		<ymax>268</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>233</xmin>
+		<ymin>42</ymin>
+		<xmax>272</xmax>
+		<ymax>99</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>347</xmin>
+		<ymin>76</ymin>
+		<xmax>377</xmax>
+		<ymax>114</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Unspecified</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>433</xmin>
+		<ymin>78</ymin>
+		<xmax>465</xmax>
+		<ymax>118</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>129</xmin>
+		<ymin>73</ymin>
+		<xmax>158</xmax>
+		<ymax>118</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>39</xmin>
+		<ymin>81</ymin>
+		<xmax>76</xmax>
+		<ymax>123</ymax>
+	</bndbox>
+</object>
+</annotation>

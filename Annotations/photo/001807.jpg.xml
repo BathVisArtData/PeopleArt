@@ -1,0 +1,58 @@
+<annotation>
+<folder>photo</folder>
+<style>photo</style>
+<filename>001807.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>PASCAL VOC2007</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>unknown</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>333</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>331</xmin>
+		<ymin>102</ymin>
+		<xmax>363</xmax>
+		<ymax>197</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>240</xmin>
+		<ymin>103</ymin>
+		<xmax>271</xmax>
+		<ymax>186</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>116</xmin>
+		<ymin>83</ymin>
+		<xmax>145</xmax>
+		<ymax>166</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,34 @@
+<annotation>
+<folder>Synthetism</folder>
+<style>Synthetism</style>
+<filename>emile-bernard_young-woman-in-kimono-reading-1887.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>emile-bernard</name>
+</owner>
+<size>
+	<width>475</width>
+	<height>380</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>10</xmin>
+		<ymin>31</ymin>
+		<xmax>274</xmax>
+		<ymax>351</ymax>
+	</bndbox>
+</object>
+</annotation>

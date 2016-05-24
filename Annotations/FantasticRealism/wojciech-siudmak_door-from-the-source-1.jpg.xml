@@ -1,0 +1,82 @@
+<annotation>
+<folder>FantasticRealism</folder>
+<style>FantasticRealism</style>
+<filename>wojciech-siudmak_door-from-the-source-1.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>wojciech-siudmak</name>
+</owner>
+<size>
+	<width>379</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>145</xmin>
+		<ymin>113</ymin>
+		<xmax>224</xmax>
+		<ymax>283</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>286</xmin>
+		<ymin>245</ymin>
+		<xmax>313</xmax>
+		<ymax>341</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>307</xmin>
+		<ymin>247</ymin>
+		<xmax>329</xmax>
+		<ymax>342</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>326</xmin>
+		<ymin>245</ymin>
+		<xmax>336</xmax>
+		<ymax>286</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>333</xmin>
+		<ymin>239</ymin>
+		<xmax>360</xmax>
+		<ymax>358</ymax>
+	</bndbox>
+</object>
+</annotation>

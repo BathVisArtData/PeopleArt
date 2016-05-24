@@ -1,0 +1,46 @@
+<annotation>
+<folder>ArtDeco</folder>
+<style>ArtDeco</style>
+<filename>erte_the-kiss.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>erte</name>
+</owner>
+<size>
+	<width>405</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>175</xmin>
+		<ymin>53</ymin>
+		<xmax>318</xmax>
+		<ymax>492</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>271</xmin>
+		<ymin>34</ymin>
+		<xmax>325</xmax>
+		<ymax>82</ymax>
+	</bndbox>
+</object>
+</annotation>

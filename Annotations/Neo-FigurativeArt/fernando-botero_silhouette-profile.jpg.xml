@@ -1,0 +1,34 @@
+<annotation>
+<folder>Neo-FigurativeArt</folder>
+<style>Neo-FigurativeArt</style>
+<filename>fernando-botero_silhouette-profile.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>fernando-botero</name>
+</owner>
+<size>
+	<width>349</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>25</xmin>
+		<ymin>21</ymin>
+		<xmax>346</xmax>
+		<ymax>500</ymax>
+	</bndbox>
+</object>
+</annotation>

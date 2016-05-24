@@ -1,0 +1,70 @@
+<annotation>
+<folder>cartoon</folder>
+<style>cartoon</style>
+<filename>011.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>googleimage</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>unknown</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>400</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>203</xmin>
+		<ymin>152</ymin>
+		<xmax>280</xmax>
+		<ymax>324</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>278</xmin>
+		<ymin>200</ymin>
+		<xmax>330</xmax>
+		<ymax>304</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>326</xmin>
+		<ymin>223</ymin>
+		<xmax>381</xmax>
+		<ymax>291</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>365</xmin>
+		<ymin>154</ymin>
+		<xmax>439</xmax>
+		<ymax>319</ymax>
+	</bndbox>
+</object>
+</annotation>

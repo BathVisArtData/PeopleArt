@@ -1,0 +1,46 @@
+<annotation>
+<folder>cartoon</folder>
+<style>cartoon</style>
+<filename>free_islamic_cartoon_screensaver-567782.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>googleimage</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>unknown</name>
+</owner>
+<size>
+	<width>458</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>6</xmin>
+		<ymin>3</ymin>
+		<xmax>276</xmax>
+		<ymax>500</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>184</xmin>
+		<ymin>13</ymin>
+		<xmax>446</xmax>
+		<ymax>500</ymax>
+	</bndbox>
+</object>
+</annotation>

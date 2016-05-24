@@ -1,0 +1,70 @@
+<annotation>
+<folder>MechanisticCubism</folder>
+<style>MechanisticCubism</style>
+<filename>richard-lindner_three-und.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>richard-lindner</name>
+</owner>
+<size>
+	<width>416</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>92</xmin>
+		<ymin>35</ymin>
+		<xmax>325</xmax>
+		<ymax>322</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>39</xmin>
+		<ymin>349</ymin>
+		<xmax>134</xmax>
+		<ymax>453</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>141</xmin>
+		<ymin>356</ymin>
+		<xmax>271</xmax>
+		<ymax>455</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>296</xmin>
+		<ymin>355</ymin>
+		<xmax>385</xmax>
+		<ymax>452</ymax>
+	</bndbox>
+</object>
+</annotation>

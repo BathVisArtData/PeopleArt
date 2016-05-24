@@ -1,0 +1,46 @@
+<annotation>
+<folder>Constructivism</folder>
+<style>Constructivism</style>
+<filename>laszlo-moholy-nagy_siesta-1926.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>laszlo-moholy-nagy</name>
+</owner>
+<size>
+	<width>370</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>32</ymin>
+		<xmax>197</xmax>
+		<ymax>456</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>166</xmin>
+		<ymin>32</ymin>
+		<xmax>361</xmax>
+		<ymax>407</ymax>
+	</bndbox>
+</object>
+</annotation>

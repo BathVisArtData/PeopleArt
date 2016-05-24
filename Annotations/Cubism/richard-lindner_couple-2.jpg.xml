@@ -1,0 +1,46 @@
+<annotation>
+<folder>Cubism</folder>
+<style>Cubism</style>
+<filename>richard-lindner_couple-2.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>richard-lindner</name>
+</owner>
+<size>
+	<width>329</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>84</xmin>
+		<ymin>20</ymin>
+		<xmax>242</xmax>
+		<ymax>473</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>220</xmin>
+		<ymin>45</ymin>
+		<xmax>311</xmax>
+		<ymax>176</ymax>
+	</bndbox>
+</object>
+</annotation>

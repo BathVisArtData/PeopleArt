@@ -1,0 +1,46 @@
+<annotation>
+<folder>Japonism</folder>
+<style>Japonism</style>
+<filename>mary-cassatt_the-horse-chestnut-1896.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>mary-cassatt</name>
+</owner>
+<size>
+	<width>356</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>87</xmin>
+		<ymin>50</ymin>
+		<xmax>229</xmax>
+		<ymax>277</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>162</ymin>
+		<xmax>335</xmax>
+		<ymax>472</ymax>
+	</bndbox>
+</object>
+</annotation>

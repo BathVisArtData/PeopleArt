@@ -1,0 +1,58 @@
+<annotation>
+<folder>HighRenaissance</folder>
+<style>HighRenaissance</style>
+<filename>leonardo-da-vinci_profile-of-a-man-and-study-of-two-riders.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>leonardo-da-vinci</name>
+</owner>
+<size>
+	<width>401</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>221</xmin>
+		<ymin>104</ymin>
+		<xmax>401</xmax>
+		<ymax>485</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>133</xmin>
+		<ymin>12</ymin>
+		<xmax>275</xmax>
+		<ymax>324</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>277</ymin>
+		<xmax>142</xmax>
+		<ymax>468</ymax>
+	</bndbox>
+</object>
+</annotation>

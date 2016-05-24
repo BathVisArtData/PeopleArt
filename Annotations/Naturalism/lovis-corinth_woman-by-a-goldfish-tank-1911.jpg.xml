@@ -1,0 +1,34 @@
+<annotation>
+<folder>Naturalism</folder>
+<style>Naturalism</style>
+<filename>lovis-corinth_woman-by-a-goldfish-tank-1911.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>lovis-corinth</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>422</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>11</xmin>
+		<ymin>81</ymin>
+		<xmax>248</xmax>
+		<ymax>422</ymax>
+	</bndbox>
+</object>
+</annotation>

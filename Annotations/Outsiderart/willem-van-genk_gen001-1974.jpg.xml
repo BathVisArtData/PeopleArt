@@ -1,0 +1,46 @@
+<annotation>
+<folder>Outsiderart</folder>
+<style>Outsiderart</style>
+<filename>willem-van-genk_gen001-1974.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>willem-van-genk</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>308</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>270</xmin>
+		<ymin>52</ymin>
+		<xmax>325</xmax>
+		<ymax>218</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>356</xmin>
+		<ymin>66</ymin>
+		<xmax>417</xmax>
+		<ymax>124</ymax>
+	</bndbox>
+</object>
+</annotation>

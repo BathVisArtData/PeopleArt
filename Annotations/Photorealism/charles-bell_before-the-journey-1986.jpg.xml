@@ -1,0 +1,46 @@
+<annotation>
+<folder>Photorealism</folder>
+<style>Photorealism</style>
+<filename>charles-bell_before-the-journey-1986.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>charles-bell</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>334</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>158</xmin>
+		<ymin>7</ymin>
+		<xmax>240</xmax>
+		<ymax>237</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>305</xmin>
+		<ymin>73</ymin>
+		<xmax>437</xmax>
+		<ymax>297</ymax>
+	</bndbox>
+</object>
+</annotation>

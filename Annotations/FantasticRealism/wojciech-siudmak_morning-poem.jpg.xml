@@ -1,0 +1,82 @@
+<annotation>
+<folder>FantasticRealism</folder>
+<style>FantasticRealism</style>
+<filename>wojciech-siudmak_morning-poem.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>wojciech-siudmak</name>
+</owner>
+<size>
+	<width>375</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>139</xmin>
+		<ymin>221</ymin>
+		<xmax>230</xmax>
+		<ymax>335</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>31</xmin>
+		<ymin>38</ymin>
+		<xmax>140</xmax>
+		<ymax>157</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>134</xmin>
+		<ymin>147</ymin>
+		<xmax>248</xmax>
+		<ymax>199</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>218</xmin>
+		<ymin>21</ymin>
+		<xmax>354</xmax>
+		<ymax>89</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>165</xmin>
+		<ymin>387</ymin>
+		<xmax>177</xmax>
+		<ymax>415</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,70 @@
+<annotation>
+<folder>InternationalGothic</folder>
+<style>InternationalGothic</style>
+<filename>limbourg-brothers_psalm-xxiv.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>limbourg-brothers</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>447</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>94</xmin>
+		<ymin>116</ymin>
+		<xmax>172</xmax>
+		<ymax>253</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>122</xmin>
+		<ymin>15</ymin>
+		<xmax>143</xmax>
+		<ymax>76</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>165</xmin>
+		<ymin>28</ymin>
+		<xmax>181</xmax>
+		<ymax>88</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>201</xmin>
+		<ymin>42</ymin>
+		<xmax>216</xmax>
+		<ymax>99</ymax>
+	</bndbox>
+</object>
+</annotation>

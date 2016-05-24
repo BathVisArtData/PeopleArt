@@ -1,0 +1,70 @@
+<annotation>
+<folder>ArtNouveau(Modern)</folder>
+<style>ArtNouveau(Modern)</style>
+<filename>zinaida-serebriakova_at-breakfast-1914.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>zinaida-serebriakova</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>412</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>45</xmin>
+		<ymin>103</ymin>
+		<xmax>236</xmax>
+		<ymax>399</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>293</xmin>
+		<ymin>94</ymin>
+		<xmax>467</xmax>
+		<ymax>343</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>213</xmin>
+		<ymin>1</ymin>
+		<xmax>365</xmax>
+		<ymax>113</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>330</xmin>
+		<ymin>1</ymin>
+		<xmax>499</xmax>
+		<ymax>262</ymax>
+	</bndbox>
+</object>
+</annotation>

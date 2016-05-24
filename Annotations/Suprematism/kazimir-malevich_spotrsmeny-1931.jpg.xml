@@ -1,0 +1,70 @@
+<annotation>
+<folder>Suprematism</folder>
+<style>Suprematism</style>
+<filename>kazimir-malevich_spotrsmeny-1931.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>kazimir-malevich</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>419</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>10</xmin>
+		<ymin>22</ymin>
+		<xmax>127</xmax>
+		<ymax>411</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>132</xmin>
+		<ymin>28</ymin>
+		<xmax>243</xmax>
+		<ymax>395</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>253</xmin>
+		<ymin>26</ymin>
+		<xmax>361</xmax>
+		<ymax>395</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>368</xmin>
+		<ymin>23</ymin>
+		<xmax>480</xmax>
+		<ymax>396</ymax>
+	</bndbox>
+</object>
+</annotation>

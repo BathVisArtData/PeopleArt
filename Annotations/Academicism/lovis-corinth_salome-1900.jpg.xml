@@ -1,0 +1,106 @@
+<annotation>
+<folder>Academicism</folder>
+<style>Academicism</style>
+<filename>lovis-corinth_salome-1900.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>lovis-corinth</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>438</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>1</ymin>
+		<xmax>170</xmax>
+		<ymax>438</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>188</xmin>
+		<ymin>15</ymin>
+		<xmax>412</xmax>
+		<ymax>384</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>316</xmin>
+		<ymin>21</ymin>
+		<xmax>424</xmax>
+		<ymax>150</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>402</xmin>
+		<ymin>1</ymin>
+		<xmax>500</xmax>
+		<ymax>163</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>122</xmin>
+		<ymin>215</ymin>
+		<xmax>305</xmax>
+		<ymax>436</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>317</xmin>
+		<ymin>159</ymin>
+		<xmax>500</xmax>
+		<ymax>415</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>209</xmin>
+		<ymin>102</ymin>
+		<xmax>500</xmax>
+		<ymax>435</ymax>
+	</bndbox>
+</object>
+</annotation>

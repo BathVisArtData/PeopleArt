@@ -1,0 +1,70 @@
+<annotation>
+<folder>Biedermeier</folder>
+<style>Biedermeier</style>
+<filename>ferdinand-georg-waldm-ller_mothers-joy-1860.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>ferdinand-georg-waldm-ller</name>
+</owner>
+<size>
+	<width>412</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>27</xmin>
+		<ymin>228</ymin>
+		<xmax>155</xmax>
+		<ymax>499</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>101</xmin>
+		<ymin>84</ymin>
+		<xmax>289</xmax>
+		<ymax>410</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>114</xmin>
+		<ymin>149</ymin>
+		<xmax>272</xmax>
+		<ymax>265</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>260</xmin>
+		<ymin>115</ymin>
+		<xmax>387</xmax>
+		<ymax>453</ymax>
+	</bndbox>
+</object>
+</annotation>

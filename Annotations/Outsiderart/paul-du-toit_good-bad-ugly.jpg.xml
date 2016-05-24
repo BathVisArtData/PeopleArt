@@ -1,0 +1,58 @@
+<annotation>
+<folder>Outsiderart</folder>
+<style>Outsiderart</style>
+<filename>paul-du-toit_good-bad-ugly.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>paul-du-toit</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>289</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>44</xmin>
+		<ymin>18</ymin>
+		<xmax>134</xmax>
+		<ymax>289</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>184</xmin>
+		<ymin>25</ymin>
+		<xmax>304</xmax>
+		<ymax>287</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>335</xmin>
+		<ymin>26</ymin>
+		<xmax>478</xmax>
+		<ymax>289</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,34 @@
+<annotation>
+<folder>Naturalism</folder>
+<style>Naturalism</style>
+<filename>richard-friese_a-horseback-ride-1900.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>richard-friese</name>
+</owner>
+<size>
+	<width>400</width>
+	<height>300</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>222</xmin>
+		<ymin>83</ymin>
+		<xmax>271</xmax>
+		<ymax>194</ymax>
+	</bndbox>
+</object>
+</annotation>

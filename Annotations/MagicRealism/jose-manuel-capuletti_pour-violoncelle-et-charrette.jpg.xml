@@ -1,0 +1,46 @@
+<annotation>
+<folder>MagicRealism</folder>
+<style>MagicRealism</style>
+<filename>jose-manuel-capuletti_pour-violoncelle-et-charrette.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>jose-manuel-capuletti</name>
+</owner>
+<size>
+	<width>400</width>
+	<height>279</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>162</xmin>
+		<ymin>178</ymin>
+		<xmax>198</xmax>
+		<ymax>238</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>327</xmin>
+		<ymin>193</ymin>
+		<xmax>350</xmax>
+		<ymax>231</ymax>
+	</bndbox>
+</object>
+</annotation>

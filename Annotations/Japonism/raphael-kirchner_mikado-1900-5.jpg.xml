@@ -1,0 +1,58 @@
+<annotation>
+<folder>Japonism</folder>
+<style>Japonism</style>
+<filename>raphael-kirchner_mikado-1900-5.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>raphael-kirchner</name>
+</owner>
+<size>
+	<width>329</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>136</xmin>
+		<ymin>150</ymin>
+		<xmax>281</xmax>
+		<ymax>415</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>82</xmin>
+		<ymin>134</ymin>
+		<xmax>218</xmax>
+		<ymax>386</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>161</xmin>
+		<ymin>51</ymin>
+		<xmax>298</xmax>
+		<ymax>205</ymax>
+	</bndbox>
+</object>
+</annotation>

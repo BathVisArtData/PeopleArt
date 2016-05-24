@@ -1,0 +1,58 @@
+<annotation>
+<folder>ArtNouveau(Modern)</folder>
+<style>ArtNouveau(Modern)</style>
+<filename>eug-ne-grasset_three-women-and-three-wolves.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>eug-ne-grasset</name>
+</owner>
+<size>
+	<width>377</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>25</xmin>
+		<ymin>128</ymin>
+		<xmax>129</xmax>
+		<ymax>284</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>74</xmin>
+		<ymin>66</ymin>
+		<xmax>376</xmax>
+		<ymax>288</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>257</xmin>
+		<ymin>19</ymin>
+		<xmax>377</xmax>
+		<ymax>197</ymax>
+	</bndbox>
+</object>
+</annotation>

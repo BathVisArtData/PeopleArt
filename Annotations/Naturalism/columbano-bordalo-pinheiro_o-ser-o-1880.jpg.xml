@@ -1,0 +1,202 @@
+<annotation>
+<folder>Naturalism</folder>
+<style>Naturalism</style>
+<filename>columbano-bordalo-pinheiro_o-ser-o-1880.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>columbano-bordalo-pinheiro</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>318</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>2</xmin>
+		<ymin>138</ymin>
+		<xmax>26</xmax>
+		<ymax>189</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>104</ymin>
+		<xmax>42</xmax>
+		<ymax>149</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>39</xmin>
+		<ymin>131</ymin>
+		<xmax>158</xmax>
+		<ymax>263</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>167</xmin>
+		<ymin>123</ymin>
+		<xmax>221</xmax>
+		<ymax>251</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>223</xmin>
+		<ymin>87</ymin>
+		<xmax>279</xmax>
+		<ymax>245</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>266</xmin>
+		<ymin>161</ymin>
+		<xmax>317</xmax>
+		<ymax>293</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>282</xmin>
+		<ymin>126</ymin>
+		<xmax>316</xmax>
+		<ymax>172</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>268</xmin>
+		<ymin>91</ymin>
+		<xmax>317</xmax>
+		<ymax>141</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>289</xmin>
+		<ymin>91</ymin>
+		<xmax>400</xmax>
+		<ymax>286</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>333</xmin>
+		<ymin>97</ymin>
+		<xmax>368</xmax>
+		<ymax>226</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>363</xmin>
+		<ymin>116</ymin>
+		<xmax>408</xmax>
+		<ymax>243</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>405</xmin>
+		<ymin>90</ymin>
+		<xmax>446</xmax>
+		<ymax>267</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>179</xmin>
+		<ymin>91</ymin>
+		<xmax>217</xmax>
+		<ymax>126</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>450</xmin>
+		<ymin>121</ymin>
+		<xmax>495</xmax>
+		<ymax>253</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>447</xmin>
+		<ymin>85</ymin>
+		<xmax>496</xmax>
+		<ymax>130</ymax>
+	</bndbox>
+</object>
+</annotation>

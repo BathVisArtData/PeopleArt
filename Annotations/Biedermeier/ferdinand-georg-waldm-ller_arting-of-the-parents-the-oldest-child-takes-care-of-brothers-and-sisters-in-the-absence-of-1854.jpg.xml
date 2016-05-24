@@ -1,0 +1,118 @@
+<annotation>
+<folder>Biedermeier</folder>
+<style>Biedermeier</style>
+<filename>ferdinand-georg-waldm-ller_arting-of-the-parents-the-oldest-child-takes-care-of-brothers-and-sisters-in-the-absence-of-1854.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>ferdinand-georg-waldm-ller</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>395</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>155</xmin>
+		<ymin>162</ymin>
+		<xmax>229</xmax>
+		<ymax>392</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>185</xmin>
+		<ymin>102</ymin>
+		<xmax>331</xmax>
+		<ymax>348</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>283</xmin>
+		<ymin>89</ymin>
+		<xmax>379</xmax>
+		<ymax>319</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>331</xmin>
+		<ymin>208</ymin>
+		<xmax>393</xmax>
+		<ymax>297</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>370</xmin>
+		<ymin>166</ymin>
+		<xmax>435</xmax>
+		<ymax>257</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>415</xmin>
+		<ymin>148</ymin>
+		<xmax>471</xmax>
+		<ymax>276</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>301</xmin>
+		<ymin>274</ymin>
+		<xmax>388</xmax>
+		<ymax>377</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>378</xmin>
+		<ymin>263</ymin>
+		<xmax>477</xmax>
+		<ymax>374</ymax>
+	</bndbox>
+</object>
+</annotation>

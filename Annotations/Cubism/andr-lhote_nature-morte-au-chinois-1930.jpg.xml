@@ -1,0 +1,34 @@
+<annotation>
+<folder>Cubism</folder>
+<style>Cubism</style>
+<filename>andr-lhote_nature-morte-au-chinois-1930.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>andr-lhote</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>369</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>279</xmin>
+		<ymin>35</ymin>
+		<xmax>401</xmax>
+		<ymax>246</ymax>
+	</bndbox>
+</object>
+</annotation>

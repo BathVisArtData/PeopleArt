@@ -1,0 +1,106 @@
+<annotation>
+<folder>Rococo</folder>
+<style>Rococo</style>
+<filename>george-morland_a-visit-to-the-boarding-school-1788.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>george-morland</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>417</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>337</xmin>
+		<ymin>153</ymin>
+		<xmax>455</xmax>
+		<ymax>380</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>280</xmin>
+		<ymin>147</ymin>
+		<xmax>383</xmax>
+		<ymax>353</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>193</xmin>
+		<ymin>88</ymin>
+		<xmax>283</xmax>
+		<ymax>348</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>115</xmin>
+		<ymin>206</ymin>
+		<xmax>206</xmax>
+		<ymax>371</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>105</xmin>
+		<ymin>135</ymin>
+		<xmax>198</xmax>
+		<ymax>362</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>67</xmin>
+		<ymin>172</ymin>
+		<xmax>116</xmax>
+		<ymax>314</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>42</xmin>
+		<ymin>172</ymin>
+		<xmax>90</xmax>
+		<ymax>332</ymax>
+	</bndbox>
+</object>
+</annotation>

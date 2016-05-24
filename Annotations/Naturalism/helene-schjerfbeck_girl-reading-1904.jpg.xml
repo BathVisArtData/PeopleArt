@@ -1,0 +1,34 @@
+<annotation>
+<folder>Naturalism</folder>
+<style>Naturalism</style>
+<filename>helene-schjerfbeck_girl-reading-1904.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>helene-schjerfbeck</name>
+</owner>
+<size>
+	<width>374</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>25</xmin>
+		<ymin>14</ymin>
+		<xmax>355</xmax>
+		<ymax>439</ymax>
+	</bndbox>
+</object>
+</annotation>

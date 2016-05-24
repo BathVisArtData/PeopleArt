@@ -1,0 +1,118 @@
+<annotation>
+<folder>cartoon</folder>
+<style>cartoon</style>
+<filename>Titanic-cartoon-movie-pic3.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>googleimage</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>unknown</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>223</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>114</xmin>
+		<ymin>8</ymin>
+		<xmax>176</xmax>
+		<ymax>223</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>173</xmin>
+		<ymin>14</ymin>
+		<xmax>257</xmax>
+		<ymax>220</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>270</xmin>
+		<ymin>13</ymin>
+		<xmax>374</xmax>
+		<ymax>213</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>383</xmin>
+		<ymin>93</ymin>
+		<xmax>485</xmax>
+		<ymax>223</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>29</xmin>
+		<ymin>95</ymin>
+		<xmax>74</xmax>
+		<ymax>219</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>74</xmin>
+		<ymin>111</ymin>
+		<xmax>113</xmax>
+		<ymax>220</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>271</xmin>
+		<ymin>133</ymin>
+		<xmax>296</xmax>
+		<ymax>223</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>72</ymin>
+		<xmax>33</xmax>
+		<ymax>223</ymax>
+	</bndbox>
+</object>
+</annotation>

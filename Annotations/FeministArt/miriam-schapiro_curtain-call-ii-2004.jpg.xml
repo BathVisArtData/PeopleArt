@@ -1,0 +1,154 @@
+<annotation>
+<folder>FeministArt</folder>
+<style>FeministArt</style>
+<filename>miriam-schapiro_curtain-call-ii-2004.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>miriam-schapiro</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>450</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>53</xmin>
+		<ymin>269</ymin>
+		<xmax>125</xmax>
+		<ymax>374</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>149</xmin>
+		<ymin>262</ymin>
+		<xmax>200</xmax>
+		<ymax>369</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>40</xmin>
+		<ymin>204</ymin>
+		<xmax>111</xmax>
+		<ymax>306</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>43</xmin>
+		<ymin>112</ymin>
+		<xmax>257</xmax>
+		<ymax>372</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>169</xmin>
+		<ymin>219</ymin>
+		<xmax>206</xmax>
+		<ymax>320</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>208</xmin>
+		<ymin>228</ymin>
+		<xmax>289</xmax>
+		<ymax>360</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>270</xmin>
+		<ymin>221</ymin>
+		<xmax>335</xmax>
+		<ymax>372</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>255</xmin>
+		<ymin>195</ymin>
+		<xmax>322</xmax>
+		<ymax>258</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>249</xmin>
+		<ymin>113</ymin>
+		<xmax>434</xmax>
+		<ymax>372</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>369</xmin>
+		<ymin>246</ymin>
+		<xmax>451</xmax>
+		<ymax>369</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>381</xmin>
+		<ymin>154</ymin>
+		<xmax>465</xmax>
+		<ymax>326</ymax>
+	</bndbox>
+</object>
+</annotation>

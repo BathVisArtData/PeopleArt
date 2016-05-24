@@ -1,0 +1,58 @@
+<annotation>
+<folder>Cubism</folder>
+<style>Cubism</style>
+<filename>fernand-leger_fishermen-1921.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>fernand-leger</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>346</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>65</xmin>
+		<ymin>133</ymin>
+		<xmax>151</xmax>
+		<ymax>323</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>149</xmin>
+		<ymin>98</ymin>
+		<xmax>306</xmax>
+		<ymax>300</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>392</xmin>
+		<ymin>91</ymin>
+		<xmax>474</xmax>
+		<ymax>314</ymax>
+	</bndbox>
+</object>
+</annotation>

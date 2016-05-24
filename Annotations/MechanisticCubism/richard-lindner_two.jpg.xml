@@ -1,0 +1,46 @@
+<annotation>
+<folder>MechanisticCubism</folder>
+<style>MechanisticCubism</style>
+<filename>richard-lindner_two.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>richard-lindner</name>
+</owner>
+<size>
+	<width>377</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>91</xmin>
+		<ymin>17</ymin>
+		<xmax>211</xmax>
+		<ymax>456</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>114</xmin>
+		<ymin>6</ymin>
+		<xmax>297</xmax>
+		<ymax>486</ymax>
+	</bndbox>
+</object>
+</annotation>

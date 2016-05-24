@@ -1,0 +1,70 @@
+<annotation>
+<folder>AnalyticalRealism</folder>
+<style>AnalyticalRealism</style>
+<filename>pavel-filonov_head-1924.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>pavel-filonov</name>
+</owner>
+<size>
+	<width>407</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>122</xmin>
+		<ymin>6</ymin>
+		<xmax>365</xmax>
+		<ymax>336</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>64</xmin>
+		<ymin>56</ymin>
+		<xmax>161</xmax>
+		<ymax>318</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>130</xmin>
+		<ymin>333</ymin>
+		<xmax>222</xmax>
+		<ymax>491</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>252</xmin>
+		<ymin>372</ymin>
+		<xmax>373</xmax>
+		<ymax>500</ymax>
+	</bndbox>
+</object>
+</annotation>

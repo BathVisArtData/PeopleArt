@@ -1,0 +1,46 @@
+<annotation>
+<folder>MechanisticCubism</folder>
+<style>MechanisticCubism</style>
+<filename>richard-lindner_coney-island-ii.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>richard-lindner</name>
+</owner>
+<size>
+	<width>356</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>154</xmin>
+		<ymin>122</ymin>
+		<xmax>340</xmax>
+		<ymax>353</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>62</xmin>
+		<ymin>56</ymin>
+		<xmax>243</xmax>
+		<ymax>436</ymax>
+	</bndbox>
+</object>
+</annotation>

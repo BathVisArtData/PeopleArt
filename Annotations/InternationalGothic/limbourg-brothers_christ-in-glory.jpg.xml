@@ -1,0 +1,94 @@
+<annotation>
+<folder>InternationalGothic</folder>
+<style>InternationalGothic</style>
+<filename>limbourg-brothers_christ-in-glory.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>limbourg-brothers</name>
+</owner>
+<size>
+	<width>356</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>22</xmin>
+		<ymin>355</ymin>
+		<xmax>224</xmax>
+		<ymax>478</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>214</xmin>
+		<ymin>292</ymin>
+		<xmax>325</xmax>
+		<ymax>480</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>106</xmin>
+		<ymin>314</ymin>
+		<xmax>184</xmax>
+		<ymax>396</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>107</xmin>
+		<ymin>15</ymin>
+		<xmax>277</xmax>
+		<ymax>277</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>11</xmin>
+		<ymin>112</ymin>
+		<xmax>99</xmax>
+		<ymax>187</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>271</xmin>
+		<ymin>115</ymin>
+		<xmax>348</xmax>
+		<ymax>214</ymax>
+	</bndbox>
+</object>
+</annotation>

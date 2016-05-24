@@ -1,0 +1,34 @@
+<annotation>
+<folder>NewEuropeanPainting</folder>
+<style>NewEuropeanPainting</style>
+<filename>bracha-l-ettinger_matrix-family-album-series-n-7-2005.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>bracha-l-ettinger</name>
+</owner>
+<size>
+	<width>331</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>210</xmin>
+		<ymin>169</ymin>
+		<xmax>294</xmax>
+		<ymax>288</ymax>
+	</bndbox>
+</object>
+</annotation>

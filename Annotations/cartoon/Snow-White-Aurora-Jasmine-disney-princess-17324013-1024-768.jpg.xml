@@ -1,0 +1,58 @@
+<annotation>
+<folder>cartoon</folder>
+<style>cartoon</style>
+<filename>Snow-White-Aurora-Jasmine-disney-princess-17324013-1024-768.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>googleimage</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>unknown</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>375</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>122</xmin>
+		<ymin>42</ymin>
+		<xmax>209</xmax>
+		<ymax>285</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>238</xmin>
+		<ymin>20</ymin>
+		<xmax>342</xmax>
+		<ymax>272</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>369</xmin>
+		<ymin>46</ymin>
+		<xmax>481</xmax>
+		<ymax>279</ymax>
+	</bndbox>
+</object>
+</annotation>

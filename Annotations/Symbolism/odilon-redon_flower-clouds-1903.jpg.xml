@@ -1,0 +1,22 @@
+<annotation>
+<folder>Symbolism</folder>
+<style>Symbolism</style>
+<filename>odilon-redon_flower-clouds-1903.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>odilon-redon</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>421</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>1</difficult>
+</annotation>

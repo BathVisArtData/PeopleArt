@@ -1,0 +1,82 @@
+<annotation>
+<folder>Naturalism</folder>
+<style>Naturalism</style>
+<filename>jose-malhoa_the-bakers-a-market-in-figueir-1898.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>jose-malhoa</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>413</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>25</xmin>
+		<ymin>137</ymin>
+		<xmax>155</xmax>
+		<ymax>254</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>111</xmin>
+		<ymin>110</ymin>
+		<xmax>201</xmax>
+		<ymax>225</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>215</xmin>
+		<ymin>137</ymin>
+		<xmax>302</xmax>
+		<ymax>212</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>305</xmin>
+		<ymin>117</ymin>
+		<xmax>382</xmax>
+		<ymax>318</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>420</xmin>
+		<ymin>195</ymin>
+		<xmax>483</xmax>
+		<ymax>330</ymax>
+	</bndbox>
+</object>
+</annotation>

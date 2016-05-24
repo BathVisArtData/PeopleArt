@@ -1,0 +1,154 @@
+<annotation>
+<folder>HighRenaissance</folder>
+<style>HighRenaissance</style>
+<filename>raphael_the-judgment-of-solomon-1519.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>raphael</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>396</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>10</xmin>
+		<ymin>25</ymin>
+		<xmax>112</xmax>
+		<ymax>332</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>25</xmin>
+		<ymin>151</ymin>
+		<xmax>93</xmax>
+		<ymax>272</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>58</xmin>
+		<ymin>128</ymin>
+		<xmax>274</xmax>
+		<ymax>376</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>139</xmin>
+		<ymin>44</ymin>
+		<xmax>321</xmax>
+		<ymax>258</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>229</xmin>
+		<ymin>310</ymin>
+		<xmax>376</xmax>
+		<ymax>378</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>311</xmin>
+		<ymin>172</ymin>
+		<xmax>499</xmax>
+		<ymax>344</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>413</xmin>
+		<ymin>68</ymin>
+		<xmax>488</xmax>
+		<ymax>303</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>303</xmin>
+		<ymin>65</ymin>
+		<xmax>390</xmax>
+		<ymax>241</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>329</xmin>
+		<ymin>63</ymin>
+		<xmax>444</xmax>
+		<ymax>239</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>378</xmin>
+		<ymin>63</ymin>
+		<xmax>403</xmax>
+		<ymax>108</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>474</xmin>
+		<ymin>67</ymin>
+		<xmax>500</xmax>
+		<ymax>156</ymax>
+	</bndbox>
+</object>
+</annotation>

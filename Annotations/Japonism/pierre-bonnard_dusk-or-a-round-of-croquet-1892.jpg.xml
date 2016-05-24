@@ -1,0 +1,106 @@
+<annotation>
+<folder>Japonism</folder>
+<style>Japonism</style>
+<filename>pierre-bonnard_dusk-or-a-round-of-croquet-1892.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>pierre-bonnard</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>402</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>6</xmin>
+		<ymin>102</ymin>
+		<xmax>75</xmax>
+		<ymax>223</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>133</xmin>
+		<ymin>97</ymin>
+		<xmax>251</xmax>
+		<ymax>358</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>245</xmin>
+		<ymin>78</ymin>
+		<xmax>350</xmax>
+		<ymax>299</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>356</xmin>
+		<ymin>88</ymin>
+		<xmax>383</xmax>
+		<ymax>163</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>376</xmin>
+		<ymin>85</ymin>
+		<xmax>412</xmax>
+		<ymax>176</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>404</xmin>
+		<ymin>89</ymin>
+		<xmax>430</xmax>
+		<ymax>155</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>416</xmin>
+		<ymin>91</ymin>
+		<xmax>498</xmax>
+		<ymax>177</ymax>
+	</bndbox>
+</object>
+</annotation>

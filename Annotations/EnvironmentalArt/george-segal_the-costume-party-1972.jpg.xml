@@ -1,0 +1,70 @@
+<annotation>
+<folder>EnvironmentalArt</folder>
+<style>EnvironmentalArt</style>
+<filename>george-segal_the-costume-party-1972.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>george-segal</name>
+</owner>
+<size>
+	<width>490</width>
+	<height>490</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>251</xmin>
+		<ymin>282</ymin>
+		<xmax>306</xmax>
+		<ymax>471</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>330</xmin>
+		<ymin>291</ymin>
+		<xmax>361</xmax>
+		<ymax>427</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>360</xmin>
+		<ymin>322</ymin>
+		<xmax>399</xmax>
+		<ymax>402</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>215</xmin>
+		<ymin>357</ymin>
+		<xmax>250</xmax>
+		<ymax>415</ymax>
+	</bndbox>
+</object>
+</annotation>

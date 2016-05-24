@@ -1,0 +1,46 @@
+<annotation>
+<folder>Synthetism</folder>
+<style>Synthetism</style>
+<filename>paul-serusier_the-flowered-barrier-1889.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>paul-serusier</name>
+</owner>
+<size>
+	<width>412</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>91</xmin>
+		<ymin>202</ymin>
+		<xmax>161</xmax>
+		<ymax>396</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>311</xmin>
+		<ymin>212</ymin>
+		<xmax>384</xmax>
+		<ymax>443</ymax>
+	</bndbox>
+</object>
+</annotation>

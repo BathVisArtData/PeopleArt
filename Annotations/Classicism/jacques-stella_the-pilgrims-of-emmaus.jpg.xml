@@ -1,0 +1,94 @@
+<annotation>
+<folder>Classicism</folder>
+<style>Classicism</style>
+<filename>jacques-stella_the-pilgrims-of-emmaus.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>jacques-stella</name>
+</owner>
+<size>
+	<width>322</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>74</xmin>
+		<ymin>41</ymin>
+		<xmax>167</xmax>
+		<ymax>158</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>102</xmin>
+		<ymin>45</ymin>
+		<xmax>217</xmax>
+		<ymax>136</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>137</xmin>
+		<ymin>7</ymin>
+		<xmax>317</xmax>
+		<ymax>183</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>5</xmin>
+		<ymin>184</ymin>
+		<xmax>149</xmax>
+		<ymax>475</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>80</xmin>
+		<ymin>179</ymin>
+		<xmax>235</xmax>
+		<ymax>483</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>166</xmin>
+		<ymin>175</ymin>
+		<xmax>316</xmax>
+		<ymax>492</ymax>
+	</bndbox>
+</object>
+</annotation>

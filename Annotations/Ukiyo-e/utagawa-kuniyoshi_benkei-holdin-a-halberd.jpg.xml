@@ -1,0 +1,34 @@
+<annotation>
+<folder>Ukiyo-e</folder>
+<style>Ukiyo-e</style>
+<filename>utagawa-kuniyoshi_benkei-holdin-a-halberd.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>utagawa-kuniyoshi</name>
+</owner>
+<size>
+	<width>331</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>18</xmin>
+		<ymin>49</ymin>
+		<xmax>329</xmax>
+		<ymax>460</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,46 @@
+<annotation>
+<folder>PosterArtRealism</folder>
+<style>PosterArtRealism</style>
+<filename>robert-g-harris_a-kiss-from-johnny-mccall-s-magazine-illustration-1952.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>robert-g-harris</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>492</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>175</xmin>
+		<ymin>32</ymin>
+		<xmax>374</xmax>
+		<ymax>328</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>44</xmin>
+		<ymin>65</ymin>
+		<xmax>422</xmax>
+		<ymax>489</ymax>
+	</bndbox>
+</object>
+</annotation>

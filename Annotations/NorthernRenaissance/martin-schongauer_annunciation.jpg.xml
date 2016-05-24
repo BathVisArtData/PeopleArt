@@ -1,0 +1,46 @@
+<annotation>
+<folder>NorthernRenaissance</folder>
+<style>NorthernRenaissance</style>
+<filename>martin-schongauer_annunciation.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>martin-schongauer</name>
+</owner>
+<size>
+	<width>356</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>31</xmin>
+		<ymin>119</ymin>
+		<xmax>141</xmax>
+		<ymax>488</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>209</xmin>
+		<ymin>88</ymin>
+		<xmax>325</xmax>
+		<ymax>467</ymax>
+	</bndbox>
+</object>
+</annotation>

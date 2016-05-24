@@ -1,0 +1,106 @@
+<annotation>
+<folder>AnalyticalRealism</folder>
+<style>AnalyticalRealism</style>
+<filename>pavel-filonov_the-workers-1916.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>pavel-filonov</name>
+</owner>
+<size>
+	<width>480</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>10</xmin>
+		<ymin>18</ymin>
+		<xmax>154</xmax>
+		<ymax>229</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>191</xmin>
+		<ymin>1</ymin>
+		<xmax>337</xmax>
+		<ymax>221</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>325</xmin>
+		<ymin>1</ymin>
+		<xmax>477</xmax>
+		<ymax>194</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>2</xmin>
+		<ymin>241</ymin>
+		<xmax>81</xmax>
+		<ymax>500</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>83</xmin>
+		<ymin>226</ymin>
+		<xmax>226</xmax>
+		<ymax>492</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>212</xmin>
+		<ymin>221</ymin>
+		<xmax>340</xmax>
+		<ymax>500</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>348</xmin>
+		<ymin>220</ymin>
+		<xmax>460</xmax>
+		<ymax>494</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,130 @@
+<annotation>
+<folder>Biedermeier</folder>
+<style>Biedermeier</style>
+<filename>carl-spitzweg_the-visit-of-the-father.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>carl-spitzweg</name>
+</owner>
+<size>
+	<width>383</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>113</xmin>
+		<ymin>365</ymin>
+		<xmax>136</xmax>
+		<ymax>435</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>129</xmin>
+		<ymin>356</ymin>
+		<xmax>150</xmax>
+		<ymax>427</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>146</xmin>
+		<ymin>374</ymin>
+		<xmax>178</xmax>
+		<ymax>455</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>221</xmin>
+		<ymin>413</ymin>
+		<xmax>240</xmax>
+		<ymax>455</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>238</xmin>
+		<ymin>393</ymin>
+		<xmax>255</xmax>
+		<ymax>444</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>193</xmin>
+		<ymin>290</ymin>
+		<xmax>219</xmax>
+		<ymax>342</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>217</xmin>
+		<ymin>311</ymin>
+		<xmax>246</xmax>
+		<ymax>373</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>270</xmin>
+		<ymin>348</ymin>
+		<xmax>291</xmax>
+		<ymax>407</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>339</xmin>
+		<ymin>350</ymin>
+		<xmax>363</xmax>
+		<ymax>420</ymax>
+	</bndbox>
+</object>
+</annotation>

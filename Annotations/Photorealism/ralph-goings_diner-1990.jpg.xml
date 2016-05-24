@@ -1,0 +1,46 @@
+<annotation>
+<folder>Photorealism</folder>
+<style>Photorealism</style>
+<filename>ralph-goings_diner-1990.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>ralph-goings</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>384</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>311</xmin>
+		<ymin>183</ymin>
+		<xmax>388</xmax>
+		<ymax>356</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>339</xmin>
+		<ymin>175</ymin>
+		<xmax>387</xmax>
+		<ymax>287</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,34 @@
+<annotation>
+<folder>Ukiyo-e</folder>
+<style>Ukiyo-e</style>
+<filename>paul-jacoulet_sous-les-bananiers-tomil-yap-1948.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>paul-jacoulet</name>
+</owner>
+<size>
+	<width>348</width>
+	<height>450</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>101</xmin>
+		<ymin>133</ymin>
+		<xmax>185</xmax>
+		<ymax>276</ymax>
+	</bndbox>
+</object>
+</annotation>

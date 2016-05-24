@@ -1,0 +1,82 @@
+<annotation>
+<folder>Photorealism</folder>
+<style>Photorealism</style>
+<filename>malcolm-morley_beach-scene-1968.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>malcolm-morley</name>
+</owner>
+<size>
+	<width>376</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>14</xmin>
+		<ymin>260</ymin>
+		<xmax>76</xmax>
+		<ymax>295</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>77</xmin>
+		<ymin>217</ymin>
+		<xmax>154</xmax>
+		<ymax>372</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>139</xmin>
+		<ymin>227</ymin>
+		<xmax>183</xmax>
+		<ymax>357</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>145</xmin>
+		<ymin>281</ymin>
+		<xmax>315</xmax>
+		<ymax>415</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>180</xmin>
+		<ymin>215</ymin>
+		<xmax>289</xmax>
+		<ymax>357</ymax>
+	</bndbox>
+</object>
+</annotation>

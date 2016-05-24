@@ -1,0 +1,34 @@
+<annotation>
+<folder>Shin-hanga</folder>
+<style>Shin-hanga</style>
+<filename>yamamura-toyonari_ichikawa-ennosuke-ii-as-hayami-no-tota-1921.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>yamamura-toyonari</name>
+</owner>
+<size>
+	<width>342</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>11</xmin>
+		<ymin>76</ymin>
+		<xmax>340</xmax>
+		<ymax>490</ymax>
+	</bndbox>
+</object>
+</annotation>

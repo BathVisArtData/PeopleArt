@@ -1,0 +1,58 @@
+<annotation>
+<folder>Constructivism</folder>
+<style>Constructivism</style>
+<filename>f-lix-del-marle_archers.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>f-lix-del-marle</name>
+</owner>
+<size>
+	<width>300</width>
+	<height>400</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>9</xmin>
+		<ymin>16</ymin>
+		<xmax>207</xmax>
+		<ymax>400</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>34</xmin>
+		<ymin>176</ymin>
+		<xmax>294</xmax>
+		<ymax>400</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>246</xmin>
+		<ymin>8</ymin>
+		<xmax>295</xmax>
+		<ymax>147</ymax>
+	</bndbox>
+</object>
+</annotation>

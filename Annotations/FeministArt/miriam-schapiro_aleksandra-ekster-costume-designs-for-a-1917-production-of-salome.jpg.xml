@@ -1,0 +1,58 @@
+<annotation>
+<folder>FeministArt</folder>
+<style>FeministArt</style>
+<filename>miriam-schapiro_aleksandra-ekster-costume-designs-for-a-1917-production-of-salome.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>miriam-schapiro</name>
+</owner>
+<size>
+	<width>258</width>
+	<height>336</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>21</ymin>
+		<xmax>177</xmax>
+		<ymax>335</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>87</xmin>
+		<ymin>5</ymin>
+		<xmax>228</xmax>
+		<ymax>331</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>135</xmin>
+		<ymin>1</ymin>
+		<xmax>258</xmax>
+		<ymax>334</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,22 @@
+<annotation>
+<folder>Biedermeier</folder>
+<style>Biedermeier</style>
+<filename>ferdinand-georg-waldm-ller_the-pilgrims-resting.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>ferdinand-georg-waldm-ller</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>393</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>1</difficult>
+</annotation>

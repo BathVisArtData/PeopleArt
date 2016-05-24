@@ -1,0 +1,82 @@
+<annotation>
+<folder>Biedermeier</folder>
+<style>Biedermeier</style>
+<filename>ferdinand-georg-waldm-ller_construction-laborers-receivomg-their-breakfast-1860.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>ferdinand-georg-waldm-ller</name>
+</owner>
+<size>
+	<width>404</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>226</xmin>
+		<ymin>282</ymin>
+		<xmax>400</xmax>
+		<ymax>442</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>110</xmin>
+		<ymin>125</ymin>
+		<xmax>244</xmax>
+		<ymax>391</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>72</xmin>
+		<ymin>99</ymin>
+		<xmax>138</xmax>
+		<ymax>278</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>47</xmin>
+		<ymin>163</ymin>
+		<xmax>88</xmax>
+		<ymax>285</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>2</xmin>
+		<ymin>144</ymin>
+		<xmax>73</xmax>
+		<ymax>294</ymax>
+	</bndbox>
+</object>
+</annotation>

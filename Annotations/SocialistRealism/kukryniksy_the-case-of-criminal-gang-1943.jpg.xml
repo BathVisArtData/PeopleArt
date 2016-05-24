@@ -1,0 +1,94 @@
+<annotation>
+<folder>SocialistRealism</folder>
+<style>SocialistRealism</style>
+<filename>kukryniksy_the-case-of-criminal-gang-1943.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>kukryniksy</name>
+</owner>
+<size>
+	<width>458</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>200</xmin>
+		<ymin>90</ymin>
+		<xmax>274</xmax>
+		<ymax>165</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>89</xmin>
+		<ymin>178</ymin>
+		<xmax>155</xmax>
+		<ymax>244</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>187</xmin>
+		<ymin>181</ymin>
+		<xmax>238</xmax>
+		<ymax>238</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>280</xmin>
+		<ymin>195</ymin>
+		<xmax>337</xmax>
+		<ymax>257</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>77</xmin>
+		<ymin>274</ymin>
+		<xmax>124</xmax>
+		<ymax>324</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>165</xmin>
+		<ymin>261</ymin>
+		<xmax>217</xmax>
+		<ymax>319</ymax>
+	</bndbox>
+</object>
+</annotation>

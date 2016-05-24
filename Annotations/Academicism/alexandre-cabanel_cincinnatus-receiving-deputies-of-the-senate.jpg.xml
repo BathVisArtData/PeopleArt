@@ -1,0 +1,118 @@
+<annotation>
+<folder>Academicism</folder>
+<style>Academicism</style>
+<filename>alexandre-cabanel_cincinnatus-receiving-deputies-of-the-senate.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>alexandre-cabanel</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>437</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>125</ymin>
+		<xmax>26</xmax>
+		<ymax>161</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>100</ymin>
+		<xmax>186</xmax>
+		<ymax>420</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>146</xmin>
+		<ymin>112</ymin>
+		<xmax>279</xmax>
+		<ymax>398</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>239</xmin>
+		<ymin>102</ymin>
+		<xmax>355</xmax>
+		<ymax>248</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>280</xmin>
+		<ymin>96</ymin>
+		<xmax>429</xmax>
+		<ymax>434</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>321</xmin>
+		<ymin>103</ymin>
+		<xmax>358</xmax>
+		<ymax>151</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>396</xmin>
+		<ymin>112</ymin>
+		<xmax>477</xmax>
+		<ymax>392</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>463</xmin>
+		<ymin>161</ymin>
+		<xmax>496</xmax>
+		<ymax>317</ymax>
+	</bndbox>
+</object>
+</annotation>

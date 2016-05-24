@@ -1,0 +1,46 @@
+<annotation>
+<folder>FantasticRealism</folder>
+<style>FantasticRealism</style>
+<filename>jahar-dasgupta_eternal-love-vi.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>jahar-dasgupta</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>422</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>26</xmin>
+		<ymin>16</ymin>
+		<xmax>298</xmax>
+		<ymax>404</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>115</xmin>
+		<ymin>182</ymin>
+		<xmax>387</xmax>
+		<ymax>403</ymax>
+	</bndbox>
+</object>
+</annotation>

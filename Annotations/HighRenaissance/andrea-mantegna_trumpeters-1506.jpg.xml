@@ -1,0 +1,118 @@
+<annotation>
+<folder>HighRenaissance</folder>
+<style>HighRenaissance</style>
+<filename>andrea-mantegna_trumpeters-1506.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>andrea-mantegna</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>478</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>200</ymin>
+		<xmax>94</xmax>
+		<ymax>478</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>53</xmin>
+		<ymin>166</ymin>
+		<xmax>200</xmax>
+		<ymax>478</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>166</xmin>
+		<ymin>215</ymin>
+		<xmax>264</xmax>
+		<ymax>478</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>237</xmin>
+		<ymin>195</ymin>
+		<xmax>370</xmax>
+		<ymax>478</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>352</xmin>
+		<ymin>177</ymin>
+		<xmax>457</xmax>
+		<ymax>478</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>433</xmin>
+		<ymin>163</ymin>
+		<xmax>498</xmax>
+		<ymax>317</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>381</xmin>
+		<ymin>172</ymin>
+		<xmax>425</xmax>
+		<ymax>204</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>488</xmin>
+		<ymin>174</ymin>
+		<xmax>500</xmax>
+		<ymax>213</ymax>
+	</bndbox>
+</object>
+</annotation>

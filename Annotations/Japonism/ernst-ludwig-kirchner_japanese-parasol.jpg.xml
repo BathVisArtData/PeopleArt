@@ -1,0 +1,34 @@
+<annotation>
+<folder>Japonism</folder>
+<style>Japonism</style>
+<filename>ernst-ludwig-kirchner_japanese-parasol.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>ernst-ludwig-kirchner</name>
+</owner>
+<size>
+	<width>438</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Lying</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>9</xmin>
+		<ymin>109</ymin>
+		<xmax>425</xmax>
+		<ymax>500</ymax>
+	</bndbox>
+</object>
+</annotation>

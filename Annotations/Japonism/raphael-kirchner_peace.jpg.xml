@@ -1,0 +1,94 @@
+<annotation>
+<folder>Japonism</folder>
+<style>Japonism</style>
+<filename>raphael-kirchner_peace.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>raphael-kirchner</name>
+</owner>
+<size>
+	<width>325</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>78</xmin>
+		<ymin>123</ymin>
+		<xmax>151</xmax>
+		<ymax>406</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>137</xmin>
+		<ymin>117</ymin>
+		<xmax>232</xmax>
+		<ymax>388</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>182</xmin>
+		<ymin>117</ymin>
+		<xmax>228</xmax>
+		<ymax>346</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>221</xmin>
+		<ymin>106</ymin>
+		<xmax>273</xmax>
+		<ymax>375</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>233</xmin>
+		<ymin>129</ymin>
+		<xmax>306</xmax>
+		<ymax>390</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>123</xmin>
+		<ymin>122</ymin>
+		<xmax>162</xmax>
+		<ymax>382</ymax>
+	</bndbox>
+</object>
+</annotation>

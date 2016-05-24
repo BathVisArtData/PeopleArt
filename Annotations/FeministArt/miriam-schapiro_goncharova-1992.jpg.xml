@@ -1,0 +1,34 @@
+<annotation>
+<folder>FeministArt</folder>
+<style>FeministArt</style>
+<filename>miriam-schapiro_goncharova-1992.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>miriam-schapiro</name>
+</owner>
+<size>
+	<width>388</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>47</xmin>
+		<ymin>14</ymin>
+		<xmax>322</xmax>
+		<ymax>498</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,46 @@
+<annotation>
+<folder>Shin-hanga</folder>
+<style>Shin-hanga</style>
+<filename>joan-ponc_suite-perversitats-1949.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>joan-ponc</name>
+</owner>
+<size>
+	<width>256</width>
+	<height>400</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>119</xmin>
+		<ymin>37</ymin>
+		<xmax>193</xmax>
+		<ymax>379</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>11</xmin>
+		<ymin>176</ymin>
+		<xmax>98</xmax>
+		<ymax>379</ymax>
+	</bndbox>
+</object>
+</annotation>

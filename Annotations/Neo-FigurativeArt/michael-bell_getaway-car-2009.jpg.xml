@@ -1,0 +1,46 @@
+<annotation>
+<folder>Neo-FigurativeArt</folder>
+<style>Neo-FigurativeArt</style>
+<filename>michael-bell_getaway-car-2009.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>michael-bell</name>
+</owner>
+<size>
+	<width>450</width>
+	<height>450</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>32</xmin>
+		<ymin>166</ymin>
+		<xmax>145</xmax>
+		<ymax>324</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>4</xmin>
+		<ymin>208</ymin>
+		<xmax>32</xmax>
+		<ymax>280</ymax>
+	</bndbox>
+</object>
+</annotation>

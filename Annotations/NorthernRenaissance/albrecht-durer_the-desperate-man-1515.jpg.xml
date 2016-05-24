@@ -1,0 +1,82 @@
+<annotation>
+<folder>NorthernRenaissance</folder>
+<style>NorthernRenaissance</style>
+<filename>albrecht-durer_the-desperate-man-1515.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>albrecht-durer</name>
+</owner>
+<size>
+	<width>367</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>20</xmin>
+		<ymin>139</ymin>
+		<xmax>104</xmax>
+		<ymax>403</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>104</xmin>
+		<ymin>155</ymin>
+		<xmax>229</xmax>
+		<ymax>474</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>137</xmin>
+		<ymin>22</ymin>
+		<xmax>246</xmax>
+		<ymax>259</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>94</xmin>
+		<ymin>112</ymin>
+		<xmax>147</xmax>
+		<ymax>157</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>208</xmin>
+		<ymin>233</ymin>
+		<xmax>350</xmax>
+		<ymax>429</ymax>
+	</bndbox>
+</object>
+</annotation>

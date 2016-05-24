@@ -1,0 +1,34 @@
+<annotation>
+<folder>Outsiderart</folder>
+<style>Outsiderart</style>
+<filename>paul-du-toit_walk-unafraid.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>paul-du-toit</name>
+</owner>
+<size>
+	<width>299</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>8</xmin>
+		<ymin>8</ymin>
+		<xmax>299</xmax>
+		<ymax>496</ymax>
+	</bndbox>
+</object>
+</annotation>

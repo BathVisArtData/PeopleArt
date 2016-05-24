@@ -1,0 +1,46 @@
+<annotation>
+<folder>Suprematism</folder>
+<style>Suprematism</style>
+<filename>kazimir-malevich_two-figures-in-a-landscape-1932.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>kazimir-malevich</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>412</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>192</xmin>
+		<ymin>13</ymin>
+		<xmax>304</xmax>
+		<ymax>398</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>301</xmin>
+		<ymin>57</ymin>
+		<xmax>394</xmax>
+		<ymax>393</ymax>
+	</bndbox>
+</object>
+</annotation>

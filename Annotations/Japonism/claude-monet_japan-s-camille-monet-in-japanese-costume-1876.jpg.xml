@@ -1,0 +1,58 @@
+<annotation>
+<folder>Japonism</folder>
+<style>Japonism</style>
+<filename>claude-monet_japan-s-camille-monet-in-japanese-costume-1876.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>claude-monet</name>
+</owner>
+<size>
+	<width>302</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>4</xmin>
+		<ymin>61</ymin>
+		<xmax>288</xmax>
+		<ymax>481</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>119</xmin>
+		<ymin>232</ymin>
+		<xmax>207</xmax>
+		<ymax>410</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>250</xmin>
+		<ymin>92</ymin>
+		<xmax>291</xmax>
+		<ymax>135</ymax>
+	</bndbox>
+</object>
+</annotation>

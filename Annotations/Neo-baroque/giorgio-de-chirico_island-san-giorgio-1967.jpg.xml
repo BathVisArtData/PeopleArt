@@ -1,0 +1,46 @@
+<annotation>
+<folder>Neo-baroque</folder>
+<style>Neo-baroque</style>
+<filename>giorgio-de-chirico_island-san-giorgio-1967.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>giorgio-de-chirico</name>
+</owner>
+<size>
+	<width>452</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>117</xmin>
+		<ymin>442</ymin>
+		<xmax>135</xmax>
+		<ymax>465</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>312</xmin>
+		<ymin>405</ymin>
+		<xmax>329</xmax>
+		<ymax>432</ymax>
+	</bndbox>
+</object>
+</annotation>

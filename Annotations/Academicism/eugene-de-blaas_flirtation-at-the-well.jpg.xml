@@ -1,0 +1,82 @@
+<annotation>
+<folder>Academicism</folder>
+<style>Academicism</style>
+<filename>eugene-de-blaas_flirtation-at-the-well.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>eugene-de-blaas</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>373</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>31</xmin>
+		<ymin>65</ymin>
+		<xmax>111</xmax>
+		<ymax>234</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>96</xmin>
+		<ymin>85</ymin>
+		<xmax>176</xmax>
+		<ymax>162</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>169</xmin>
+		<ymin>94</ymin>
+		<xmax>254</xmax>
+		<ymax>261</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>220</xmin>
+		<ymin>56</ymin>
+		<xmax>348</xmax>
+		<ymax>369</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>371</xmin>
+		<ymin>69</ymin>
+		<xmax>488</xmax>
+		<ymax>176</ymax>
+	</bndbox>
+</object>
+</annotation>

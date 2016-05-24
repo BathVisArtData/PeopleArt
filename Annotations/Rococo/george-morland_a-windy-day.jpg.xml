@@ -1,0 +1,46 @@
+<annotation>
+<folder>Rococo</folder>
+<style>Rococo</style>
+<filename>george-morland_a-windy-day.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>george-morland</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>319</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>125</xmin>
+		<ymin>195</ymin>
+		<xmax>170</xmax>
+		<ymax>276</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>169</xmin>
+		<ymin>201</ymin>
+		<xmax>207</xmax>
+		<ymax>262</ymax>
+	</bndbox>
+</object>
+</annotation>

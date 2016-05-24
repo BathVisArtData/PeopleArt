@@ -1,0 +1,82 @@
+<annotation>
+<folder>NorthernRenaissance</folder>
+<style>NorthernRenaissance</style>
+<filename>hans-baldung_the-creation-of-the-men-and-animals-1532.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>hans-baldung</name>
+</owner>
+<size>
+	<width>195</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>97</xmin>
+		<ymin>266</ymin>
+		<xmax>191</xmax>
+		<ymax>482</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>12</xmin>
+		<ymin>231</ymin>
+		<xmax>107</xmax>
+		<ymax>343</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>53</xmin>
+		<ymin>110</ymin>
+		<xmax>119</xmax>
+		<ymax>240</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>15</xmin>
+		<ymin>149</ymin>
+		<xmax>187</xmax>
+		<ymax>227</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>106</xmin>
+		<ymin>133</ymin>
+		<xmax>136</xmax>
+		<ymax>179</ymax>
+	</bndbox>
+</object>
+</annotation>

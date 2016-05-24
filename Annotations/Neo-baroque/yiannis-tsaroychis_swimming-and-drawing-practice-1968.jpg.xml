@@ -1,0 +1,70 @@
+<annotation>
+<folder>Neo-baroque</folder>
+<style>Neo-baroque</style>
+<filename>yiannis-tsaroychis_swimming-and-drawing-practice-1968.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>yiannis-tsaroychis</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>150</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>29</xmin>
+		<ymin>37</ymin>
+		<xmax>107</xmax>
+		<ymax>139</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>197</xmin>
+		<ymin>7</ymin>
+		<xmax>242</xmax>
+		<ymax>140</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>268</xmin>
+		<ymin>59</ymin>
+		<xmax>347</xmax>
+		<ymax>138</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>391</xmin>
+		<ymin>8</ymin>
+		<xmax>471</xmax>
+		<ymax>84</ymax>
+	</bndbox>
+</object>
+</annotation>

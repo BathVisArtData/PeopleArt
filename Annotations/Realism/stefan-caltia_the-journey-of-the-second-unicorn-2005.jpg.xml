@@ -1,0 +1,46 @@
+<annotation>
+<folder>Realism</folder>
+<style>Realism</style>
+<filename>stefan-caltia_the-journey-of-the-second-unicorn-2005.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>stefan-caltia</name>
+</owner>
+<size>
+	<width>491</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>293</xmin>
+		<ymin>279</ymin>
+		<xmax>370</xmax>
+		<ymax>478</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>209</xmin>
+		<ymin>357</ymin>
+		<xmax>262</xmax>
+		<ymax>487</ymax>
+	</bndbox>
+</object>
+</annotation>

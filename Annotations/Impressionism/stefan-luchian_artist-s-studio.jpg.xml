@@ -1,0 +1,34 @@
+<annotation>
+<folder>Impressionism</folder>
+<style>Impressionism</style>
+<filename>stefan-luchian_artist-s-studio.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>stefan-luchian</name>
+</owner>
+<size>
+	<width>388</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>13</xmin>
+		<ymin>136</ymin>
+		<xmax>147</xmax>
+		<ymax>477</ymax>
+	</bndbox>
+</object>
+</annotation>

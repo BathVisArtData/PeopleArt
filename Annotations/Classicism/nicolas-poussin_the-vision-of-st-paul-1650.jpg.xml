@@ -1,0 +1,70 @@
+<annotation>
+<folder>Classicism</folder>
+<style>Classicism</style>
+<filename>nicolas-poussin_the-vision-of-st-paul-1650.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>nicolas-poussin</name>
+</owner>
+<size>
+	<width>385</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>76</xmin>
+		<ymin>174</ymin>
+		<xmax>262</xmax>
+		<ymax>376</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>72</xmin>
+		<ymin>95</ymin>
+		<xmax>298</xmax>
+		<ymax>389</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>141</xmin>
+		<ymin>49</ymin>
+		<xmax>281</xmax>
+		<ymax>175</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>230</xmin>
+		<ymin>165</ymin>
+		<xmax>294</xmax>
+		<ymax>299</ymax>
+	</bndbox>
+</object>
+</annotation>

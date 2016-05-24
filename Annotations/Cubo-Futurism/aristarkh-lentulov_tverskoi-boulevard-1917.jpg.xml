@@ -1,0 +1,70 @@
+<annotation>
+<folder>Cubo-Futurism</folder>
+<style>Cubo-Futurism</style>
+<filename>aristarkh-lentulov_tverskoi-boulevard-1917.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>aristarkh-lentulov</name>
+</owner>
+<size>
+	<width>460</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>10</xmin>
+		<ymin>351</ymin>
+		<xmax>59</xmax>
+		<ymax>426</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>30</xmin>
+		<ymin>352</ymin>
+		<xmax>126</xmax>
+		<ymax>498</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>106</xmin>
+		<ymin>391</ymin>
+		<xmax>185</xmax>
+		<ymax>497</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>183</xmin>
+		<ymin>429</ymin>
+		<xmax>234</xmax>
+		<ymax>498</ymax>
+	</bndbox>
+</object>
+</annotation>

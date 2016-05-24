@@ -1,0 +1,58 @@
+<annotation>
+<folder>Japonism</folder>
+<style>Japonism</style>
+<filename>james-mcneill-whistler_whistler-in-his-studio.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>james-mcneill-whistler</name>
+</owner>
+<size>
+	<width>376</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>260</xmin>
+		<ymin>184</ymin>
+		<xmax>350</xmax>
+		<ymax>493</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>138</xmin>
+		<ymin>210</ymin>
+		<xmax>228</xmax>
+		<ymax>477</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>18</xmin>
+		<ymin>261</ymin>
+		<xmax>154</xmax>
+		<ymax>459</ymax>
+	</bndbox>
+</object>
+</annotation>

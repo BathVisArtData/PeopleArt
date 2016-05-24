@@ -1,0 +1,82 @@
+<annotation>
+<folder>ProtoRenaissance</folder>
+<style>ProtoRenaissance</style>
+<filename>duccio_christ-before-pilate-fragment-1311.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>duccio</name>
+</owner>
+<size>
+	<width>350</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>188</xmin>
+		<ymin>64</ymin>
+		<xmax>317</xmax>
+		<ymax>499</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>25</xmin>
+		<ymin>86</ymin>
+		<xmax>177</xmax>
+		<ymax>488</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>124</xmin>
+		<ymin>81</ymin>
+		<xmax>190</xmax>
+		<ymax>209</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>17</xmin>
+		<ymin>70</ymin>
+		<xmax>81</xmax>
+		<ymax>171</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>177</xmin>
+		<ymin>73</ymin>
+		<xmax>212</xmax>
+		<ymax>177</ymax>
+	</bndbox>
+</object>
+</annotation>

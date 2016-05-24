@@ -1,0 +1,58 @@
+<annotation>
+<folder>Japonism</folder>
+<style>Japonism</style>
+<filename>mary-cassatt_interior-of-a-tramway-passing-a-bridge-1891.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>mary-cassatt</name>
+</owner>
+<size>
+	<width>371</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>162</xmin>
+		<ymin>169</ymin>
+		<xmax>291</xmax>
+		<ymax>392</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>61</xmin>
+		<ymin>95</ymin>
+		<xmax>218</xmax>
+		<ymax>483</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>155</xmin>
+		<ymin>140</ymin>
+		<xmax>355</xmax>
+		<ymax>497</ymax>
+	</bndbox>
+</object>
+</annotation>

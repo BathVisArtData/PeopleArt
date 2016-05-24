@@ -1,0 +1,58 @@
+<annotation>
+<folder>Cubism</folder>
+<style>Cubism</style>
+<filename>pablo-picasso_algerian-women-delacroix-1955.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>pablo-picasso</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>390</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>1</ymin>
+		<xmax>154</xmax>
+		<ymax>388</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Unspecified</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>342</xmin>
+		<ymin>106</ymin>
+		<xmax>469</xmax>
+		<ymax>340</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>163</xmin>
+		<ymin>68</ymin>
+		<xmax>209</xmax>
+		<ymax>176</ymax>
+	</bndbox>
+</object>
+</annotation>

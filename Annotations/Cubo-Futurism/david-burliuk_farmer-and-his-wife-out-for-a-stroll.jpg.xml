@@ -1,0 +1,46 @@
+<annotation>
+<folder>Cubo-Futurism</folder>
+<style>Cubo-Futurism</style>
+<filename>david-burliuk_farmer-and-his-wife-out-for-a-stroll.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>david-burliuk</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>310</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>94</xmin>
+		<ymin>20</ymin>
+		<xmax>222</xmax>
+		<ymax>291</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>211</xmin>
+		<ymin>9</ymin>
+		<xmax>351</xmax>
+		<ymax>268</ymax>
+	</bndbox>
+</object>
+</annotation>

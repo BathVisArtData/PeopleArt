@@ -1,0 +1,34 @@
+<annotation>
+<folder>Tonalism</folder>
+<style>Tonalism</style>
+<filename>james-mcneill-whistler_harmony-in-blue-and-silver-trouville.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>james-mcneill-whistler</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>327</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>93</xmin>
+		<ymin>234</ymin>
+		<xmax>123</xmax>
+		<ymax>321</ymax>
+	</bndbox>
+</object>
+</annotation>

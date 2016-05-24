@@ -1,0 +1,58 @@
+<annotation>
+<folder>LowbrowArt</folder>
+<style>LowbrowArt</style>
+<filename>robert-williams_the-appetite-that-dare-not-be-appeased-1999.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>robert-williams</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>304</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>2</xmin>
+		<ymin>18</ymin>
+		<xmax>173</xmax>
+		<ymax>285</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>177</xmin>
+		<ymin>78</ymin>
+		<xmax>340</xmax>
+		<ymax>304</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>271</xmin>
+		<ymin>253</ymin>
+		<xmax>302</xmax>
+		<ymax>283</ymax>
+	</bndbox>
+</object>
+</annotation>

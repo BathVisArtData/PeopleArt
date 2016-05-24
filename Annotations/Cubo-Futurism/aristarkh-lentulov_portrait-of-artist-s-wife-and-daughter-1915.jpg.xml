@@ -1,0 +1,46 @@
+<annotation>
+<folder>Cubo-Futurism</folder>
+<style>Cubo-Futurism</style>
+<filename>aristarkh-lentulov_portrait-of-artist-s-wife-and-daughter-1915.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>aristarkh-lentulov</name>
+</owner>
+<size>
+	<width>434</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>2</xmin>
+		<ymin>6</ymin>
+		<xmax>332</xmax>
+		<ymax>500</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>230</xmin>
+		<ymin>69</ymin>
+		<xmax>422</xmax>
+		<ymax>499</ymax>
+	</bndbox>
+</object>
+</annotation>

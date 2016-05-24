@@ -1,0 +1,22 @@
+<annotation>
+<folder>Academicism</folder>
+<style>Academicism</style>
+<filename>alexandre-cabanel_the-death-of-moses-1851.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>alexandre-cabanel</name>
+</owner>
+<size>
+	<width>400</width>
+	<height>288</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>1</difficult>
+</annotation>

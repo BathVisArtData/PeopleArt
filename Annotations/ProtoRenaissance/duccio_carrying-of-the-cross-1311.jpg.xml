@@ -1,0 +1,22 @@
+<annotation>
+<folder>ProtoRenaissance</folder>
+<style>ProtoRenaissance</style>
+<filename>duccio_carrying-of-the-cross-1311.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>duccio</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>456</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>1</difficult>
+</annotation>

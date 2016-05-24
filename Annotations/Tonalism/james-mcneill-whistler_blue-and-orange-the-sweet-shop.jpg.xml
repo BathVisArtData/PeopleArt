@@ -1,0 +1,82 @@
+<annotation>
+<folder>Tonalism</folder>
+<style>Tonalism</style>
+<filename>james-mcneill-whistler_blue-and-orange-the-sweet-shop.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>james-mcneill-whistler</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>285</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>332</xmin>
+		<ymin>164</ymin>
+		<xmax>367</xmax>
+		<ymax>245</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>367</xmin>
+		<ymin>167</ymin>
+		<xmax>401</xmax>
+		<ymax>242</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>52</xmin>
+		<ymin>183</ymin>
+		<xmax>88</xmax>
+		<ymax>269</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>27</xmin>
+		<ymin>175</ymin>
+		<xmax>58</xmax>
+		<ymax>269</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>10</xmin>
+		<ymin>169</ymin>
+		<xmax>36</xmax>
+		<ymax>276</ymax>
+	</bndbox>
+</object>
+</annotation>

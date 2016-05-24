@@ -1,0 +1,58 @@
+<annotation>
+<folder>Symbolism</folder>
+<style>Symbolism</style>
+<filename>nicholas-roerich_partisans-1942.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>nicholas-roerich</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>308</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>235</xmin>
+		<ymin>205</ymin>
+		<xmax>299</xmax>
+		<ymax>272</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>181</xmin>
+		<ymin>162</ymin>
+		<xmax>251</xmax>
+		<ymax>251</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>155</xmin>
+		<ymin>147</ymin>
+		<xmax>197</xmax>
+		<ymax>210</ymax>
+	</bndbox>
+</object>
+</annotation>

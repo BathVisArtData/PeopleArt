@@ -1,0 +1,46 @@
+<annotation>
+<folder>Academicism</folder>
+<style>Academicism</style>
+<filename>henryk-siemiradzki_scene-from-roman-life.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>henryk-siemiradzki</name>
+</owner>
+<size>
+	<width>294</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>22</xmin>
+		<ymin>340</ymin>
+		<xmax>64</xmax>
+		<ymax>406</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>159</xmin>
+		<ymin>154</ymin>
+		<xmax>242</xmax>
+		<ymax>304</ymax>
+	</bndbox>
+</object>
+</annotation>

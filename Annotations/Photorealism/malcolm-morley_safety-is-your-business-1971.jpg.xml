@@ -1,0 +1,178 @@
+<annotation>
+<folder>Photorealism</folder>
+<style>Photorealism</style>
+<filename>malcolm-morley_safety-is-your-business-1971.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>malcolm-morley</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>401</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>168</xmin>
+		<ymin>199</ymin>
+		<xmax>264</xmax>
+		<ymax>390</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>48</xmin>
+		<ymin>197</ymin>
+		<xmax>78</xmax>
+		<ymax>316</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>13</xmin>
+		<ymin>194</ymin>
+		<xmax>32</xmax>
+		<ymax>317</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>300</xmin>
+		<ymin>193</ymin>
+		<xmax>325</xmax>
+		<ymax>270</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>265</xmin>
+		<ymin>190</ymin>
+		<xmax>288</xmax>
+		<ymax>264</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>224</xmin>
+		<ymin>183</ymin>
+		<xmax>247</xmax>
+		<ymax>246</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>173</xmin>
+		<ymin>179</ymin>
+		<xmax>199</xmax>
+		<ymax>262</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>114</xmin>
+		<ymin>182</ymin>
+		<xmax>144</xmax>
+		<ymax>257</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>81</xmin>
+		<ymin>172</ymin>
+		<xmax>111</xmax>
+		<ymax>250</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>71</xmin>
+		<ymin>172</ymin>
+		<xmax>89</xmax>
+		<ymax>242</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>51</xmin>
+		<ymin>172</ymin>
+		<xmax>82</xmax>
+		<ymax>211</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>24</xmin>
+		<ymin>178</ymin>
+		<xmax>46</xmax>
+		<ymax>237</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>32</xmin>
+		<ymin>162</ymin>
+		<xmax>56</xmax>
+		<ymax>219</ymax>
+	</bndbox>
+</object>
+</annotation>

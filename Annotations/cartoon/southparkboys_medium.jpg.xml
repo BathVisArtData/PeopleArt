@@ -1,0 +1,70 @@
+<annotation>
+<folder>cartoon</folder>
+<style>cartoon</style>
+<filename>southparkboys_medium.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>googleimage</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>unknown</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>311</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>55</xmin>
+		<ymin>157</ymin>
+		<xmax>140</xmax>
+		<ymax>276</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>158</xmin>
+		<ymin>167</ymin>
+		<xmax>233</xmax>
+		<ymax>277</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>249</xmin>
+		<ymin>168</ymin>
+		<xmax>332</xmax>
+		<ymax>278</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>352</xmin>
+		<ymin>162</ymin>
+		<xmax>466</xmax>
+		<ymax>273</ymax>
+	</bndbox>
+</object>
+</annotation>

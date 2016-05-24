@@ -1,0 +1,34 @@
+<annotation>
+<folder>ArtNouveau(Modern)</folder>
+<style>ArtNouveau(Modern)</style>
+<filename>boris-kustodiev_in-the-birch-forest.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>boris-kustodiev</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>380</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>89</xmin>
+		<ymin>62</ymin>
+		<xmax>419</xmax>
+		<ymax>358</ymax>
+	</bndbox>
+</object>
+</annotation>

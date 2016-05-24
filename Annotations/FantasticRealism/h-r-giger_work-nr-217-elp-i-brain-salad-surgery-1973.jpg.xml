@@ -1,0 +1,34 @@
+<annotation>
+<folder>FantasticRealism</folder>
+<style>FantasticRealism</style>
+<filename>h-r-giger_work-nr-217-elp-i-brain-salad-surgery-1973.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>h-r-giger</name>
+</owner>
+<size>
+	<width>392</width>
+	<height>400</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>38</xmin>
+		<ymin>1</ymin>
+		<xmax>366</xmax>
+		<ymax>400</ymax>
+	</bndbox>
+</object>
+</annotation>

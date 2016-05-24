@@ -1,0 +1,22 @@
+<annotation>
+<folder>Realism</folder>
+<style>Realism</style>
+<filename>camille-corot_honfleur-calvary-on-the-cote-de-grace.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>camille-corot</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>363</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>1</difficult>
+</annotation>

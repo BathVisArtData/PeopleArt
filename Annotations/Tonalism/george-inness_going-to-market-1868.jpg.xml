@@ -1,0 +1,34 @@
+<annotation>
+<folder>Tonalism</folder>
+<style>Tonalism</style>
+<filename>george-inness_going-to-market-1868.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>george-inness</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>312</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>298</xmin>
+		<ymin>224</ymin>
+		<xmax>318</xmax>
+		<ymax>260</ymax>
+	</bndbox>
+</object>
+</annotation>

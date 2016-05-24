@@ -1,0 +1,34 @@
+<annotation>
+<folder>Cubism</folder>
+<style>Cubism</style>
+<filename>pyotr-konchalovsky_portrait-of-a-violinist-grigory-fedorovich-romashkov-1918-1.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>pyotr-konchalovsky</name>
+</owner>
+<size>
+	<width>303</width>
+	<height>450</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>37</xmin>
+		<ymin>24</ymin>
+		<xmax>281</xmax>
+		<ymax>415</ymax>
+	</bndbox>
+</object>
+</annotation>

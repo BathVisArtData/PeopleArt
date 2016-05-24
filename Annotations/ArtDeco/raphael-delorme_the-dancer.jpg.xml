@@ -1,0 +1,70 @@
+<annotation>
+<folder>ArtDeco</folder>
+<style>ArtDeco</style>
+<filename>raphael-delorme_the-dancer.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>raphael-delorme</name>
+</owner>
+<size>
+	<width>461</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>27</xmin>
+		<ymin>247</ymin>
+		<xmax>156</xmax>
+		<ymax>462</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>130</xmin>
+		<ymin>105</ymin>
+		<xmax>381</xmax>
+		<ymax>443</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>329</xmin>
+		<ymin>117</ymin>
+		<xmax>432</xmax>
+		<ymax>424</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>300</xmin>
+		<ymin>123</ymin>
+		<xmax>408</xmax>
+		<ymax>418</ymax>
+	</bndbox>
+</object>
+</annotation>

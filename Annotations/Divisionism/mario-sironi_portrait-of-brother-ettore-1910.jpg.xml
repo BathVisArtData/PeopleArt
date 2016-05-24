@@ -1,0 +1,34 @@
+<annotation>
+<folder>Divisionism</folder>
+<style>Divisionism</style>
+<filename>mario-sironi_portrait-of-brother-ettore-1910.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>mario-sironi</name>
+</owner>
+<size>
+	<width>344</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>74</xmin>
+		<ymin>1</ymin>
+		<xmax>272</xmax>
+		<ymax>499</ymax>
+	</bndbox>
+</object>
+</annotation>

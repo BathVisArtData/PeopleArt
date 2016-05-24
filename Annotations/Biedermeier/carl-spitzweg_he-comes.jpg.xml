@@ -1,0 +1,70 @@
+<annotation>
+<folder>Biedermeier</folder>
+<style>Biedermeier</style>
+<filename>carl-spitzweg_he-comes.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>carl-spitzweg</name>
+</owner>
+<size>
+	<width>282</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>17</xmin>
+		<ymin>333</ymin>
+		<xmax>60</xmax>
+		<ymax>432</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>55</xmin>
+		<ymin>336</ymin>
+		<xmax>93</xmax>
+		<ymax>427</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>138</xmin>
+		<ymin>285</ymin>
+		<xmax>194</xmax>
+		<ymax>448</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>209</xmin>
+		<ymin>313</ymin>
+		<xmax>276</xmax>
+		<ymax>437</ymax>
+	</bndbox>
+</object>
+</annotation>

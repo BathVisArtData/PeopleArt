@@ -1,0 +1,58 @@
+<annotation>
+<folder>AnalyticalRealism</folder>
+<style>AnalyticalRealism</style>
+<filename>pavel-filonov_the-three-at-the-table.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>pavel-filonov</name>
+</owner>
+<size>
+	<width>497</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>12</ymin>
+		<xmax>168</xmax>
+		<ymax>263</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>160</xmin>
+		<ymin>10</ymin>
+		<xmax>327</xmax>
+		<ymax>290</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>338</xmin>
+		<ymin>16</ymin>
+		<xmax>497</xmax>
+		<ymax>313</ymax>
+	</bndbox>
+</object>
+</annotation>

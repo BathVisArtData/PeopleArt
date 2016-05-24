@@ -1,0 +1,34 @@
+<annotation>
+<folder>NorthernRenaissance</folder>
+<style>NorthernRenaissance</style>
+<filename>lucas-cranach-the-elder_portrait-of-duke-johann-der-bestandige-of-saxony-1509.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>lucas-cranach-the-elder</name>
+</owner>
+<size>
+	<width>373</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>19</xmin>
+		<ymin>49</ymin>
+		<xmax>365</xmax>
+		<ymax>493</ymax>
+	</bndbox>
+</object>
+</annotation>

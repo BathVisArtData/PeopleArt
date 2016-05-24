@@ -1,0 +1,106 @@
+<annotation>
+<folder>ArtDeco</folder>
+<style>ArtDeco</style>
+<filename>jean-dupas_where-is-this-bower-beside-the-silver-thames-1930.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>jean-dupas</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>406</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>15</xmin>
+		<ymin>282</ymin>
+		<xmax>68</xmax>
+		<ymax>400</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>66</xmin>
+		<ymin>208</ymin>
+		<xmax>119</xmax>
+		<ymax>383</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>99</xmin>
+		<ymin>209</ymin>
+		<xmax>151</xmax>
+		<ymax>330</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>104</xmin>
+		<ymin>326</ymin>
+		<xmax>202</xmax>
+		<ymax>372</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>138</xmin>
+		<ymin>341</ymin>
+		<xmax>278</xmax>
+		<ymax>376</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>258</xmin>
+		<ymin>304</ymin>
+		<xmax>313</xmax>
+		<ymax>368</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>330</xmin>
+		<ymin>319</ymin>
+		<xmax>480</xmax>
+		<ymax>380</ymax>
+	</bndbox>
+</object>
+</annotation>

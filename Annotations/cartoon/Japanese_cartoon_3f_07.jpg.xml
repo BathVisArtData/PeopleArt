@@ -1,0 +1,34 @@
+<annotation>
+<folder>cartoon</folder>
+<style>cartoon</style>
+<filename>Japanese_cartoon_3f_07.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>googleimage</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>unknown</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>375</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>217</xmin>
+		<ymin>125</ymin>
+		<xmax>304</xmax>
+		<ymax>257</ymax>
+	</bndbox>
+</object>
+</annotation>

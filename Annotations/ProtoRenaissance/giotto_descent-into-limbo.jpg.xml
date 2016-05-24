@@ -1,0 +1,130 @@
+<annotation>
+<folder>ProtoRenaissance</folder>
+<style>ProtoRenaissance</style>
+<filename>giotto_descent-into-limbo.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>giotto</name>
+</owner>
+<size>
+	<width>490</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>4</xmin>
+		<ymin>219</ymin>
+		<xmax>109</xmax>
+		<ymax>367</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>9</xmin>
+		<ymin>243</ymin>
+		<xmax>163</xmax>
+		<ymax>494</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>192</xmin>
+		<ymin>316</ymin>
+		<xmax>293</xmax>
+		<ymax>491</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>188</xmin>
+		<ymin>297</ymin>
+		<xmax>227</xmax>
+		<ymax>359</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>202</xmin>
+		<ymin>267</ymin>
+		<xmax>233</xmax>
+		<ymax>306</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>223</xmin>
+		<ymin>274</ymin>
+		<xmax>258</xmax>
+		<ymax>304</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>242</xmin>
+		<ymin>294</ymin>
+		<xmax>267</xmax>
+		<ymax>320</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>247</xmin>
+		<ymin>302</ymin>
+		<xmax>323</xmax>
+		<ymax>406</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>253</xmin>
+		<ymin>277</ymin>
+		<xmax>277</xmax>
+		<ymax>304</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,70 @@
+<annotation>
+<folder>Classicism</folder>
+<style>Classicism</style>
+<filename>claude-lorrain_landscape-with-rest-in-flight-to-egypt-1666.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>claude-lorrain</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>365</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>423</xmin>
+		<ymin>274</ymin>
+		<xmax>464</xmax>
+		<ymax>318</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>446</xmin>
+		<ymin>281</ymin>
+		<xmax>476</xmax>
+		<ymax>318</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>454</xmin>
+		<ymin>265</ymin>
+		<xmax>477</xmax>
+		<ymax>285</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>433</xmin>
+		<ymin>281</ymin>
+		<xmax>451</xmax>
+		<ymax>303</ymax>
+	</bndbox>
+</object>
+</annotation>

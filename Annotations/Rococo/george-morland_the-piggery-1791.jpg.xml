@@ -1,0 +1,46 @@
+<annotation>
+<folder>Rococo</folder>
+<style>Rococo</style>
+<filename>george-morland_the-piggery-1791.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>george-morland</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>397</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>234</xmin>
+		<ymin>70</ymin>
+		<xmax>344</xmax>
+		<ymax>341</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>371</xmin>
+		<ymin>112</ymin>
+		<xmax>465</xmax>
+		<ymax>271</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,70 @@
+<annotation>
+<folder>ArtNouveau(Modern)</folder>
+<style>ArtNouveau(Modern)</style>
+<filename>konstantin-korovin_terem-yaroslavna-1928.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>konstantin-korovin</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>335</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>100</xmin>
+		<ymin>217</ymin>
+		<xmax>139</xmax>
+		<ymax>306</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>140</xmin>
+		<ymin>249</ymin>
+		<xmax>182</xmax>
+		<ymax>299</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>169</xmin>
+		<ymin>246</ymin>
+		<xmax>194</xmax>
+		<ymax>292</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>189</xmin>
+		<ymin>239</ymin>
+		<xmax>236</xmax>
+		<ymax>302</ymax>
+	</bndbox>
+</object>
+</annotation>

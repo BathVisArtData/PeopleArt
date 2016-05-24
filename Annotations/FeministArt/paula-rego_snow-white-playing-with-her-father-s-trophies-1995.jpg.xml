@@ -1,0 +1,46 @@
+<annotation>
+<folder>FeministArt</folder>
+<style>FeministArt</style>
+<filename>paula-rego_snow-white-playing-with-her-father-s-trophies-1995.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>paula-rego</name>
+</owner>
+<size>
+	<width>447</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>75</xmin>
+		<ymin>70</ymin>
+		<xmax>431</xmax>
+		<ymax>444</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>367</xmin>
+		<ymin>136</ymin>
+		<xmax>434</xmax>
+		<ymax>238</ymax>
+	</bndbox>
+</object>
+</annotation>

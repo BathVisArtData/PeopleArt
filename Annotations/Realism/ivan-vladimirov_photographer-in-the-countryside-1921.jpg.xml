@@ -1,0 +1,58 @@
+<annotation>
+<folder>Realism</folder>
+<style>Realism</style>
+<filename>ivan-vladimirov_photographer-in-the-countryside-1921.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>ivan-vladimirov</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>423</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>107</xmin>
+		<ymin>113</ymin>
+		<xmax>185</xmax>
+		<ymax>392</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>170</xmin>
+		<ymin>100</ymin>
+		<xmax>268</xmax>
+		<ymax>405</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>366</xmin>
+		<ymin>117</ymin>
+		<xmax>500</xmax>
+		<ymax>421</ymax>
+	</bndbox>
+</object>
+</annotation>

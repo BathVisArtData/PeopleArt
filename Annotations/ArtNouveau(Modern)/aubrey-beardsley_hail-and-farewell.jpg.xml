@@ -1,0 +1,34 @@
+<annotation>
+<folder>ArtNouveau(Modern)</folder>
+<style>ArtNouveau(Modern)</style>
+<filename>aubrey-beardsley_hail-and-farewell.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>aubrey-beardsley</name>
+</owner>
+<size>
+	<width>310</width>
+	<height>500</height>
+	<depth>1</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>16</xmin>
+		<ymin>6</ymin>
+		<xmax>306</xmax>
+		<ymax>488</ymax>
+	</bndbox>
+</object>
+</annotation>

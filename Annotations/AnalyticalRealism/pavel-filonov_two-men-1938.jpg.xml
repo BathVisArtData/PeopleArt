@@ -1,0 +1,46 @@
+<annotation>
+<folder>AnalyticalRealism</folder>
+<style>AnalyticalRealism</style>
+<filename>pavel-filonov_two-men-1938.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>pavel-filonov</name>
+</owner>
+<size>
+	<width>386</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>17</xmin>
+		<ymin>5</ymin>
+		<xmax>269</xmax>
+		<ymax>493</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>218</xmin>
+		<ymin>86</ymin>
+		<xmax>381</xmax>
+		<ymax>490</ymax>
+	</bndbox>
+</object>
+</annotation>

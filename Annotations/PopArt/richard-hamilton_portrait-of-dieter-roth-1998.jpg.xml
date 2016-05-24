@@ -1,0 +1,34 @@
+<annotation>
+<folder>PopArt</folder>
+<style>PopArt</style>
+<filename>richard-hamilton_portrait-of-dieter-roth-1998.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>richard-hamilton</name>
+</owner>
+<size>
+	<width>414</width>
+	<height>419</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>16</xmin>
+		<ymin>94</ymin>
+		<xmax>394</xmax>
+		<ymax>394</ymax>
+	</bndbox>
+</object>
+</annotation>

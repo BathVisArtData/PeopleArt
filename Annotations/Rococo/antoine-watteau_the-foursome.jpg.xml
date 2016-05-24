@@ -1,0 +1,70 @@
+<annotation>
+<folder>Rococo</folder>
+<style>Rococo</style>
+<filename>antoine-watteau_the-foursome.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>antoine-watteau</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>383</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>287</xmin>
+		<ymin>105</ymin>
+		<xmax>342</xmax>
+		<ymax>333</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>73</xmin>
+		<ymin>143</ymin>
+		<xmax>155</xmax>
+		<ymax>320</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>146</xmin>
+		<ymin>138</ymin>
+		<xmax>238</xmax>
+		<ymax>317</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>204</xmin>
+		<ymin>142</ymin>
+		<xmax>310</xmax>
+		<ymax>294</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,106 @@
+<annotation>
+<folder>cartoon</folder>
+<style>cartoon</style>
+<filename>astro-boy-cartoon-10-2-s-307x512.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>googleimage</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>unknown</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>268</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>82</xmin>
+		<ymin>55</ymin>
+		<xmax>147</xmax>
+		<ymax>177</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>109</xmin>
+		<ymin>50</ymin>
+		<xmax>205</xmax>
+		<ymax>196</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>393</xmin>
+		<ymin>92</ymin>
+		<xmax>474</xmax>
+		<ymax>231</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>270</xmin>
+		<ymin>77</ymin>
+		<xmax>404</xmax>
+		<ymax>262</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>321</xmin>
+		<ymin>162</ymin>
+		<xmax>387</xmax>
+		<ymax>265</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>221</xmin>
+		<ymin>176</ymin>
+		<xmax>283</xmax>
+		<ymax>268</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>165</xmin>
+		<ymin>220</ymin>
+		<xmax>225</xmax>
+		<ymax>268</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,46 @@
+<annotation>
+<folder>LowbrowArt</folder>
+<style>LowbrowArt</style>
+<filename>robert-williams_the-chrysalis-of-death-1993.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>robert-williams</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>394</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>287</xmin>
+		<ymin>51</ymin>
+		<xmax>366</xmax>
+		<ymax>190</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>112</xmin>
+		<ymin>84</ymin>
+		<xmax>162</xmax>
+		<ymax>284</ymax>
+	</bndbox>
+</object>
+</annotation>

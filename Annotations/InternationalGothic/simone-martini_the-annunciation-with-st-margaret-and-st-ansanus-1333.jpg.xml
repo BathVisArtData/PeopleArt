@@ -1,0 +1,118 @@
+<annotation>
+<folder>InternationalGothic</folder>
+<style>InternationalGothic</style>
+<filename>simone-martini_the-annunciation-with-st-margaret-and-st-ansanus-1333.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>simone-martini</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>427</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>21</xmin>
+		<ymin>187</ymin>
+		<xmax>92</xmax>
+		<ymax>393</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>111</xmin>
+		<ymin>215</ymin>
+		<xmax>222</xmax>
+		<ymax>394</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>259</xmin>
+		<ymin>206</ymin>
+		<xmax>380</xmax>
+		<ymax>397</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>403</xmin>
+		<ymin>185</ymin>
+		<xmax>482</xmax>
+		<ymax>400</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>431</xmin>
+		<ymin>105</ymin>
+		<xmax>452</xmax>
+		<ymax>131</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>349</xmin>
+		<ymin>104</ymin>
+		<xmax>371</xmax>
+		<ymax>131</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>134</xmin>
+		<ymin>102</ymin>
+		<xmax>155</xmax>
+		<ymax>126</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>47</xmin>
+		<ymin>101</ymin>
+		<xmax>68</xmax>
+		<ymax>124</ymax>
+	</bndbox>
+</object>
+</annotation>

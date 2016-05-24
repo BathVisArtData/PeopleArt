@@ -1,0 +1,46 @@
+<annotation>
+<folder>SocialistRealism</folder>
+<style>SocialistRealism</style>
+<filename>kukryniksy_napoleon-was-defeated-that-will-be-the-case-of-the-swelled-headed-hitler-1941.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>kukryniksy</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>348</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>168</xmin>
+		<ymin>154</ymin>
+		<xmax>334</xmax>
+		<ymax>338</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>19</xmin>
+		<ymin>13</ymin>
+		<xmax>214</xmax>
+		<ymax>334</ymax>
+	</bndbox>
+</object>
+</annotation>

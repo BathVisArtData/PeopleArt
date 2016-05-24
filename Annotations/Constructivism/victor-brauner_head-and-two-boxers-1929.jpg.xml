@@ -1,0 +1,34 @@
+<annotation>
+<folder>Constructivism</folder>
+<style>Constructivism</style>
+<filename>victor-brauner_head-and-two-boxers-1929.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>victor-brauner</name>
+</owner>
+<size>
+	<width>413</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>199</xmin>
+		<ymin>51</ymin>
+		<xmax>322</xmax>
+		<ymax>288</ymax>
+	</bndbox>
+</object>
+</annotation>

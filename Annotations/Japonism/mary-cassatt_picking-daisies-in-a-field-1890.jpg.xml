@@ -1,0 +1,46 @@
+<annotation>
+<folder>Japonism</folder>
+<style>Japonism</style>
+<filename>mary-cassatt_picking-daisies-in-a-field-1890.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>mary-cassatt</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>359</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>2</xmin>
+		<ymin>10</ymin>
+		<xmax>362</xmax>
+		<ymax>357</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>305</xmin>
+		<ymin>41</ymin>
+		<xmax>407</xmax>
+		<ymax>267</ymax>
+	</bndbox>
+</object>
+</annotation>

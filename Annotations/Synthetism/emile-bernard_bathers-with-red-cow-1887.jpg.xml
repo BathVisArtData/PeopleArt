@@ -1,0 +1,142 @@
+<annotation>
+<folder>Synthetism</folder>
+<style>Synthetism</style>
+<filename>emile-bernard_bathers-with-red-cow-1887.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>emile-bernard</name>
+</owner>
+<size>
+	<width>387</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>281</xmin>
+		<ymin>208</ymin>
+		<xmax>384</xmax>
+		<ymax>447</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>74</xmin>
+		<ymin>248</ymin>
+		<xmax>273</xmax>
+		<ymax>325</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>51</xmin>
+		<ymin>324</ymin>
+		<xmax>263</xmax>
+		<ymax>500</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>323</xmin>
+		<ymin>69</ymin>
+		<xmax>385</xmax>
+		<ymax>174</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>277</xmin>
+		<ymin>57</ymin>
+		<xmax>337</xmax>
+		<ymax>162</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>186</xmin>
+		<ymin>10</ymin>
+		<xmax>271</xmax>
+		<ymax>233</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>117</xmin>
+		<ymin>53</ymin>
+		<xmax>186</xmax>
+		<ymax>168</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>55</xmin>
+		<ymin>99</ymin>
+		<xmax>172</xmax>
+		<ymax>228</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>16</xmin>
+		<ymin>84</ymin>
+		<xmax>88</xmax>
+		<ymax>180</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>118</ymin>
+		<xmax>20</xmax>
+		<ymax>372</ymax>
+	</bndbox>
+</object>
+</annotation>

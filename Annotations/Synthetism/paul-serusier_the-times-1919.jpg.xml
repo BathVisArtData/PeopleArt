@@ -1,0 +1,94 @@
+<annotation>
+<folder>Synthetism</folder>
+<style>Synthetism</style>
+<filename>paul-serusier_the-times-1919.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>paul-serusier</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>401</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>222</xmin>
+		<ymin>232</ymin>
+		<xmax>274</xmax>
+		<ymax>328</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>364</xmin>
+		<ymin>190</ymin>
+		<xmax>428</xmax>
+		<ymax>246</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>309</xmin>
+		<ymin>150</ymin>
+		<xmax>367</xmax>
+		<ymax>200</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>422</xmin>
+		<ymin>72</ymin>
+		<xmax>468</xmax>
+		<ymax>127</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>454</xmin>
+		<ymin>294</ymin>
+		<xmax>493</xmax>
+		<ymax>335</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>173</xmin>
+		<ymin>211</ymin>
+		<xmax>202</xmax>
+		<ymax>291</ymax>
+	</bndbox>
+</object>
+</annotation>

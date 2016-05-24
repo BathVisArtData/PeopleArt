@@ -1,0 +1,46 @@
+<annotation>
+<folder>LowbrowArt</folder>
+<style>LowbrowArt</style>
+<filename>robert-williams_the-four-seasons-as-seen-through-the-eyes-of-jessica-s-sock-monkey-1997.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>robert-williams</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>346</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>21</xmin>
+		<ymin>22</ymin>
+		<xmax>108</xmax>
+		<ymax>128</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>85</xmin>
+		<ymin>23</ymin>
+		<xmax>146</xmax>
+		<ymax>111</ymax>
+	</bndbox>
+</object>
+</annotation>

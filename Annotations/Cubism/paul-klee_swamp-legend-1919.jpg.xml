@@ -1,0 +1,22 @@
+<annotation>
+<folder>Cubism</folder>
+<style>Cubism</style>
+<filename>paul-klee_swamp-legend-1919.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>paul-klee</name>
+</owner>
+<size>
+	<width>360</width>
+	<height>450</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>1</difficult>
+</annotation>

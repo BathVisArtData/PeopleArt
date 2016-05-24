@@ -1,0 +1,106 @@
+<annotation>
+<folder>Academicism</folder>
+<style>Academicism</style>
+<filename>ernest-meissonier_the-portrait-of-a-sergeant-1874.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>ernest-meissonier</name>
+</owner>
+<size>
+	<width>432</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>17</xmin>
+		<ymin>188</ymin>
+		<xmax>91</xmax>
+		<ymax>419</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>67</xmin>
+		<ymin>181</ymin>
+		<xmax>142</xmax>
+		<ymax>413</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>140</xmin>
+		<ymin>246</ymin>
+		<xmax>222</xmax>
+		<ymax>417</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>141</xmin>
+		<ymin>182</ymin>
+		<xmax>241</xmax>
+		<ymax>292</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>203</xmin>
+		<ymin>238</ymin>
+		<xmax>280</xmax>
+		<ymax>427</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>255</xmin>
+		<ymin>155</ymin>
+		<xmax>361</xmax>
+		<ymax>467</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>275</xmin>
+		<ymin>244</ymin>
+		<xmax>394</xmax>
+		<ymax>437</ymax>
+	</bndbox>
+</object>
+</annotation>

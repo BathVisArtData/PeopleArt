@@ -1,0 +1,94 @@
+<annotation>
+<folder>photo</folder>
+<style>photo</style>
+<filename>002798.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>PASCAL VOC2007</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>unknown</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>375</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>60</xmin>
+		<ymin>44</ymin>
+		<xmax>160</xmax>
+		<ymax>159</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>170</xmin>
+		<ymin>53</ymin>
+		<xmax>258</xmax>
+		<ymax>138</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>232</xmin>
+		<ymin>39</ymin>
+		<xmax>359</xmax>
+		<ymax>167</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>388</xmin>
+		<ymin>50</ymin>
+		<xmax>498</xmax>
+		<ymax>186</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>256</xmin>
+		<ymin>171</ymin>
+		<xmax>500</xmax>
+		<ymax>375</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>2</xmin>
+		<ymin>153</ymin>
+		<xmax>238</xmax>
+		<ymax>375</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,94 @@
+<annotation>
+<folder>ArtDeco</folder>
+<style>ArtDeco</style>
+<filename>erte_spring-fashions.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>erte</name>
+</owner>
+<size>
+	<width>357</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>101</xmin>
+		<ymin>132</ymin>
+		<xmax>256</xmax>
+		<ymax>468</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>53</xmin>
+		<ymin>419</ymin>
+		<xmax>90</xmax>
+		<ymax>447</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>94</xmin>
+		<ymin>420</ymin>
+		<xmax>133</xmax>
+		<ymax>453</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>153</xmin>
+		<ymin>420</ymin>
+		<xmax>175</xmax>
+		<ymax>448</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>181</xmin>
+		<ymin>416</ymin>
+		<xmax>221</xmax>
+		<ymax>451</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>214</xmin>
+		<ymin>417</ymin>
+		<xmax>269</xmax>
+		<ymax>447</ymax>
+	</bndbox>
+</object>
+</annotation>

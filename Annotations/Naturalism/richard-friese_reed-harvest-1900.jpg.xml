@@ -1,0 +1,46 @@
+<annotation>
+<folder>Naturalism</folder>
+<style>Naturalism</style>
+<filename>richard-friese_reed-harvest-1900.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>richard-friese</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>252</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>70</xmin>
+		<ymin>53</ymin>
+		<xmax>95</xmax>
+		<ymax>76</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>102</xmin>
+		<ymin>38</ymin>
+		<xmax>139</xmax>
+		<ymax>77</ymax>
+	</bndbox>
+</object>
+</annotation>

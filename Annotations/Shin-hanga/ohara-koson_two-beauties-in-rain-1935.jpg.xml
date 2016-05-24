@@ -1,0 +1,46 @@
+<annotation>
+<folder>Shin-hanga</folder>
+<style>Shin-hanga</style>
+<filename>ohara-koson_two-beauties-in-rain-1935.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>ohara-koson</name>
+</owner>
+<size>
+	<width>342</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>121</xmin>
+		<ymin>279</ymin>
+		<xmax>198</xmax>
+		<ymax>465</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>207</xmin>
+		<ymin>242</ymin>
+		<xmax>281</xmax>
+		<ymax>465</ymax>
+	</bndbox>
+</object>
+</annotation>

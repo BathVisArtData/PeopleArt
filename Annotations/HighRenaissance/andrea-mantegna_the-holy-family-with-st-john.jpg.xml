@@ -1,0 +1,70 @@
+<annotation>
+<folder>HighRenaissance</folder>
+<style>HighRenaissance</style>
+<filename>andrea-mantegna_the-holy-family-with-st-john.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>andrea-mantegna</name>
+</owner>
+<size>
+	<width>355</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>19</xmin>
+		<ymin>37</ymin>
+		<xmax>153</xmax>
+		<ymax>487</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>99</xmin>
+		<ymin>23</ymin>
+		<xmax>299</xmax>
+		<ymax>498</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>248</xmin>
+		<ymin>208</ymin>
+		<xmax>355</xmax>
+		<ymax>487</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>200</xmin>
+		<ymin>53</ymin>
+		<xmax>355</xmax>
+		<ymax>450</ymax>
+	</bndbox>
+</object>
+</annotation>

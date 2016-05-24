@@ -1,0 +1,94 @@
+<annotation>
+<folder>Ukiyo-e</folder>
+<style>Ukiyo-e</style>
+<filename>utagawa-kuniyoshi_lacquered-boxes-against-rain.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>utagawa-kuniyoshi</name>
+</owner>
+<size>
+	<width>353</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>33</xmin>
+		<ymin>251</ymin>
+		<xmax>198</xmax>
+		<ymax>494</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>103</xmin>
+		<ymin>216</ymin>
+		<xmax>225</xmax>
+		<ymax>472</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>161</xmin>
+		<ymin>197</ymin>
+		<xmax>306</xmax>
+		<ymax>433</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>74</xmin>
+		<ymin>154</ymin>
+		<xmax>221</xmax>
+		<ymax>206</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>7</xmin>
+		<ymin>131</ymin>
+		<xmax>162</xmax>
+		<ymax>369</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>78</xmin>
+		<ymin>92</ymin>
+		<xmax>170</xmax>
+		<ymax>146</ymax>
+	</bndbox>
+</object>
+</annotation>

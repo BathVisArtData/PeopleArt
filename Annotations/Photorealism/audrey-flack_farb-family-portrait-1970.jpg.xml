@@ -1,0 +1,70 @@
+<annotation>
+<folder>Photorealism</folder>
+<style>Photorealism</style>
+<filename>audrey-flack_farb-family-portrait-1970.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>audrey-flack</name>
+</owner>
+<size>
+	<width>460</width>
+	<height>287</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>28</xmin>
+		<ymin>25</ymin>
+		<xmax>208</xmax>
+		<ymax>287</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>164</xmin>
+		<ymin>14</ymin>
+		<xmax>309</xmax>
+		<ymax>273</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>219</xmin>
+		<ymin>110</ymin>
+		<xmax>376</xmax>
+		<ymax>287</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>310</xmin>
+		<ymin>21</ymin>
+		<xmax>438</xmax>
+		<ymax>287</ymax>
+	</bndbox>
+</object>
+</annotation>

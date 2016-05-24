@@ -1,0 +1,118 @@
+<annotation>
+<folder>Classicism</folder>
+<style>Classicism</style>
+<filename>claude-lorrain_apollo-and-the-muses-on-mount-helicon-1680.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>claude-lorrain</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>360</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>274</xmin>
+		<ymin>163</ymin>
+		<xmax>290</xmax>
+		<ymax>203</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>281</xmin>
+		<ymin>176</ymin>
+		<xmax>303</xmax>
+		<ymax>229</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>292</xmin>
+		<ymin>160</ymin>
+		<xmax>306</xmax>
+		<ymax>195</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>315</xmin>
+		<ymin>153</ymin>
+		<xmax>340</xmax>
+		<ymax>211</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>428</xmin>
+		<ymin>176</ymin>
+		<xmax>462</xmax>
+		<ymax>250</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>391</xmin>
+		<ymin>186</ymin>
+		<xmax>423</xmax>
+		<ymax>241</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>365</xmin>
+		<ymin>184</ymin>
+		<xmax>393</xmax>
+		<ymax>219</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>383</xmin>
+		<ymin>166</ymin>
+		<xmax>399</xmax>
+		<ymax>202</ymax>
+	</bndbox>
+</object>
+</annotation>

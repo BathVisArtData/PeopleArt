@@ -1,0 +1,46 @@
+<annotation>
+<folder>Academicism</folder>
+<style>Academicism</style>
+<filename>jehan-georges-vibert_the-duet-1897.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>jehan-georges-vibert</name>
+</owner>
+<size>
+	<width>396</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>184</ymin>
+		<xmax>127</xmax>
+		<ymax>398</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>82</xmin>
+		<ymin>226</ymin>
+		<xmax>267</xmax>
+		<ymax>500</ymax>
+	</bndbox>
+</object>
+</annotation>

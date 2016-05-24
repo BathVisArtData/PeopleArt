@@ -1,0 +1,58 @@
+<annotation>
+<folder>Tonalism</folder>
+<style>Tonalism</style>
+<filename>james-mcneill-whistler_corte-del-paradiso.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>james-mcneill-whistler</name>
+</owner>
+<size>
+	<width>245</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>20</xmin>
+		<ymin>363</ymin>
+		<xmax>46</xmax>
+		<ymax>448</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>45</xmin>
+		<ymin>377</ymin>
+		<xmax>59</xmax>
+		<ymax>434</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>195</xmin>
+		<ymin>326</ymin>
+		<xmax>212</xmax>
+		<ymax>400</ymax>
+	</bndbox>
+</object>
+</annotation>

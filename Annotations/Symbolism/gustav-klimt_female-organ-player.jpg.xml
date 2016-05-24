@@ -1,0 +1,46 @@
+<annotation>
+<folder>Symbolism</folder>
+<style>Symbolism</style>
+<filename>gustav-klimt_female-organ-player.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>gustav-klimt</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>370</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>52</xmin>
+		<ymin>92</ymin>
+		<xmax>284</xmax>
+		<ymax>326</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>165</xmin>
+		<ymin>43</ymin>
+		<xmax>446</xmax>
+		<ymax>274</ymax>
+	</bndbox>
+</object>
+</annotation>

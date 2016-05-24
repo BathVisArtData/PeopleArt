@@ -1,0 +1,82 @@
+<annotation>
+<folder>ArtNouveau(Modern)</folder>
+<style>ArtNouveau(Modern)</style>
+<filename>sergey-solomko_place-de-la-republic-and-of-happyness.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>sergey-solomko</name>
+</owner>
+<size>
+	<width>328</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>30</xmin>
+		<ymin>4</ymin>
+		<xmax>68</xmax>
+		<ymax>83</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>70</xmin>
+		<ymin>118</ymin>
+		<xmax>103</xmax>
+		<ymax>173</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>43</xmin>
+		<ymin>233</ymin>
+		<xmax>110</xmax>
+		<ymax>441</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>75</xmin>
+		<ymin>117</ymin>
+		<xmax>211</xmax>
+		<ymax>440</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>194</xmin>
+		<ymin>130</ymin>
+		<xmax>290</xmax>
+		<ymax>446</ymax>
+	</bndbox>
+</object>
+</annotation>

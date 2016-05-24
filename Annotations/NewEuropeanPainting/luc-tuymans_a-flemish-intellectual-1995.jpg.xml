@@ -1,0 +1,34 @@
+<annotation>
+<folder>NewEuropeanPainting</folder>
+<style>NewEuropeanPainting</style>
+<filename>luc-tuymans_a-flemish-intellectual-1995.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>luc-tuymans</name>
+</owner>
+<size>
+	<width>315</width>
+	<height>420</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>88</xmin>
+		<ymin>101</ymin>
+		<xmax>229</xmax>
+		<ymax>293</ymax>
+	</bndbox>
+</object>
+</annotation>

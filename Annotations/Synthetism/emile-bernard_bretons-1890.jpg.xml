@@ -1,0 +1,70 @@
+<annotation>
+<folder>Synthetism</folder>
+<style>Synthetism</style>
+<filename>emile-bernard_bretons-1890.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>emile-bernard</name>
+</owner>
+<size>
+	<width>328</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>2</xmin>
+		<ymin>259</ymin>
+		<xmax>208</xmax>
+		<ymax>500</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>122</xmin>
+		<ymin>263</ymin>
+		<xmax>319</xmax>
+		<ymax>498</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>110</xmin>
+		<ymin>38</ymin>
+		<xmax>182</xmax>
+		<ymax>153</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>168</xmin>
+		<ymin>48</ymin>
+		<xmax>241</xmax>
+		<ymax>157</ymax>
+	</bndbox>
+</object>
+</annotation>

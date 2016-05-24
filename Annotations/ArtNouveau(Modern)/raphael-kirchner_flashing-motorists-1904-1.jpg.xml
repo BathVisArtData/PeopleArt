@@ -1,0 +1,46 @@
+<annotation>
+<folder>ArtNouveau(Modern)</folder>
+<style>ArtNouveau(Modern)</style>
+<filename>raphael-kirchner_flashing-motorists-1904-1.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>raphael-kirchner</name>
+</owner>
+<size>
+	<width>330</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>67</xmin>
+		<ymin>94</ymin>
+		<xmax>277</xmax>
+		<ymax>372</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>137</xmin>
+		<ymin>23</ymin>
+		<xmax>254</xmax>
+		<ymax>301</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,118 @@
+<annotation>
+<folder>Neo-FigurativeArt</folder>
+<style>Neo-FigurativeArt</style>
+<filename>fernando-botero_the-apotheosis-of-ramon-hoyos.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>fernando-botero</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>275</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>174</xmin>
+		<ymin>2</ymin>
+		<xmax>382</xmax>
+		<ymax>206</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>32</xmin>
+		<ymin>122</ymin>
+		<xmax>224</xmax>
+		<ymax>240</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>350</xmin>
+		<ymin>114</ymin>
+		<xmax>496</xmax>
+		<ymax>254</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>28</xmin>
+		<ymin>177</ymin>
+		<xmax>145</xmax>
+		<ymax>269</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>218</xmin>
+		<ymin>192</ymin>
+		<xmax>279</xmax>
+		<ymax>254</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>263</xmin>
+		<ymin>187</ymin>
+		<xmax>323</xmax>
+		<ymax>271</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>135</xmin>
+		<ymin>225</ymin>
+		<xmax>189</xmax>
+		<ymax>271</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Unspecified</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>5</xmin>
+		<ymin>172</ymin>
+		<xmax>44</xmax>
+		<ymax>250</ymax>
+	</bndbox>
+</object>
+</annotation>

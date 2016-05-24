@@ -1,0 +1,82 @@
+<annotation>
+<folder>Neo-baroque</folder>
+<style>Neo-baroque</style>
+<filename>salvador-dali_copy-of-a-rubens-copy-of-a-leonardo.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>salvador-dali</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>368</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>25</xmin>
+		<ymin>244</ymin>
+		<xmax>187</xmax>
+		<ymax>365</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>281</xmin>
+		<ymin>269</ymin>
+		<xmax>361</xmax>
+		<ymax>345</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>37</xmin>
+		<ymin>65</ymin>
+		<xmax>214</xmax>
+		<ymax>256</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>164</xmin>
+		<ymin>7</ymin>
+		<xmax>240</xmax>
+		<ymax>156</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>296</xmin>
+		<ymin>26</ymin>
+		<xmax>449</xmax>
+		<ymax>231</ymax>
+	</bndbox>
+</object>
+</annotation>

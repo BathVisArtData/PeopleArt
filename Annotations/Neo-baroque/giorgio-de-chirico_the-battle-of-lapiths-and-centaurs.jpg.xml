@@ -1,0 +1,46 @@
+<annotation>
+<folder>Neo-baroque</folder>
+<style>Neo-baroque</style>
+<filename>giorgio-de-chirico_the-battle-of-lapiths-and-centaurs.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>giorgio-de-chirico</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>337</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>203</xmin>
+		<ymin>92</ymin>
+		<xmax>256</xmax>
+		<ymax>143</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>46</xmin>
+		<ymin>118</ymin>
+		<xmax>100</xmax>
+		<ymax>199</ymax>
+	</bndbox>
+</object>
+</annotation>

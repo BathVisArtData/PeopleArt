@@ -1,0 +1,142 @@
+<annotation>
+<folder>Synthetism</folder>
+<style>Synthetism</style>
+<filename>emile-bernard_buckwheat-harvesters-at-pont-aven-1888.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>emile-bernard</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>400</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>91</xmin>
+		<ymin>291</ymin>
+		<xmax>215</xmax>
+		<ymax>400</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>129</xmin>
+		<ymin>128</ymin>
+		<xmax>248</xmax>
+		<ymax>400</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>272</xmin>
+		<ymin>78</ymin>
+		<xmax>394</xmax>
+		<ymax>322</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>415</xmin>
+		<ymin>19</ymin>
+		<xmax>493</xmax>
+		<ymax>304</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>66</ymin>
+		<xmax>69</xmax>
+		<ymax>216</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>65</xmin>
+		<ymin>55</ymin>
+		<xmax>153</xmax>
+		<ymax>149</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>169</xmin>
+		<ymin>1</ymin>
+		<xmax>241</xmax>
+		<ymax>125</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Unspecified</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>245</xmin>
+		<ymin>22</ymin>
+		<xmax>284</xmax>
+		<ymax>51</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>297</xmin>
+		<ymin>41</ymin>
+		<xmax>348</xmax>
+		<ymax>82</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>376</xmin>
+		<ymin>19</ymin>
+		<xmax>424</xmax>
+		<ymax>84</ymax>
+	</bndbox>
+</object>
+</annotation>

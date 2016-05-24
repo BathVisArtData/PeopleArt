@@ -1,0 +1,58 @@
+<annotation>
+<folder>Photorealism</folder>
+<style>Photorealism</style>
+<filename>charles-bell_oh-boy-1990.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>charles-bell</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>394</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>204</xmin>
+		<ymin>165</ymin>
+		<xmax>430</xmax>
+		<ymax>392</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>315</xmin>
+		<ymin>153</ymin>
+		<xmax>410</xmax>
+		<ymax>382</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Unspecified</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>365</xmin>
+		<ymin>120</ymin>
+		<xmax>461</xmax>
+		<ymax>276</ymax>
+	</bndbox>
+</object>
+</annotation>

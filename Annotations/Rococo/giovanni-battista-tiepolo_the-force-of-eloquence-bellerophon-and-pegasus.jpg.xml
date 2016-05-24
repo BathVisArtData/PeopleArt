@@ -1,0 +1,34 @@
+<annotation>
+<folder>Rococo</folder>
+<style>Rococo</style>
+<filename>giovanni-battista-tiepolo_the-force-of-eloquence-bellerophon-and-pegasus.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>giovanni-battista-tiepolo</name>
+</owner>
+<size>
+	<width>445</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>135</xmin>
+		<ymin>129</ymin>
+		<xmax>381</xmax>
+		<ymax>433</ymax>
+	</bndbox>
+</object>
+</annotation>

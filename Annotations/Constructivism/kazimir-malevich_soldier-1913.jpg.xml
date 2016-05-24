@@ -1,0 +1,46 @@
+<annotation>
+<folder>Constructivism</folder>
+<style>Constructivism</style>
+<filename>kazimir-malevich_soldier-1913.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>kazimir-malevich</name>
+</owner>
+<size>
+	<width>329</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>95</xmin>
+		<ymin>39</ymin>
+		<xmax>227</xmax>
+		<ymax>344</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>24</xmin>
+		<ymin>405</ymin>
+		<xmax>75</xmax>
+		<ymax>489</ymax>
+	</bndbox>
+</object>
+</annotation>

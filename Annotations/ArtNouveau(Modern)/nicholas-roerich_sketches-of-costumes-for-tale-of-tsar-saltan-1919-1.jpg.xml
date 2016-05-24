@@ -1,0 +1,46 @@
+<annotation>
+<folder>ArtNouveau(Modern)</folder>
+<style>ArtNouveau(Modern)</style>
+<filename>nicholas-roerich_sketches-of-costumes-for-tale-of-tsar-saltan-1919-1.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>nicholas-roerich</name>
+</owner>
+<size>
+	<width>398</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>21</xmin>
+		<ymin>79</ymin>
+		<xmax>204</xmax>
+		<ymax>392</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>209</xmin>
+		<ymin>71</ymin>
+		<xmax>391</xmax>
+		<ymax>393</ymax>
+	</bndbox>
+</object>
+</annotation>

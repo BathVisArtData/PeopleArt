@@ -1,0 +1,22 @@
+<annotation>
+<folder>Impressionism</folder>
+<style>Impressionism</style>
+<filename>alfred-sisley_the-straw-rent-1888.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>alfred-sisley</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>374</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>1</difficult>
+</annotation>

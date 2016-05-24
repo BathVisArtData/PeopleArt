@@ -1,0 +1,34 @@
+<annotation>
+<folder>Constructivism</folder>
+<style>Constructivism</style>
+<filename>lyubov-popova_production-clothing-for-actor-no-5-in-fernand-crommelynck-s-play-the-magnanimous-cuckold.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>lyubov-popova</name>
+</owner>
+<size>
+	<width>369</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>39</xmin>
+		<ymin>31</ymin>
+		<xmax>326</xmax>
+		<ymax>493</ymax>
+	</bndbox>
+</object>
+</annotation>

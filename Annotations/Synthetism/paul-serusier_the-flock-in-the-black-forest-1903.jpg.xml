@@ -1,0 +1,34 @@
+<annotation>
+<folder>Synthetism</folder>
+<style>Synthetism</style>
+<filename>paul-serusier_the-flock-in-the-black-forest-1903.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>paul-serusier</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>420</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>191</xmin>
+		<ymin>251</ymin>
+		<xmax>221</xmax>
+		<ymax>293</ymax>
+	</bndbox>
+</object>
+</annotation>

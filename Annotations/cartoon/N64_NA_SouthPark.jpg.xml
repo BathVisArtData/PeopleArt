@@ -1,0 +1,106 @@
+<annotation>
+<folder>cartoon</folder>
+<style>cartoon</style>
+<filename>N64_NA_SouthPark.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>googleimage</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>unknown</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>366</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>87</xmin>
+		<ymin>138</ymin>
+		<xmax>125</xmax>
+		<ymax>198</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>8</xmin>
+		<ymin>177</ymin>
+		<xmax>101</xmax>
+		<ymax>335</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>99</xmin>
+		<ymin>192</ymin>
+		<xmax>202</xmax>
+		<ymax>338</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>187</xmin>
+		<ymin>193</ymin>
+		<xmax>300</xmax>
+		<ymax>339</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>279</xmin>
+		<ymin>185</ymin>
+		<xmax>436</xmax>
+		<ymax>339</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>11</xmin>
+		<ymin>78</ymin>
+		<xmax>30</xmax>
+		<ymax>102</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>31</xmin>
+		<ymin>80</ymin>
+		<xmax>44</xmax>
+		<ymax>100</ymax>
+	</bndbox>
+</object>
+</annotation>

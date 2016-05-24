@@ -1,0 +1,130 @@
+<annotation>
+<folder>Rococo</folder>
+<style>Rococo</style>
+<filename>benjamin-west_the-death-of-nelson-1808.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>benjamin-west</name>
+</owner>
+<size>
+	<width>404</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>228</xmin>
+		<ymin>255</ymin>
+		<xmax>310</xmax>
+		<ymax>373</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>277</xmin>
+		<ymin>277</ymin>
+		<xmax>367</xmax>
+		<ymax>429</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>308</xmin>
+		<ymin>214</ymin>
+		<xmax>376</xmax>
+		<ymax>289</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>177</xmin>
+		<ymin>232</ymin>
+		<xmax>259</xmax>
+		<ymax>328</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>261</xmin>
+		<ymin>223</ymin>
+		<xmax>315</xmax>
+		<ymax>286</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>138</xmin>
+		<ymin>191</ymin>
+		<xmax>191</xmax>
+		<ymax>304</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>80</xmin>
+		<ymin>183</ymin>
+		<xmax>142</xmax>
+		<ymax>286</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>29</xmin>
+		<ymin>162</ymin>
+		<xmax>111</xmax>
+		<ymax>410</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>68</xmin>
+		<ymin>291</ymin>
+		<xmax>182</xmax>
+		<ymax>454</ymax>
+	</bndbox>
+</object>
+</annotation>

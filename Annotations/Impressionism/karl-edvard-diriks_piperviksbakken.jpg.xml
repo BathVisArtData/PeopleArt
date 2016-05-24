@@ -1,0 +1,22 @@
+<annotation>
+<folder>Impressionism</folder>
+<style>Impressionism</style>
+<filename>karl-edvard-diriks_piperviksbakken.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>karl-edvard-diriks</name>
+</owner>
+<size>
+	<width>410</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>1</difficult>
+</annotation>

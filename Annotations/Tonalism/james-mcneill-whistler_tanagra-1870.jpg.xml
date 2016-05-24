@@ -1,0 +1,34 @@
+<annotation>
+<folder>Tonalism</folder>
+<style>Tonalism</style>
+<filename>james-mcneill-whistler_tanagra-1870.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>james-mcneill-whistler</name>
+</owner>
+<size>
+	<width>271</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>59</xmin>
+		<ymin>13</ymin>
+		<xmax>195</xmax>
+		<ymax>486</ymax>
+	</bndbox>
+</object>
+</annotation>

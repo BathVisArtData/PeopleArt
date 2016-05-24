@@ -1,0 +1,58 @@
+<annotation>
+<folder>PopArt</folder>
+<style>PopArt</style>
+<filename>allen-jones_pour-les-levres-1965.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>allen-jones</name>
+</owner>
+<size>
+	<width>370</width>
+	<height>480</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>121</xmin>
+		<ymin>2</ymin>
+		<xmax>357</xmax>
+		<ymax>477</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>142</xmin>
+		<ymin>7</ymin>
+		<xmax>205</xmax>
+		<ymax>70</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>251</xmin>
+		<ymin>9</ymin>
+		<xmax>313</xmax>
+		<ymax>77</ymax>
+	</bndbox>
+</object>
+</annotation>

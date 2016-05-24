@@ -1,0 +1,34 @@
+<annotation>
+<folder>Naturalism</folder>
+<style>Naturalism</style>
+<filename>henrique-pousao_velha-a-dobar-1881.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>henrique-pousao</name>
+</owner>
+<size>
+	<width>400</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>59</xmin>
+		<ymin>31</ymin>
+		<xmax>340</xmax>
+		<ymax>494</ymax>
+	</bndbox>
+</object>
+</annotation>

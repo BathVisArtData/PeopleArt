@@ -1,0 +1,106 @@
+<annotation>
+<folder>Academicism</folder>
+<style>Academicism</style>
+<filename>albert-anker_b-ckligumpen-1866.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>albert-anker</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>382</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>37</xmin>
+		<ymin>137</ymin>
+		<xmax>142</xmax>
+		<ymax>348</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>73</xmin>
+		<ymin>224</ymin>
+		<xmax>173</xmax>
+		<ymax>343</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>179</xmin>
+		<ymin>220</ymin>
+		<xmax>286</xmax>
+		<ymax>372</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>203</xmin>
+		<ymin>104</ymin>
+		<xmax>357</xmax>
+		<ymax>276</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>360</xmin>
+		<ymin>140</ymin>
+		<xmax>452</xmax>
+		<ymax>333</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>440</xmin>
+		<ymin>141</ymin>
+		<xmax>490</xmax>
+		<ymax>325</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>472</xmin>
+		<ymin>144</ymin>
+		<xmax>499</xmax>
+		<ymax>321</ymax>
+	</bndbox>
+</object>
+</annotation>

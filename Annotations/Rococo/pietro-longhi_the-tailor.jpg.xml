@@ -1,0 +1,82 @@
+<annotation>
+<folder>Rococo</folder>
+<style>Rococo</style>
+<filename>pietro-longhi_the-tailor.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>pietro-longhi</name>
+</owner>
+<size>
+	<width>421</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>75</xmin>
+		<ymin>218</ymin>
+		<xmax>171</xmax>
+		<ymax>298</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>170</xmin>
+		<ymin>183</ymin>
+		<xmax>250</xmax>
+		<ymax>325</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>203</xmin>
+		<ymin>240</ymin>
+		<xmax>331</xmax>
+		<ymax>460</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>326</xmin>
+		<ymin>326</ymin>
+		<xmax>419</xmax>
+		<ymax>474</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>248</xmin>
+		<ymin>74</ymin>
+		<xmax>305</xmax>
+		<ymax>148</ymax>
+	</bndbox>
+</object>
+</annotation>

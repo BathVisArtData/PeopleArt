@@ -1,0 +1,94 @@
+<annotation>
+<folder>FeministArt</folder>
+<style>FeministArt</style>
+<filename>miriam-schapiro_freya-miriam.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>miriam-schapiro</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>270</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>149</xmin>
+		<ymin>60</ymin>
+		<xmax>206</xmax>
+		<ymax>264</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>184</xmin>
+		<ymin>53</ymin>
+		<xmax>250</xmax>
+		<ymax>263</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>229</xmin>
+		<ymin>55</ymin>
+		<xmax>286</xmax>
+		<ymax>267</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>271</xmin>
+		<ymin>56</ymin>
+		<xmax>331</xmax>
+		<ymax>265</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>317</xmin>
+		<ymin>60</ymin>
+		<xmax>371</xmax>
+		<ymax>267</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>350</xmin>
+		<ymin>54</ymin>
+		<xmax>401</xmax>
+		<ymax>260</ymax>
+	</bndbox>
+</object>
+</annotation>

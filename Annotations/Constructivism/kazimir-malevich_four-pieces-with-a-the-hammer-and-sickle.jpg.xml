@@ -1,0 +1,70 @@
+<annotation>
+<folder>Constructivism</folder>
+<style>Constructivism</style>
+<filename>kazimir-malevich_four-pieces-with-a-the-hammer-and-sickle.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>kazimir-malevich</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>359</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>61</xmin>
+		<ymin>24</ymin>
+		<xmax>161</xmax>
+		<ymax>342</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>171</xmin>
+		<ymin>23</ymin>
+		<xmax>255</xmax>
+		<ymax>333</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>272</xmin>
+		<ymin>26</ymin>
+		<xmax>357</xmax>
+		<ymax>335</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>361</xmin>
+		<ymin>23</ymin>
+		<xmax>435</xmax>
+		<ymax>319</ymax>
+	</bndbox>
+</object>
+</annotation>

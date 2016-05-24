@@ -1,0 +1,82 @@
+<annotation>
+<folder>Naturalism</folder>
+<style>Naturalism</style>
+<filename>lovis-corinth_the-harem-1904.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>lovis-corinth</name>
+</owner>
+<size>
+	<width>450</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>2</xmin>
+		<ymin>7</ymin>
+		<xmax>122</xmax>
+		<ymax>447</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>74</xmin>
+		<ymin>16</ymin>
+		<xmax>229</xmax>
+		<ymax>469</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>90</xmin>
+		<ymin>164</ymin>
+		<xmax>446</xmax>
+		<ymax>471</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>251</xmin>
+		<ymin>3</ymin>
+		<xmax>449</xmax>
+		<ymax>272</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>314</xmin>
+		<ymin>145</ymin>
+		<xmax>449</xmax>
+		<ymax>456</ymax>
+	</bndbox>
+</object>
+</annotation>

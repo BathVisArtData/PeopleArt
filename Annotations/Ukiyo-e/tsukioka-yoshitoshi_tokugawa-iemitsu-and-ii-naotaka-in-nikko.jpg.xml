@@ -1,0 +1,46 @@
+<annotation>
+<folder>Ukiyo-e</folder>
+<style>Ukiyo-e</style>
+<filename>tsukioka-yoshitoshi_tokugawa-iemitsu-and-ii-naotaka-in-nikko.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>tsukioka-yoshitoshi</name>
+</owner>
+<size>
+	<width>324</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>140</xmin>
+		<ymin>138</ymin>
+		<xmax>191</xmax>
+		<ymax>224</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>108</xmin>
+		<ymin>174</ymin>
+		<xmax>143</xmax>
+		<ymax>220</ymax>
+	</bndbox>
+</object>
+</annotation>

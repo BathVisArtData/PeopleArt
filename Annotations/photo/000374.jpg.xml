@@ -1,0 +1,118 @@
+<annotation>
+<folder>photo</folder>
+<style>photo</style>
+<filename>000374.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>PASCAL VOC2007</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>unknown</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>375</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>119</xmin>
+		<ymin>1</ymin>
+		<xmax>317</xmax>
+		<ymax>351</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>39</xmin>
+		<ymin>4</ymin>
+		<xmax>128</xmax>
+		<ymax>172</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>308</xmin>
+		<ymin>32</ymin>
+		<xmax>351</xmax>
+		<ymax>121</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>23</xmin>
+		<ymin>41</ymin>
+		<xmax>47</xmax>
+		<ymax>121</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>3</xmin>
+		<ymin>34</ymin>
+		<xmax>27</xmax>
+		<ymax>139</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>359</xmin>
+		<ymin>39</ymin>
+		<xmax>372</xmax>
+		<ymax>96</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>216</xmin>
+		<ymin>39</ymin>
+		<xmax>247</xmax>
+		<ymax>82</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>466</xmin>
+		<ymin>31</ymin>
+		<xmax>495</xmax>
+		<ymax>128</ymax>
+	</bndbox>
+</object>
+</annotation>

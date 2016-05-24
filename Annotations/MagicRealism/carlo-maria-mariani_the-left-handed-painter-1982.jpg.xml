@@ -1,0 +1,46 @@
+<annotation>
+<folder>MagicRealism</folder>
+<style>MagicRealism</style>
+<filename>carlo-maria-mariani_the-left-handed-painter-1982.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>carlo-maria-mariani</name>
+</owner>
+<size>
+	<width>436</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>66</xmin>
+		<ymin>138</ymin>
+		<xmax>204</xmax>
+		<ymax>346</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>69</xmin>
+		<ymin>86</ymin>
+		<xmax>358</xmax>
+		<ymax>455</ymax>
+	</bndbox>
+</object>
+</annotation>

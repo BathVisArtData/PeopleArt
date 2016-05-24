@@ -1,0 +1,58 @@
+<annotation>
+<folder>Cubism</folder>
+<style>Cubism</style>
+<filename>fernand-leger_three-characters-1924.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>fernand-leger</name>
+</owner>
+<size>
+	<width>462</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>18</xmin>
+		<ymin>2</ymin>
+		<xmax>236</xmax>
+		<ymax>489</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>184</xmin>
+		<ymin>99</ymin>
+		<xmax>407</xmax>
+		<ymax>498</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>248</xmin>
+		<ymin>1</ymin>
+		<xmax>462</xmax>
+		<ymax>489</ymax>
+	</bndbox>
+</object>
+</annotation>

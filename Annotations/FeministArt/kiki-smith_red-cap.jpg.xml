@@ -1,0 +1,34 @@
+<annotation>
+<folder>FeministArt</folder>
+<style>FeministArt</style>
+<filename>kiki-smith_red-cap.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>kiki-smith</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>367</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>191</xmin>
+		<ymin>39</ymin>
+		<xmax>409</xmax>
+		<ymax>317</ymax>
+	</bndbox>
+</object>
+</annotation>

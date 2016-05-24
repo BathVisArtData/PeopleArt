@@ -1,0 +1,106 @@
+<annotation>
+<folder>Classicism</folder>
+<style>Classicism</style>
+<filename>nicolas-poussin_the-exposition-of-moses.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>nicolas-poussin</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>361</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>60</xmin>
+		<ymin>134</ymin>
+		<xmax>140</xmax>
+		<ymax>330</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>121</xmin>
+		<ymin>211</ymin>
+		<xmax>175</xmax>
+		<ymax>315</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>177</xmin>
+		<ymin>150</ymin>
+		<xmax>242</xmax>
+		<ymax>288</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>229</xmin>
+		<ymin>241</ymin>
+		<xmax>361</xmax>
+		<ymax>321</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>366</xmin>
+		<ymin>280</ymin>
+		<xmax>426</xmax>
+		<ymax>307</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>324</xmin>
+		<ymin>210</ymin>
+		<xmax>411</xmax>
+		<ymax>260</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>351</xmin>
+		<ymin>180</ymin>
+		<xmax>499</xmax>
+		<ymax>282</ymax>
+	</bndbox>
+</object>
+</annotation>

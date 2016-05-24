@@ -1,0 +1,34 @@
+<annotation>
+<folder>ArtNouveau(Modern)</folder>
+<style>ArtNouveau(Modern)</style>
+<filename>raphael-kirchner_girls-with-purple-surrounds-1900-9.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>raphael-kirchner</name>
+</owner>
+<size>
+	<width>356</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>159</xmin>
+		<ymin>101</ymin>
+		<xmax>296</xmax>
+		<ymax>412</ymax>
+	</bndbox>
+</object>
+</annotation>

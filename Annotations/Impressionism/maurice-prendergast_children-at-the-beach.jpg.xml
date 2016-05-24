@@ -1,0 +1,22 @@
+<annotation>
+<folder>Impressionism</folder>
+<style>Impressionism</style>
+<filename>maurice-prendergast_children-at-the-beach.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>maurice-prendergast</name>
+</owner>
+<size>
+	<width>354</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>1</difficult>
+</annotation>

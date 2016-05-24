@@ -1,0 +1,46 @@
+<annotation>
+<folder>Classicism</folder>
+<style>Classicism</style>
+<filename>claude-lorrain_landscape-with-apollo-guarding-the-herds-of-admetus.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>claude-lorrain</name>
+</owner>
+<size>
+	<width>390</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>66</xmin>
+		<ymin>379</ymin>
+		<xmax>151</xmax>
+		<ymax>490</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>205</xmin>
+		<ymin>374</ymin>
+		<xmax>265</xmax>
+		<ymax>456</ymax>
+	</bndbox>
+</object>
+</annotation>

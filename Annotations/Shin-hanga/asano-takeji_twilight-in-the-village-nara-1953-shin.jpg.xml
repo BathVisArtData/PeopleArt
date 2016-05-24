@@ -1,0 +1,46 @@
+<annotation>
+<folder>Shin-hanga</folder>
+<style>Shin-hanga</style>
+<filename>asano-takeji_twilight-in-the-village-nara-1953-shin.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>asano-takeji</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>330</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>313</xmin>
+		<ymin>229</ymin>
+		<xmax>334</xmax>
+		<ymax>260</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>241</xmin>
+		<ymin>242</ymin>
+		<xmax>273</xmax>
+		<ymax>292</ymax>
+	</bndbox>
+</object>
+</annotation>

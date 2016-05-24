@@ -1,0 +1,46 @@
+<annotation>
+<folder>NorthernRenaissance</folder>
+<style>NorthernRenaissance</style>
+<filename>albrecht-durer_ornaments-for-two-spoons-stalks.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>albrecht-durer</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>419</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>332</xmin>
+		<ymin>210</ymin>
+		<xmax>421</xmax>
+		<ymax>367</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>92</xmin>
+		<ymin>214</ymin>
+		<xmax>195</xmax>
+		<ymax>361</ymax>
+	</bndbox>
+</object>
+</annotation>

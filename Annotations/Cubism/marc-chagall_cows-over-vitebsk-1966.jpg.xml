@@ -1,0 +1,34 @@
+<annotation>
+<folder>Cubism</folder>
+<style>Cubism</style>
+<filename>marc-chagall_cows-over-vitebsk-1966.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>marc-chagall</name>
+</owner>
+<size>
+	<width>355</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>5</xmin>
+		<ymin>1</ymin>
+		<xmax>181</xmax>
+		<ymax>279</ymax>
+	</bndbox>
+</object>
+</annotation>

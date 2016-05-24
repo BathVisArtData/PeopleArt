@@ -1,0 +1,118 @@
+<annotation>
+<folder>LowbrowArt</folder>
+<style>LowbrowArt</style>
+<filename>robert-williams_putting-the-genie-back-in-the-bottle-2000.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>robert-williams</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>419</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>94</xmin>
+		<ymin>189</ymin>
+		<xmax>194</xmax>
+		<ymax>418</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>158</xmin>
+		<ymin>164</ymin>
+		<xmax>233</xmax>
+		<ymax>355</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>208</xmin>
+		<ymin>159</ymin>
+		<xmax>294</xmax>
+		<ymax>368</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>207</xmin>
+		<ymin>193</ymin>
+		<xmax>373</xmax>
+		<ymax>419</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>371</xmin>
+		<ymin>313</ymin>
+		<xmax>386</xmax>
+		<ymax>359</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>406</xmin>
+		<ymin>318</ymin>
+		<xmax>424</xmax>
+		<ymax>362</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>453</xmin>
+		<ymin>321</ymin>
+		<xmax>467</xmax>
+		<ymax>370</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>420</xmin>
+		<ymin>311</ymin>
+		<xmax>432</xmax>
+		<ymax>359</ymax>
+	</bndbox>
+</object>
+</annotation>

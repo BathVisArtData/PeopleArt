@@ -1,0 +1,154 @@
+<annotation>
+<folder>Rococo</folder>
+<style>Rococo</style>
+<filename>pietro-longhi_a-patrician-family.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>pietro-longhi</name>
+</owner>
+<size>
+	<width>410</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>326</xmin>
+		<ymin>253</ymin>
+		<xmax>410</xmax>
+		<ymax>429</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>277</xmin>
+		<ymin>164</ymin>
+		<xmax>367</xmax>
+		<ymax>278</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>197</xmin>
+		<ymin>320</ymin>
+		<xmax>252</xmax>
+		<ymax>422</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>162</xmin>
+		<ymin>308</ymin>
+		<xmax>213</xmax>
+		<ymax>405</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>207</xmin>
+		<ymin>192</ymin>
+		<xmax>320</xmax>
+		<ymax>426</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>213</xmin>
+		<ymin>163</ymin>
+		<xmax>241</xmax>
+		<ymax>221</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>171</xmin>
+		<ymin>157</ymin>
+		<xmax>243</xmax>
+		<ymax>283</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>116</xmin>
+		<ymin>217</ymin>
+		<xmax>213</xmax>
+		<ymax>373</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>125</xmin>
+		<ymin>348</ymin>
+		<xmax>174</xmax>
+		<ymax>462</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>50</xmin>
+		<ymin>264</ymin>
+		<xmax>173</xmax>
+		<ymax>490</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>19</xmin>
+		<ymin>207</ymin>
+		<xmax>114</xmax>
+		<ymax>444</ymax>
+	</bndbox>
+</object>
+</annotation>

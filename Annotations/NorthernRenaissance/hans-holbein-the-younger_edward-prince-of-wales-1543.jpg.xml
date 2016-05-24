@@ -1,0 +1,34 @@
+<annotation>
+<folder>NorthernRenaissance</folder>
+<style>NorthernRenaissance</style>
+<filename>hans-holbein-the-younger_edward-prince-of-wales-1543.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>hans-holbein-the-younger</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>499</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>84</xmin>
+		<ymin>39</ymin>
+		<xmax>419</xmax>
+		<ymax>463</ymax>
+	</bndbox>
+</object>
+</annotation>

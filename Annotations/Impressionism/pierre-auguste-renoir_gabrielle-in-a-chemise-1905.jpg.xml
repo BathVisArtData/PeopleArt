@@ -1,0 +1,34 @@
+<annotation>
+<folder>Impressionism</folder>
+<style>Impressionism</style>
+<filename>pierre-auguste-renoir_gabrielle-in-a-chemise-1905.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>pierre-auguste-renoir</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>474</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>48</ymin>
+		<xmax>352</xmax>
+		<ymax>474</ymax>
+	</bndbox>
+</object>
+</annotation>

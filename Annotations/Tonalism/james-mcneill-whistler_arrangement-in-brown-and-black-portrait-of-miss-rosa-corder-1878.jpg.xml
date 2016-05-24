@@ -1,0 +1,34 @@
+<annotation>
+<folder>Tonalism</folder>
+<style>Tonalism</style>
+<filename>james-mcneill-whistler_arrangement-in-brown-and-black-portrait-of-miss-rosa-corder-1878.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>james-mcneill-whistler</name>
+</owner>
+<size>
+	<width>248</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>43</xmin>
+		<ymin>7</ymin>
+		<xmax>221</xmax>
+		<ymax>492</ymax>
+	</bndbox>
+</object>
+</annotation>

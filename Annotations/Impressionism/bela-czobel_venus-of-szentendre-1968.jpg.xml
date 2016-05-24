@@ -1,0 +1,46 @@
+<annotation>
+<folder>Impressionism</folder>
+<style>Impressionism</style>
+<filename>bela-czobel_venus-of-szentendre-1968.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>bela-czobel</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>350</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>53</xmin>
+		<ymin>45</ymin>
+		<xmax>500</xmax>
+		<ymax>312</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>228</xmin>
+		<ymin>50</ymin>
+		<xmax>411</xmax>
+		<ymax>120</ymax>
+	</bndbox>
+</object>
+</annotation>

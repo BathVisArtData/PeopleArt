@@ -1,0 +1,22 @@
+<annotation>
+<folder>Realism</folder>
+<style>Realism</style>
+<filename>ivan-vladimirov_bloody-sunday-shooting-workers-near-the-winter-palace-january-9-1905-1.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>ivan-vladimirov</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>252</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>1</difficult>
+</annotation>

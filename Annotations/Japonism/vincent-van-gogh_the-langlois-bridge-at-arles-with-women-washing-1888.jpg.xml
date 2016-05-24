@@ -1,0 +1,22 @@
+<annotation>
+<folder>Japonism</folder>
+<style>Japonism</style>
+<filename>vincent-van-gogh_the-langlois-bridge-at-arles-with-women-washing-1888.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>vincent-van-gogh</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>455</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>1</difficult>
+</annotation>

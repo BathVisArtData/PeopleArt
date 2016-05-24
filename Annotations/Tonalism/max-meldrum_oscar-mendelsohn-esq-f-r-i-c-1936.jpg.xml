@@ -1,0 +1,34 @@
+<annotation>
+<folder>Tonalism</folder>
+<style>Tonalism</style>
+<filename>max-meldrum_oscar-mendelsohn-esq-f-r-i-c-1936.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>max-meldrum</name>
+</owner>
+<size>
+	<width>414</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>34</xmin>
+		<ymin>83</ymin>
+		<xmax>378</xmax>
+		<ymax>477</ymax>
+	</bndbox>
+</object>
+</annotation>

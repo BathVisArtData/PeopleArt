@@ -1,0 +1,46 @@
+<annotation>
+<folder>Constructivism</folder>
+<style>Constructivism</style>
+<filename>marcel-janco_illustration-for-tristan-tzara-s-la-premi-re-aventure-c-leste-de-monsieur-antipyrine-1916.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>marcel-janco</name>
+</owner>
+<size>
+	<width>310</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>119</xmin>
+		<ymin>271</ymin>
+		<xmax>183</xmax>
+		<ymax>473</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>175</xmin>
+		<ymin>100</ymin>
+		<xmax>265</xmax>
+		<ymax>473</ymax>
+	</bndbox>
+</object>
+</annotation>

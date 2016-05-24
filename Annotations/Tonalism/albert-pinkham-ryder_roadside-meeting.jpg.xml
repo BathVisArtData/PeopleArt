@@ -1,0 +1,58 @@
+<annotation>
+<folder>Tonalism</folder>
+<style>Tonalism</style>
+<filename>albert-pinkham-ryder_roadside-meeting.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>albert-pinkham-ryder</name>
+</owner>
+<size>
+	<width>397</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>69</xmin>
+		<ymin>237</ymin>
+		<xmax>144</xmax>
+		<ymax>443</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>85</xmin>
+		<ymin>310</ymin>
+		<xmax>138</xmax>
+		<ymax>431</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>207</xmin>
+		<ymin>149</ymin>
+		<xmax>277</xmax>
+		<ymax>328</ymax>
+	</bndbox>
+</object>
+</annotation>

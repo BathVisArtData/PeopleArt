@@ -1,0 +1,58 @@
+<annotation>
+<folder>Cubo-Futurism</folder>
+<style>Cubo-Futurism</style>
+<filename>aleksandra-ekster_three-female-figures-1910.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>aleksandra-ekster</name>
+</owner>
+<size>
+	<width>467</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>28</xmin>
+		<ymin>56</ymin>
+		<xmax>200</xmax>
+		<ymax>485</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>176</xmin>
+		<ymin>68</ymin>
+		<xmax>324</xmax>
+		<ymax>323</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>243</xmin>
+		<ymin>52</ymin>
+		<xmax>465</xmax>
+		<ymax>415</ymax>
+	</bndbox>
+</object>
+</annotation>

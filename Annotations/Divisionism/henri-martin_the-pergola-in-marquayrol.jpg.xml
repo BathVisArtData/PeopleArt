@@ -1,0 +1,70 @@
+<annotation>
+<folder>Divisionism</folder>
+<style>Divisionism</style>
+<filename>henri-martin_the-pergola-in-marquayrol.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>henri-martin</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>304</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>71</xmin>
+		<ymin>202</ymin>
+		<xmax>151</xmax>
+		<ymax>286</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>292</xmin>
+		<ymin>119</ymin>
+		<xmax>331</xmax>
+		<ymax>183</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>291</xmin>
+		<ymin>101</ymin>
+		<xmax>345</xmax>
+		<ymax>257</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>334</xmin>
+		<ymin>181</ymin>
+		<xmax>371</xmax>
+		<ymax>268</ymax>
+	</bndbox>
+</object>
+</annotation>

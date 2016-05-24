@@ -1,0 +1,94 @@
+<annotation>
+<folder>Biedermeier</folder>
+<style>Biedermeier</style>
+<filename>carl-spitzweg_arts-and-science.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>carl-spitzweg</name>
+</owner>
+<size>
+	<width>287</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>79</xmin>
+		<ymin>53</ymin>
+		<xmax>92</xmax>
+		<ymax>66</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>104</xmin>
+		<ymin>126</ymin>
+		<xmax>125</xmax>
+		<ymax>170</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>89</xmin>
+		<ymin>150</ymin>
+		<xmax>116</xmax>
+		<ymax>188</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>52</xmin>
+		<ymin>387</ymin>
+		<xmax>84</xmax>
+		<ymax>434</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>157</xmin>
+		<ymin>351</ymin>
+		<xmax>185</xmax>
+		<ymax>446</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>194</xmin>
+		<ymin>361</ymin>
+		<xmax>225</xmax>
+		<ymax>441</ymax>
+	</bndbox>
+</object>
+</annotation>

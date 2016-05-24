@@ -1,0 +1,58 @@
+<annotation>
+<folder>PopArt</folder>
+<style>PopArt</style>
+<filename>r-b-kitaj_artists-for-peace.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>r-b-kitaj</name>
+</owner>
+<size>
+	<width>472</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>220</xmin>
+		<ymin>175</ymin>
+		<xmax>284</xmax>
+		<ymax>305</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>105</xmin>
+		<ymin>186</ymin>
+		<xmax>132</xmax>
+		<ymax>267</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>54</xmin>
+		<ymin>185</ymin>
+		<xmax>96</xmax>
+		<ymax>263</ymax>
+	</bndbox>
+</object>
+</annotation>

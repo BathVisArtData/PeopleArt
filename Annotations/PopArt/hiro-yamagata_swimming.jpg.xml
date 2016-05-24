@@ -1,0 +1,46 @@
+<annotation>
+<folder>PopArt</folder>
+<style>PopArt</style>
+<filename>hiro-yamagata_swimming.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>hiro-yamagata</name>
+</owner>
+<size>
+	<width>232</width>
+	<height>300</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>31</xmin>
+		<ymin>18</ymin>
+		<xmax>123</xmax>
+		<ymax>227</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>115</xmin>
+		<ymin>15</ymin>
+		<xmax>203</xmax>
+		<ymax>234</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,34 @@
+<annotation>
+<folder>Symbolism</folder>
+<style>Symbolism</style>
+<filename>nicholas-roerich_guardian-of-desert-1941.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>nicholas-roerich</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>314</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>205</xmin>
+		<ymin>94</ymin>
+		<xmax>239</xmax>
+		<ymax>213</ymax>
+	</bndbox>
+</object>
+</annotation>

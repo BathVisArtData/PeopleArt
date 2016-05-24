@@ -1,0 +1,142 @@
+<annotation>
+<folder>Classicism</folder>
+<style>Classicism</style>
+<filename>nicolas-poussin_nurture-of-bacchus-1635.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>nicolas-poussin</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>356</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>28</xmin>
+		<ymin>173</ymin>
+		<xmax>74</xmax>
+		<ymax>286</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>33</xmin>
+		<ymin>171</ymin>
+		<xmax>96</xmax>
+		<ymax>285</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>85</xmin>
+		<ymin>156</ymin>
+		<xmax>182</xmax>
+		<ymax>292</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>118</xmin>
+		<ymin>93</ymin>
+		<xmax>214</xmax>
+		<ymax>232</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>168</xmin>
+		<ymin>196</ymin>
+		<xmax>236</xmax>
+		<ymax>291</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>169</xmin>
+		<ymin>126</ymin>
+		<xmax>290</xmax>
+		<ymax>261</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>296</xmin>
+		<ymin>246</ymin>
+		<xmax>350</xmax>
+		<ymax>290</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>295</xmin>
+		<ymin>204</ymin>
+		<xmax>357</xmax>
+		<ymax>254</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>175</xmin>
+		<ymin>219</ymin>
+		<xmax>420</xmax>
+		<ymax>334</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>477</xmin>
+		<ymin>214</ymin>
+		<xmax>489</xmax>
+		<ymax>227</ymax>
+	</bndbox>
+</object>
+</annotation>

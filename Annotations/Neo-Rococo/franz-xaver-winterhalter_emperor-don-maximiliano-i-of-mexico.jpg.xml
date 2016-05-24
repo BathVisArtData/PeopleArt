@@ -1,0 +1,34 @@
+<annotation>
+<folder>Neo-Rococo</folder>
+<style>Neo-Rococo</style>
+<filename>franz-xaver-winterhalter_emperor-don-maximiliano-i-of-mexico.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>franz-xaver-winterhalter</name>
+</owner>
+<size>
+	<width>301</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>27</xmin>
+		<ymin>65</ymin>
+		<xmax>273</xmax>
+		<ymax>493</ymax>
+	</bndbox>
+</object>
+</annotation>

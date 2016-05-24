@@ -1,0 +1,202 @@
+<annotation>
+<folder>Classicism</folder>
+<style>Classicism</style>
+<filename>nicolas-poussin_bacchanal-of-putti-1626.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>nicolas-poussin</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>428</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>213</ymin>
+		<xmax>48</xmax>
+		<ymax>340</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>16</xmin>
+		<ymin>277</ymin>
+		<xmax>118</xmax>
+		<ymax>354</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>23</xmin>
+		<ymin>270</ymin>
+		<xmax>94</xmax>
+		<ymax>329</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>42</xmin>
+		<ymin>202</ymin>
+		<xmax>74</xmax>
+		<ymax>270</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>68</xmin>
+		<ymin>205</ymin>
+		<xmax>139</xmax>
+		<ymax>271</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>13</xmin>
+		<ymin>80</ymin>
+		<xmax>78</xmax>
+		<ymax>210</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>227</xmin>
+		<ymin>69</ymin>
+		<xmax>288</xmax>
+		<ymax>198</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>160</xmin>
+		<ymin>195</ymin>
+		<xmax>196</xmax>
+		<ymax>345</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>167</xmin>
+		<ymin>163</ymin>
+		<xmax>224</xmax>
+		<ymax>300</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>265</xmin>
+		<ymin>179</ymin>
+		<xmax>337</xmax>
+		<ymax>289</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>181</xmin>
+		<ymin>279</ymin>
+		<xmax>316</xmax>
+		<ymax>386</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>266</xmin>
+		<ymin>276</ymin>
+		<xmax>413</xmax>
+		<ymax>407</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>350</xmin>
+		<ymin>213</ymin>
+		<xmax>442</xmax>
+		<ymax>352</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>410</xmin>
+		<ymin>202</ymin>
+		<xmax>461</xmax>
+		<ymax>327</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>452</xmin>
+		<ymin>246</ymin>
+		<xmax>500</xmax>
+		<ymax>337</ymax>
+	</bndbox>
+</object>
+</annotation>

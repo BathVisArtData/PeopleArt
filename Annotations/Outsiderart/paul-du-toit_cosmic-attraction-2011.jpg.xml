@@ -1,0 +1,70 @@
+<annotation>
+<folder>Outsiderart</folder>
+<style>Outsiderart</style>
+<filename>paul-du-toit_cosmic-attraction-2011.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>paul-du-toit</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>335</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>13</xmin>
+		<ymin>1</ymin>
+		<xmax>161</xmax>
+		<ymax>325</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>170</xmin>
+		<ymin>15</ymin>
+		<xmax>295</xmax>
+		<ymax>332</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>287</xmin>
+		<ymin>50</ymin>
+		<xmax>402</xmax>
+		<ymax>332</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>385</xmin>
+		<ymin>10</ymin>
+		<xmax>492</xmax>
+		<ymax>335</ymax>
+	</bndbox>
+</object>
+</annotation>

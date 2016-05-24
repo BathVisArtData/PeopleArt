@@ -1,0 +1,34 @@
+<annotation>
+<folder>SocialistRealism</folder>
+<style>SocialistRealism</style>
+<filename>kukryniksy_the-vile-brute-and-it-s-band-be-hanged-on-the-lampstand-the-tass-window-546-546a-1942.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>kukryniksy</name>
+</owner>
+<size>
+	<width>242</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>29</xmin>
+		<ymin>84</ymin>
+		<xmax>160</xmax>
+		<ymax>305</ymax>
+	</bndbox>
+</object>
+</annotation>

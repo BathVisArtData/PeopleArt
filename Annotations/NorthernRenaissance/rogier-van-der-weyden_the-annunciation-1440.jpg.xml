@@ -1,0 +1,82 @@
+<annotation>
+<folder>NorthernRenaissance</folder>
+<style>NorthernRenaissance</style>
+<filename>rogier-van-der-weyden_the-annunciation-1440.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>rogier-van-der-weyden</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>256</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>14</xmin>
+		<ymin>102</ymin>
+		<xmax>81</xmax>
+		<ymax>246</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>183</xmin>
+		<ymin>82</ymin>
+		<xmax>247</xmax>
+		<ymax>238</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>300</xmin>
+		<ymin>122</ymin>
+		<xmax>364</xmax>
+		<ymax>248</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>414</xmin>
+		<ymin>74</ymin>
+		<xmax>460</xmax>
+		<ymax>228</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>442</xmin>
+		<ymin>66</ymin>
+		<xmax>499</xmax>
+		<ymax>215</ymax>
+	</bndbox>
+</object>
+</annotation>

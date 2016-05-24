@@ -1,0 +1,106 @@
+<annotation>
+<folder>Muralism</folder>
+<style>Muralism</style>
+<filename>diego-rivera_frozen-assets-1931.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>diego-rivera</name>
+</owner>
+<size>
+	<width>402</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>245</xmin>
+		<ymin>288</ymin>
+		<xmax>274</xmax>
+		<ymax>342</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>13</xmin>
+		<ymin>438</ymin>
+		<xmax>43</xmax>
+		<ymax>475</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>187</xmin>
+		<ymin>409</ymin>
+		<xmax>213</xmax>
+		<ymax>467</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>217</xmin>
+		<ymin>408</ymin>
+		<xmax>240</xmax>
+		<ymax>437</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>311</xmin>
+		<ymin>427</ymin>
+		<xmax>339</xmax>
+		<ymax>482</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>360</xmin>
+		<ymin>425</ymin>
+		<xmax>383</xmax>
+		<ymax>482</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>383</xmin>
+		<ymin>425</ymin>
+		<xmax>401</xmax>
+		<ymax>482</ymax>
+	</bndbox>
+</object>
+</annotation>

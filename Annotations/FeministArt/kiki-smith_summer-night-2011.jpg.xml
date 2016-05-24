@@ -1,0 +1,34 @@
+<annotation>
+<folder>FeministArt</folder>
+<style>FeministArt</style>
+<filename>kiki-smith_summer-night-2011.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>kiki-smith</name>
+</owner>
+<size>
+	<width>372</width>
+	<height>480</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>5</xmin>
+		<ymin>7</ymin>
+		<xmax>372</xmax>
+		<ymax>473</ymax>
+	</bndbox>
+</object>
+</annotation>

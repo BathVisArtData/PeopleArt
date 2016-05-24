@@ -1,0 +1,58 @@
+<annotation>
+<folder>cartoon</folder>
+<style>cartoon</style>
+<filename>2010062416162654.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>googleimage</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>unknown</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>375</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>149</xmin>
+		<ymin>221</ymin>
+		<xmax>216</xmax>
+		<ymax>306</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>241</xmin>
+		<ymin>68</ymin>
+		<xmax>317</xmax>
+		<ymax>318</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>345</xmin>
+		<ymin>46</ymin>
+		<xmax>446</xmax>
+		<ymax>321</ymax>
+	</bndbox>
+</object>
+</annotation>

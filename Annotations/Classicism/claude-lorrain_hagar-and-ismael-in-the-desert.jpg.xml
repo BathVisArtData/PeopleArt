@@ -1,0 +1,46 @@
+<annotation>
+<folder>Classicism</folder>
+<style>Classicism</style>
+<filename>claude-lorrain_hagar-and-ismael-in-the-desert.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>claude-lorrain</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>378</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>326</xmin>
+		<ymin>263</ymin>
+		<xmax>373</xmax>
+		<ymax>329</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>402</xmin>
+		<ymin>284</ymin>
+		<xmax>431</xmax>
+		<ymax>330</ymax>
+	</bndbox>
+</object>
+</annotation>

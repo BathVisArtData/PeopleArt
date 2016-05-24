@@ -1,0 +1,46 @@
+<annotation>
+<folder>Impressionism</folder>
+<style>Impressionism</style>
+<filename>vincent-van-gogh_park-with-figures.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>vincent-van-gogh</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>279</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>415</xmin>
+		<ymin>142</ymin>
+		<xmax>460</xmax>
+		<ymax>251</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>440</xmin>
+		<ymin>138</ymin>
+		<xmax>481</xmax>
+		<ymax>250</ymax>
+	</bndbox>
+</object>
+</annotation>

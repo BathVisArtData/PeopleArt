@@ -1,0 +1,70 @@
+<annotation>
+<folder>NorthernRenaissance</folder>
+<style>NorthernRenaissance</style>
+<filename>albrecht-altdorfer_emperor-maximilian-triumphal-1515.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>albrecht-altdorfer</name>
+</owner>
+<size>
+	<width>477</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>13</xmin>
+		<ymin>286</ymin>
+		<xmax>97</xmax>
+		<ymax>462</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>145</xmin>
+		<ymin>294</ymin>
+		<xmax>208</xmax>
+		<ymax>465</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>267</xmin>
+		<ymin>293</ymin>
+		<xmax>340</xmax>
+		<ymax>461</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>390</xmin>
+		<ymin>298</ymin>
+		<xmax>460</xmax>
+		<ymax>467</ymax>
+	</bndbox>
+</object>
+</annotation>

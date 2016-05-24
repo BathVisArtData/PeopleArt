@@ -1,0 +1,46 @@
+<annotation>
+<folder>Shin-hanga</folder>
+<style>Shin-hanga</style>
+<filename>kiyokata-kaburagi_at-the-shore.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>kiyokata-kaburagi</name>
+</owner>
+<size>
+	<width>365</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>83</xmin>
+		<ymin>120</ymin>
+		<xmax>236</xmax>
+		<ymax>419</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>181</xmin>
+		<ymin>88</ymin>
+		<xmax>354</xmax>
+		<ymax>377</ymax>
+	</bndbox>
+</object>
+</annotation>

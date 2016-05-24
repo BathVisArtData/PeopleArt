@@ -1,0 +1,70 @@
+<annotation>
+<folder>Impressionism</folder>
+<style>Impressionism</style>
+<filename>claude-monet_garden-at-sainte-adresse.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>claude-monet</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>379</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>155</xmin>
+		<ymin>184</ymin>
+		<xmax>193</xmax>
+		<ymax>260</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>197</xmin>
+		<ymin>175</ymin>
+		<xmax>233</xmax>
+		<ymax>252</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>288</xmin>
+		<ymin>263</ymin>
+		<xmax>382</xmax>
+		<ymax>357</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>195</xmin>
+		<ymin>297</ymin>
+		<xmax>276</xmax>
+		<ymax>347</ymax>
+	</bndbox>
+</object>
+</annotation>

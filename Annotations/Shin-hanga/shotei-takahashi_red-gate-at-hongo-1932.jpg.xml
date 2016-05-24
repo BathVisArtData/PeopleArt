@@ -1,0 +1,58 @@
+<annotation>
+<folder>Shin-hanga</folder>
+<style>Shin-hanga</style>
+<filename>shotei-takahashi_red-gate-at-hongo-1932.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>shotei-takahashi</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>338</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>56</xmin>
+		<ymin>247</ymin>
+		<xmax>81</xmax>
+		<ymax>307</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>85</xmin>
+		<ymin>245</ymin>
+		<xmax>100</xmax>
+		<ymax>308</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>164</xmin>
+		<ymin>271</ymin>
+		<xmax>212</xmax>
+		<ymax>315</ymax>
+	</bndbox>
+</object>
+</annotation>

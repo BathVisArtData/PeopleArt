@@ -1,0 +1,46 @@
+<annotation>
+<folder>Outsiderart</folder>
+<style>Outsiderart</style>
+<filename>paul-du-toit_transparency-2003.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>paul-du-toit</name>
+</owner>
+<size>
+	<width>497</width>
+	<height>412</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>52</xmin>
+		<ymin>30</ymin>
+		<xmax>260</xmax>
+		<ymax>367</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>302</xmin>
+		<ymin>22</ymin>
+		<xmax>448</xmax>
+		<ymax>399</ymax>
+	</bndbox>
+</object>
+</annotation>

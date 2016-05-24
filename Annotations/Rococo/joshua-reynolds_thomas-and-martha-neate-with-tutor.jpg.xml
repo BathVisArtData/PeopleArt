@@ -1,0 +1,58 @@
+<annotation>
+<folder>Rococo</folder>
+<style>Rococo</style>
+<filename>joshua-reynolds_thomas-and-martha-neate-with-tutor.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>joshua-reynolds</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>482</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>50</xmin>
+		<ymin>193</ymin>
+		<xmax>170</xmax>
+		<ymax>438</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>152</xmin>
+		<ymin>107</ymin>
+		<xmax>287</xmax>
+		<ymax>453</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>316</xmin>
+		<ymin>24</ymin>
+		<xmax>476</xmax>
+		<ymax>445</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,82 @@
+<annotation>
+<folder>FantasticRealism</folder>
+<style>FantasticRealism</style>
+<filename>ernst-fuchs_the-divine-jerusalem-1995.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>ernst-fuchs</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>276</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>74</xmin>
+		<ymin>94</ymin>
+		<xmax>165</xmax>
+		<ymax>230</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>233</xmin>
+		<ymin>191</ymin>
+		<xmax>392</xmax>
+		<ymax>256</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>167</xmin>
+		<ymin>208</ymin>
+		<xmax>179</xmax>
+		<ymax>252</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>192</xmin>
+		<ymin>201</ymin>
+		<xmax>207</xmax>
+		<ymax>252</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>218</xmin>
+		<ymin>192</ymin>
+		<xmax>235</xmax>
+		<ymax>249</ymax>
+	</bndbox>
+</object>
+</annotation>

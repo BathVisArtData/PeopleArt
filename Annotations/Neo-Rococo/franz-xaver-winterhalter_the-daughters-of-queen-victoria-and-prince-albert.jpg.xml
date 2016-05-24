@@ -1,0 +1,70 @@
+<annotation>
+<folder>Neo-Rococo</folder>
+<style>Neo-Rococo</style>
+<filename>franz-xaver-winterhalter_the-daughters-of-queen-victoria-and-prince-albert.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>franz-xaver-winterhalter</name>
+</owner>
+<size>
+	<width>477</width>
+	<height>466</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>68</xmin>
+		<ymin>67</ymin>
+		<xmax>355</xmax>
+		<ymax>451</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>14</xmin>
+		<ymin>30</ymin>
+		<xmax>288</xmax>
+		<ymax>244</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>246</xmin>
+		<ymin>102</ymin>
+		<xmax>373</xmax>
+		<ymax>395</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>315</xmin>
+		<ymin>20</ymin>
+		<xmax>455</xmax>
+		<ymax>425</ymax>
+	</bndbox>
+</object>
+</annotation>

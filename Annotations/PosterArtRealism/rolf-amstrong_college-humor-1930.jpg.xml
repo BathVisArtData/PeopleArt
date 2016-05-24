@@ -1,0 +1,58 @@
+<annotation>
+<folder>PosterArtRealism</folder>
+<style>PosterArtRealism</style>
+<filename>rolf-amstrong_college-humor-1930.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>rolf-amstrong</name>
+</owner>
+<size>
+	<width>373</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>10</xmin>
+		<ymin>79</ymin>
+		<xmax>359</xmax>
+		<ymax>476</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>68</xmin>
+		<ymin>181</ymin>
+		<xmax>182</xmax>
+		<ymax>291</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Unspecified</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>84</xmin>
+		<ymin>283</ymin>
+		<xmax>177</xmax>
+		<ymax>335</ymax>
+	</bndbox>
+</object>
+</annotation>

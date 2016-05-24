@@ -1,0 +1,34 @@
+<annotation>
+<folder>SocialistRealism</folder>
+<style>SocialistRealism</style>
+<filename>kukryniksy_a-reception-given-by-the-possessed-commander-in-chief-the-tass-window-899-1944.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>kukryniksy</name>
+</owner>
+<size>
+	<width>280</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>180</xmin>
+		<ymin>127</ymin>
+		<xmax>261</xmax>
+		<ymax>450</ymax>
+	</bndbox>
+</object>
+</annotation>

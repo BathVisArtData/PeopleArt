@@ -1,0 +1,46 @@
+<annotation>
+<folder>Realism</folder>
+<style>Realism</style>
+<filename>pyotr-konchalovsky_portrait-of-sergei-vladimirovich-mikhalkov-with-his-son-1943.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>pyotr-konchalovsky</name>
+</owner>
+<size>
+	<width>409</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>88</xmin>
+		<ymin>159</ymin>
+		<xmax>287</xmax>
+		<ymax>500</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>24</xmin>
+		<ymin>39</ymin>
+		<xmax>390</xmax>
+		<ymax>490</ymax>
+	</bndbox>
+</object>
+</annotation>

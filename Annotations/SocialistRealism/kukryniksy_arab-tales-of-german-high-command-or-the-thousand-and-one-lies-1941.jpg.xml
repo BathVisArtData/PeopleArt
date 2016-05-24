@@ -1,0 +1,46 @@
+<annotation>
+<folder>SocialistRealism</folder>
+<style>SocialistRealism</style>
+<filename>kukryniksy_arab-tales-of-german-high-command-or-the-thousand-and-one-lies-1941.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>kukryniksy</name>
+</owner>
+<size>
+	<width>415</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>38</xmin>
+		<ymin>95</ymin>
+		<xmax>211</xmax>
+		<ymax>352</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>220</xmin>
+		<ymin>197</ymin>
+		<xmax>389</xmax>
+		<ymax>451</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,34 @@
+<annotation>
+<folder>PopArt</folder>
+<style>PopArt</style>
+<filename>richard-hamilton_a-dedicated-follower-of-fashion-1980.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>richard-hamilton</name>
+</owner>
+<size>
+	<width>303</width>
+	<height>463</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>57</xmin>
+		<ymin>79</ymin>
+		<xmax>148</xmax>
+		<ymax>368</ymax>
+	</bndbox>
+</object>
+</annotation>

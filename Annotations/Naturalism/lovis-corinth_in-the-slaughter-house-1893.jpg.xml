@@ -1,0 +1,106 @@
+<annotation>
+<folder>Naturalism</folder>
+<style>Naturalism</style>
+<filename>lovis-corinth_in-the-slaughter-house-1893.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>lovis-corinth</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>435</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>47</xmin>
+		<ymin>115</ymin>
+		<xmax>166</xmax>
+		<ymax>312</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>169</xmin>
+		<ymin>77</ymin>
+		<xmax>285</xmax>
+		<ymax>340</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>229</xmin>
+		<ymin>233</ymin>
+		<xmax>335</xmax>
+		<ymax>430</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>287</xmin>
+		<ymin>118</ymin>
+		<xmax>412</xmax>
+		<ymax>366</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>373</xmin>
+		<ymin>220</ymin>
+		<xmax>490</xmax>
+		<ymax>407</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>346</xmin>
+		<ymin>124</ymin>
+		<xmax>402</xmax>
+		<ymax>204</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>28</xmin>
+		<ymin>102</ymin>
+		<xmax>51</xmax>
+		<ymax>171</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,34 @@
+<annotation>
+<folder>ArtDeco</folder>
+<style>ArtDeco</style>
+<filename>rene-magritte_advertisment-for-norine-2.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>rene-magritte</name>
+</owner>
+<size>
+	<width>322</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>182</xmin>
+		<ymin>52</ymin>
+		<xmax>310</xmax>
+		<ymax>480</ymax>
+	</bndbox>
+</object>
+</annotation>

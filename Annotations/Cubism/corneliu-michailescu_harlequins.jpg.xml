@@ -1,0 +1,58 @@
+<annotation>
+<folder>Cubism</folder>
+<style>Cubism</style>
+<filename>corneliu-michailescu_harlequins.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>corneliu-michailescu</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>490</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>4</xmin>
+		<ymin>136</ymin>
+		<xmax>435</xmax>
+		<ymax>486</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>271</xmin>
+		<ymin>45</ymin>
+		<xmax>446</xmax>
+		<ymax>262</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>277</xmin>
+		<ymin>17</ymin>
+		<xmax>433</xmax>
+		<ymax>276</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,34 @@
+<annotation>
+<folder>MagicRealism</folder>
+<style>MagicRealism</style>
+<filename>stefan-caltia_girl-with-lemon-2005.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>stefan-caltia</name>
+</owner>
+<size>
+	<width>442</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>131</xmin>
+		<ymin>117</ymin>
+		<xmax>339</xmax>
+		<ymax>448</ymax>
+	</bndbox>
+</object>
+</annotation>

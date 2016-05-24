@@ -1,0 +1,94 @@
+<annotation>
+<folder>Ukiyo-e</folder>
+<style>Ukiyo-e</style>
+<filename>katsushika-hokusai_sawyers-cutting-a-log.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>katsushika-hokusai</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>336</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>402</xmin>
+		<ymin>200</ymin>
+		<xmax>443</xmax>
+		<ymax>296</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>434</xmin>
+		<ymin>254</ymin>
+		<xmax>472</xmax>
+		<ymax>289</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>208</xmin>
+		<ymin>217</ymin>
+		<xmax>257</xmax>
+		<ymax>270</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>35</xmin>
+		<ymin>241</ymin>
+		<xmax>88</xmax>
+		<ymax>292</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>101</xmin>
+		<ymin>225</ymin>
+		<xmax>159</xmax>
+		<ymax>277</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>161</xmin>
+		<ymin>84</ymin>
+		<xmax>217</xmax>
+		<ymax>153</ymax>
+	</bndbox>
+</object>
+</annotation>

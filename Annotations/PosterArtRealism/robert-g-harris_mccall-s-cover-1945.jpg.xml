@@ -1,0 +1,46 @@
+<annotation>
+<folder>PosterArtRealism</folder>
+<style>PosterArtRealism</style>
+<filename>robert-g-harris_mccall-s-cover-1945.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>robert-g-harris</name>
+</owner>
+<size>
+	<width>391</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>20</xmin>
+		<ymin>26</ymin>
+		<xmax>383</xmax>
+		<ymax>495</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>2</xmin>
+		<ymin>258</ymin>
+		<xmax>290</xmax>
+		<ymax>497</ymax>
+	</bndbox>
+</object>
+</annotation>

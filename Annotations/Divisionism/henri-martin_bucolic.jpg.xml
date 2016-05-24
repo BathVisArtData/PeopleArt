@@ -1,0 +1,94 @@
+<annotation>
+<folder>Divisionism</folder>
+<style>Divisionism</style>
+<filename>henri-martin_bucolic.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>henri-martin</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>301</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>48</xmin>
+		<ymin>155</ymin>
+		<xmax>138</xmax>
+		<ymax>285</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>101</xmin>
+		<ymin>173</ymin>
+		<xmax>138</xmax>
+		<ymax>232</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>141</xmin>
+		<ymin>114</ymin>
+		<xmax>183</xmax>
+		<ymax>247</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>395</xmin>
+		<ymin>113</ymin>
+		<xmax>418</xmax>
+		<ymax>143</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Unspecified</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>454</xmin>
+		<ymin>113</ymin>
+		<xmax>472</xmax>
+		<ymax>129</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>477</xmin>
+		<ymin>113</ymin>
+		<xmax>491</xmax>
+		<ymax>131</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,70 @@
+<annotation>
+<folder>HighRenaissance</folder>
+<style>HighRenaissance</style>
+<filename>correggio_departure-of-christ-from-mary-with-mary-and-martha-the-sisters-of-lazarus-1518.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>correggio</name>
+</owner>
+<size>
+	<width>431</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>25</xmin>
+		<ymin>197</ymin>
+		<xmax>195</xmax>
+		<ymax>437</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>152</xmin>
+		<ymin>107</ymin>
+		<xmax>253</xmax>
+		<ymax>396</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>245</xmin>
+		<ymin>115</ymin>
+		<xmax>353</xmax>
+		<ymax>432</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>298</xmin>
+		<ymin>115</ymin>
+		<xmax>414</xmax>
+		<ymax>438</ymax>
+	</bndbox>
+</object>
+</annotation>

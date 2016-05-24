@@ -1,0 +1,46 @@
+<annotation>
+<folder>Neo-baroque</folder>
+<style>Neo-baroque</style>
+<filename>yiannis-tsaroychis_tsaroyhis-07.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>yiannis-tsaroychis</name>
+</owner>
+<size>
+	<width>300</width>
+	<height>347</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>176</xmin>
+		<ymin>55</ymin>
+		<xmax>293</xmax>
+		<ymax>221</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>90</ymin>
+		<xmax>148</xmax>
+		<ymax>324</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,82 @@
+<annotation>
+<folder>PopArt</folder>
+<style>PopArt</style>
+<filename>mario-schifano_futurismo-rivisitato-1974.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>mario-schifano</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>325</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>76</xmin>
+		<ymin>71</ymin>
+		<xmax>151</xmax>
+		<ymax>261</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>144</xmin>
+		<ymin>77</ymin>
+		<xmax>211</xmax>
+		<ymax>252</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>227</xmin>
+		<ymin>60</ymin>
+		<xmax>301</xmax>
+		<ymax>253</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>299</xmin>
+		<ymin>62</ymin>
+		<xmax>353</xmax>
+		<ymax>261</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>352</xmin>
+		<ymin>66</ymin>
+		<xmax>418</xmax>
+		<ymax>265</ymax>
+	</bndbox>
+</object>
+</annotation>

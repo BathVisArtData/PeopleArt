@@ -1,0 +1,94 @@
+<annotation>
+<folder>Classicism</folder>
+<style>Classicism</style>
+<filename>claude-lorrain_harbour-scene-at-sunset-1643.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>claude-lorrain</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>392</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>65</xmin>
+		<ymin>304</ymin>
+		<xmax>93</xmax>
+		<ymax>351</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>127</xmin>
+		<ymin>318</ymin>
+		<xmax>156</xmax>
+		<ymax>364</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>294</xmin>
+		<ymin>293</ymin>
+		<xmax>327</xmax>
+		<ymax>371</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>328</xmin>
+		<ymin>288</ymin>
+		<xmax>357</xmax>
+		<ymax>366</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>407</xmin>
+		<ymin>290</ymin>
+		<xmax>438</xmax>
+		<ymax>355</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>428</xmin>
+		<ymin>294</ymin>
+		<xmax>452</xmax>
+		<ymax>357</ymax>
+	</bndbox>
+</object>
+</annotation>

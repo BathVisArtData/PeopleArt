@@ -1,0 +1,58 @@
+<annotation>
+<folder>Synthetism</folder>
+<style>Synthetism</style>
+<filename>emile-bernard_after-the-bath-the-nymphs-1908.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>emile-bernard</name>
+</owner>
+<size>
+	<width>475</width>
+	<height>381</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>64</xmin>
+		<ymin>63</ymin>
+		<xmax>332</xmax>
+		<ymax>346</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>45</xmin>
+		<ymin>129</ymin>
+		<xmax>449</xmax>
+		<ymax>285</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>161</xmin>
+		<ymin>6</ymin>
+		<xmax>439</xmax>
+		<ymax>164</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,94 @@
+<annotation>
+<folder>Symbolism</folder>
+<style>Symbolism</style>
+<filename>kuzma-petrov-vodkin_old-dieppe-1925.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>kuzma-petrov-vodkin</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>342</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>334</xmin>
+		<ymin>276</ymin>
+		<xmax>389</xmax>
+		<ymax>342</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>132</xmin>
+		<ymin>262</ymin>
+		<xmax>193</xmax>
+		<ymax>332</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>176</xmin>
+		<ymin>232</ymin>
+		<xmax>207</xmax>
+		<ymax>312</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>17</xmin>
+		<ymin>286</ymin>
+		<xmax>46</xmax>
+		<ymax>342</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>38</xmin>
+		<ymin>248</ymin>
+		<xmax>78</xmax>
+		<ymax>341</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>85</xmin>
+		<ymin>199</ymin>
+		<xmax>130</xmax>
+		<ymax>287</ymax>
+	</bndbox>
+</object>
+</annotation>

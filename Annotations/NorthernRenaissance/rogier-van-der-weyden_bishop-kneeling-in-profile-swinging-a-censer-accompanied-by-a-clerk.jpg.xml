@@ -1,0 +1,46 @@
+<annotation>
+<folder>NorthernRenaissance</folder>
+<style>NorthernRenaissance</style>
+<filename>rogier-van-der-weyden_bishop-kneeling-in-profile-swinging-a-censer-accompanied-by-a-clerk.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>rogier-van-der-weyden</name>
+</owner>
+<size>
+	<width>383</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>25</xmin>
+		<ymin>17</ymin>
+		<xmax>173</xmax>
+		<ymax>422</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>127</xmin>
+		<ymin>101</ymin>
+		<xmax>294</xmax>
+		<ymax>458</ymax>
+	</bndbox>
+</object>
+</annotation>

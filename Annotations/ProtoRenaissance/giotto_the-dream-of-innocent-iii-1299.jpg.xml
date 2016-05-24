@@ -1,0 +1,70 @@
+<annotation>
+<folder>ProtoRenaissance</folder>
+<style>ProtoRenaissance</style>
+<filename>giotto_the-dream-of-innocent-iii-1299.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>giotto</name>
+</owner>
+<size>
+	<width>451</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>105</xmin>
+		<ymin>243</ymin>
+		<xmax>186</xmax>
+		<ymax>458</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>220</xmin>
+		<ymin>359</ymin>
+		<xmax>328</xmax>
+		<ymax>483</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>330</xmin>
+		<ymin>371</ymin>
+		<xmax>421</xmax>
+		<ymax>483</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>215</xmin>
+		<ymin>295</ymin>
+		<xmax>416</xmax>
+		<ymax>374</ymax>
+	</bndbox>
+</object>
+</annotation>

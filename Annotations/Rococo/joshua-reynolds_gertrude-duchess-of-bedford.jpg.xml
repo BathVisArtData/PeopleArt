@@ -1,0 +1,34 @@
+<annotation>
+<folder>Rococo</folder>
+<style>Rococo</style>
+<filename>joshua-reynolds_gertrude-duchess-of-bedford.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>joshua-reynolds</name>
+</owner>
+<size>
+	<width>394</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>14</xmin>
+		<ymin>64</ymin>
+		<xmax>362</xmax>
+		<ymax>482</ymax>
+	</bndbox>
+</object>
+</annotation>

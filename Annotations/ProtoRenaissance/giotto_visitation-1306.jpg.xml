@@ -1,0 +1,82 @@
+<annotation>
+<folder>ProtoRenaissance</folder>
+<style>ProtoRenaissance</style>
+<filename>giotto_visitation-1306.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>giotto</name>
+</owner>
+<size>
+	<width>424</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>35</xmin>
+		<ymin>136</ymin>
+		<xmax>139</xmax>
+		<ymax>466</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>69</xmin>
+		<ymin>141</ymin>
+		<xmax>134</xmax>
+		<ymax>249</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>121</xmin>
+		<ymin>146</ymin>
+		<xmax>214</xmax>
+		<ymax>456</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>189</xmin>
+		<ymin>153</ymin>
+		<xmax>321</xmax>
+		<ymax>453</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>328</xmin>
+		<ymin>136</ymin>
+		<xmax>410</xmax>
+		<ymax>412</ymax>
+	</bndbox>
+</object>
+</annotation>

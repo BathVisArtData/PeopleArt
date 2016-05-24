@@ -1,0 +1,22 @@
+<annotation>
+<folder>EnvironmentalArt</folder>
+<style>EnvironmentalArt</style>
+<filename>george-segal_the-holocaust-1982.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>george-segal</name>
+</owner>
+<size>
+	<width>375</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>1</difficult>
+</annotation>

@@ -1,0 +1,58 @@
+<annotation>
+<folder>Symbolism</folder>
+<style>Symbolism</style>
+<filename>nicholas-roerich_lel.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>nicholas-roerich</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>330</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>99</xmin>
+		<ymin>141</ymin>
+		<xmax>141</xmax>
+		<ymax>241</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>179</xmin>
+		<ymin>138</ymin>
+		<xmax>226</xmax>
+		<ymax>256</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>400</xmin>
+		<ymin>142</ymin>
+		<xmax>448</xmax>
+		<ymax>271</ymax>
+	</bndbox>
+</object>
+</annotation>

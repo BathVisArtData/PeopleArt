@@ -1,0 +1,46 @@
+<annotation>
+<folder>PosterArtRealism</folder>
+<style>PosterArtRealism</style>
+<filename>rolf-amstrong_college-humor-1932.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>rolf-amstrong</name>
+</owner>
+<size>
+	<width>374</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>22</xmin>
+		<ymin>111</ymin>
+		<xmax>373</xmax>
+		<ymax>248</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>32</xmin>
+		<ymin>281</ymin>
+		<xmax>330</xmax>
+		<ymax>383</ymax>
+	</bndbox>
+</object>
+</annotation>

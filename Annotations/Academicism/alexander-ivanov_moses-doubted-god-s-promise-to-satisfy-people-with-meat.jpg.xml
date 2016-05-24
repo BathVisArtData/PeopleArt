@@ -1,0 +1,34 @@
+<annotation>
+<folder>Academicism</folder>
+<style>Academicism</style>
+<filename>alexander-ivanov_moses-doubted-god-s-promise-to-satisfy-people-with-meat.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>alexander-ivanov</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>301</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>298</xmin>
+		<ymin>69</ymin>
+		<xmax>450</xmax>
+		<ymax>255</ymax>
+	</bndbox>
+</object>
+</annotation>

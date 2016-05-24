@@ -1,0 +1,82 @@
+<annotation>
+<folder>EnvironmentalArt</folder>
+<style>EnvironmentalArt</style>
+<filename>george-segal_three-figures-and-four-benches-1979.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>george-segal</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>321</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>125</xmin>
+		<ymin>31</ymin>
+		<xmax>294</xmax>
+		<ymax>306</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>197</xmin>
+		<ymin>26</ymin>
+		<xmax>272</xmax>
+		<ymax>161</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>271</xmin>
+		<ymin>16</ymin>
+		<xmax>341</xmax>
+		<ymax>136</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>331</xmin>
+		<ymin>9</ymin>
+		<xmax>401</xmax>
+		<ymax>129</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>170</xmin>
+		<ymin>31</ymin>
+		<xmax>211</xmax>
+		<ymax>110</ymax>
+	</bndbox>
+</object>
+</annotation>

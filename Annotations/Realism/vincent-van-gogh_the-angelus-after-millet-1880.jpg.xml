@@ -1,0 +1,46 @@
+<annotation>
+<folder>Realism</folder>
+<style>Realism</style>
+<filename>vincent-van-gogh_the-angelus-after-millet-1880.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>vincent-van-gogh</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>378</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>130</xmin>
+		<ymin>83</ymin>
+		<xmax>213</xmax>
+		<ymax>308</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>253</xmin>
+		<ymin>97</ymin>
+		<xmax>346</xmax>
+		<ymax>308</ymax>
+	</bndbox>
+</object>
+</annotation>

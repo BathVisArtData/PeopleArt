@@ -1,0 +1,58 @@
+<annotation>
+<folder>Muralism</folder>
+<style>Muralism</style>
+<filename>diego-rivera_subterranean-forces-1927.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>diego-rivera</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>264</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>175</xmin>
+		<ymin>3</ymin>
+		<xmax>398</xmax>
+		<ymax>173</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>112</ymin>
+		<xmax>255</xmax>
+		<ymax>262</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>320</xmin>
+		<ymin>71</ymin>
+		<xmax>500</xmax>
+		<ymax>262</ymax>
+	</bndbox>
+</object>
+</annotation>

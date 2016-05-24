@@ -1,0 +1,34 @@
+<annotation>
+<folder>Cubo-Futurism</folder>
+<style>Cubo-Futurism</style>
+<filename>aleksandra-ekster_romeo-and-juliet-costume-for-first-mask-at-ball-1921.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>aleksandra-ekster</name>
+</owner>
+<size>
+	<width>321</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>3</xmin>
+		<ymin>1</ymin>
+		<xmax>320</xmax>
+		<ymax>498</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,34 @@
+<annotation>
+<folder>Constructivism</folder>
+<style>Constructivism</style>
+<filename>joaquin-torres-garcia_el-puerto-de-barcelona-1919.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>joaquin-torres-garcia</name>
+</owner>
+<size>
+	<width>334</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>129</xmin>
+		<ymin>250</ymin>
+		<xmax>196</xmax>
+		<ymax>422</ymax>
+	</bndbox>
+</object>
+</annotation>

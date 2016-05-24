@@ -1,0 +1,22 @@
+<annotation>
+<folder>FeministArt</folder>
+<style>FeministArt</style>
+<filename>kiki-smith_las-animas-1997.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>kiki-smith</name>
+</owner>
+<size>
+	<width>349</width>
+	<height>420</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>1</difficult>
+</annotation>

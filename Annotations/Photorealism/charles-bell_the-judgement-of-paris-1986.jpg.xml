@@ -1,0 +1,94 @@
+<annotation>
+<folder>Photorealism</folder>
+<style>Photorealism</style>
+<filename>charles-bell_the-judgement-of-paris-1986.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>charles-bell</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>298</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>370</xmin>
+		<ymin>13</ymin>
+		<xmax>455</xmax>
+		<ymax>290</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>282</xmin>
+		<ymin>25</ymin>
+		<xmax>373</xmax>
+		<ymax>255</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>297</xmin>
+		<ymin>169</ymin>
+		<xmax>379</xmax>
+		<ymax>253</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>214</xmin>
+		<ymin>21</ymin>
+		<xmax>300</xmax>
+		<ymax>266</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>35</xmin>
+		<ymin>78</ymin>
+		<xmax>177</xmax>
+		<ymax>296</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>73</xmin>
+		<ymin>33</ymin>
+		<xmax>174</xmax>
+		<ymax>280</ymax>
+	</bndbox>
+</object>
+</annotation>

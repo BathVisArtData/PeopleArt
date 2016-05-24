@@ -1,0 +1,58 @@
+<annotation>
+<folder>Divisionism</folder>
+<style>Divisionism</style>
+<filename>umberto-boccioni_the-reaper.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>umberto-boccioni</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>327</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>1</xmin>
+		<ymin>75</ymin>
+		<xmax>149</xmax>
+		<ymax>321</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>43</xmin>
+		<ymin>83</ymin>
+		<xmax>249</xmax>
+		<ymax>259</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>369</xmin>
+		<ymin>5</ymin>
+		<xmax>469</xmax>
+		<ymax>200</ymax>
+	</bndbox>
+</object>
+</annotation>

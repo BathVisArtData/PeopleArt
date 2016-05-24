@@ -1,0 +1,58 @@
+<annotation>
+<folder>Photorealism</folder>
+<style>Photorealism</style>
+<filename>charles-bell_nation-s-finest-gumball-iv-1974.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>charles-bell</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>450</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>156</xmin>
+		<ymin>104</ymin>
+		<xmax>215</xmax>
+		<ymax>269</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>214</xmin>
+		<ymin>180</ymin>
+		<xmax>256</xmax>
+		<ymax>243</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>253</xmin>
+		<ymin>198</ymin>
+		<xmax>302</xmax>
+		<ymax>271</ymax>
+	</bndbox>
+</object>
+</annotation>

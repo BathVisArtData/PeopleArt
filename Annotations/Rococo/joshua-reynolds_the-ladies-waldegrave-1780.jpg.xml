@@ -1,0 +1,58 @@
+<annotation>
+<folder>Rococo</folder>
+<style>Rococo</style>
+<filename>joshua-reynolds_the-ladies-waldegrave-1780.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>joshua-reynolds</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>422</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>85</xmin>
+		<ymin>108</ymin>
+		<xmax>273</xmax>
+		<ymax>419</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>183</xmin>
+		<ymin>101</ymin>
+		<xmax>327</xmax>
+		<ymax>310</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>304</xmin>
+		<ymin>133</ymin>
+		<xmax>473</xmax>
+		<ymax>422</ymax>
+	</bndbox>
+</object>
+</annotation>

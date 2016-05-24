@@ -1,0 +1,70 @@
+<annotation>
+<folder>Constructivism</folder>
+<style>Constructivism</style>
+<filename>jean-david_follow-the-sun-to-israel-el-al-poster-1962.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>jean-david</name>
+</owner>
+<size>
+	<width>345</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>26</xmin>
+		<ymin>55</ymin>
+		<xmax>170</xmax>
+		<ymax>345</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>127</xmin>
+		<ymin>56</ymin>
+		<xmax>210</xmax>
+		<ymax>342</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>171</xmin>
+		<ymin>53</ymin>
+		<xmax>256</xmax>
+		<ymax>343</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>220</xmin>
+		<ymin>56</ymin>
+		<xmax>310</xmax>
+		<ymax>348</ymax>
+	</bndbox>
+</object>
+</annotation>

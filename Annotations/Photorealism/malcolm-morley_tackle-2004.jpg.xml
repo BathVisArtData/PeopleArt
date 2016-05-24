@@ -1,0 +1,58 @@
+<annotation>
+<folder>Photorealism</folder>
+<style>Photorealism</style>
+<filename>malcolm-morley_tackle-2004.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>malcolm-morley</name>
+</owner>
+<size>
+	<width>368</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>161</xmin>
+		<ymin>149</ymin>
+		<xmax>368</xmax>
+		<ymax>500</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>64</xmin>
+		<ymin>12</ymin>
+		<xmax>368</xmax>
+		<ymax>236</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>5</xmin>
+		<ymin>189</ymin>
+		<xmax>230</xmax>
+		<ymax>500</ymax>
+	</bndbox>
+</object>
+</annotation>

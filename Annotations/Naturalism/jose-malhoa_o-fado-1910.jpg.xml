@@ -1,0 +1,46 @@
+<annotation>
+<folder>Naturalism</folder>
+<style>Naturalism</style>
+<filename>jose-malhoa_o-fado-1910.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>jose-malhoa</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>414</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>10</xmin>
+		<ymin>96</ymin>
+		<xmax>241</xmax>
+		<ymax>386</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>273</xmin>
+		<ymin>63</ymin>
+		<xmax>474</xmax>
+		<ymax>397</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,58 @@
+<annotation>
+<folder>Cubism</folder>
+<style>Cubism</style>
+<filename>juan-gris_the-three-masks-1923.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>juan-gris</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>315</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>2</xmin>
+		<ymin>79</ymin>
+		<xmax>219</xmax>
+		<ymax>315</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>160</xmin>
+		<ymin>6</ymin>
+		<xmax>315</xmax>
+		<ymax>302</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>248</xmin>
+		<ymin>7</ymin>
+		<xmax>498</xmax>
+		<ymax>314</ymax>
+	</bndbox>
+</object>
+</annotation>

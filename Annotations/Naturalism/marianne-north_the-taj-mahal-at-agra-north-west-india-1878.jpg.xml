@@ -1,0 +1,58 @@
+<annotation>
+<folder>Naturalism</folder>
+<style>Naturalism</style>
+<filename>marianne-north_the-taj-mahal-at-agra-north-west-india-1878.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>marianne-north</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>361</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>318</xmin>
+		<ymin>268</ymin>
+		<xmax>336</xmax>
+		<ymax>317</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>337</xmin>
+		<ymin>265</ymin>
+		<xmax>358</xmax>
+		<ymax>311</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>447</xmin>
+		<ymin>289</ymin>
+		<xmax>477</xmax>
+		<ymax>330</ymax>
+	</bndbox>
+</object>
+</annotation>

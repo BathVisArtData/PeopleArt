@@ -1,0 +1,58 @@
+<annotation>
+<folder>PopArt</folder>
+<style>PopArt</style>
+<filename>walter-battiss_le-d-jeuner.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>walter-battiss</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>402</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>67</xmin>
+		<ymin>112</ymin>
+		<xmax>329</xmax>
+		<ymax>342</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>204</xmin>
+		<ymin>106</ymin>
+		<xmax>500</xmax>
+		<ymax>401</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>235</xmin>
+		<ymin>30</ymin>
+		<xmax>328</xmax>
+		<ymax>133</ymax>
+	</bndbox>
+</object>
+</annotation>

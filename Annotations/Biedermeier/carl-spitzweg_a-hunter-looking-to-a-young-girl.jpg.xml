@@ -1,0 +1,46 @@
+<annotation>
+<folder>Biedermeier</folder>
+<style>Biedermeier</style>
+<filename>carl-spitzweg_a-hunter-looking-to-a-young-girl.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>carl-spitzweg</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>293</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>160</xmin>
+		<ymin>163</ymin>
+		<xmax>182</xmax>
+		<ymax>218</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>292</xmin>
+		<ymin>118</ymin>
+		<xmax>330</xmax>
+		<ymax>210</ymax>
+	</bndbox>
+</object>
+</annotation>

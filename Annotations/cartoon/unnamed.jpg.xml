@@ -1,0 +1,82 @@
+<annotation>
+<folder>cartoon</folder>
+<style>cartoon</style>
+<filename>unnamed.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>googleimage</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>unknown</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>282</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>41</xmin>
+		<ymin>113</ymin>
+		<xmax>131</xmax>
+		<ymax>281</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>110</xmin>
+		<ymin>47</ymin>
+		<xmax>184</xmax>
+		<ymax>203</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>220</xmin>
+		<ymin>18</ymin>
+		<xmax>282</xmax>
+		<ymax>222</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>304</xmin>
+		<ymin>50</ymin>
+		<xmax>389</xmax>
+		<ymax>211</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>403</xmin>
+		<ymin>119</ymin>
+		<xmax>478</xmax>
+		<ymax>270</ymax>
+	</bndbox>
+</object>
+</annotation>

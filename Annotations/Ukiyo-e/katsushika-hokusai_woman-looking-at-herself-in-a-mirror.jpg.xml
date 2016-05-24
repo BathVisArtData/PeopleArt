@@ -1,0 +1,34 @@
+<annotation>
+<folder>Ukiyo-e</folder>
+<style>Ukiyo-e</style>
+<filename>katsushika-hokusai_woman-looking-at-herself-in-a-mirror.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>katsushika-hokusai</name>
+</owner>
+<size>
+	<width>149</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>26</xmin>
+		<ymin>163</ymin>
+		<xmax>90</xmax>
+		<ymax>412</ymax>
+	</bndbox>
+</object>
+</annotation>

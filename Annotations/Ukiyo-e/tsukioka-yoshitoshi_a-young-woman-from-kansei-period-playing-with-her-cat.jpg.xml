@@ -1,0 +1,34 @@
+<annotation>
+<folder>Ukiyo-e</folder>
+<style>Ukiyo-e</style>
+<filename>tsukioka-yoshitoshi_a-young-woman-from-kansei-period-playing-with-her-cat.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>tsukioka-yoshitoshi</name>
+</owner>
+<size>
+	<width>347</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>10</xmin>
+		<ymin>139</ymin>
+		<xmax>347</xmax>
+		<ymax>448</ymax>
+	</bndbox>
+</object>
+</annotation>

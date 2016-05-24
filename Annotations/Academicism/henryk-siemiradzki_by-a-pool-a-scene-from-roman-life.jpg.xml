@@ -1,0 +1,70 @@
+<annotation>
+<folder>Academicism</folder>
+<style>Academicism</style>
+<filename>henryk-siemiradzki_by-a-pool-a-scene-from-roman-life.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>henryk-siemiradzki</name>
+</owner>
+<size>
+	<width>294</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>12</xmin>
+		<ymin>298</ymin>
+		<xmax>117</xmax>
+		<ymax>462</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>83</xmin>
+		<ymin>253</ymin>
+		<xmax>173</xmax>
+		<ymax>437</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>83</xmin>
+		<ymin>274</ymin>
+		<xmax>170</xmax>
+		<ymax>375</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>105</xmin>
+		<ymin>216</ymin>
+		<xmax>262</xmax>
+		<ymax>408</ymax>
+	</bndbox>
+</object>
+</annotation>

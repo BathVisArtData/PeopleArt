@@ -1,0 +1,82 @@
+<annotation>
+<folder>PosterArtRealism</folder>
+<style>PosterArtRealism</style>
+<filename>robert-g-harris_the-lady-changed-her-style-saturday-evening-post-story-illustration-1959.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>robert-g-harris</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>336</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>211</xmin>
+		<ymin>48</ymin>
+		<xmax>485</xmax>
+		<ymax>320</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>274</xmin>
+		<ymin>27</ymin>
+		<xmax>489</xmax>
+		<ymax>322</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>406</xmin>
+		<ymin>177</ymin>
+		<xmax>473</xmax>
+		<ymax>245</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>398</xmin>
+		<ymin>160</ymin>
+		<xmax>426</xmax>
+		<ymax>212</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>437</xmin>
+		<ymin>166</ymin>
+		<xmax>461</xmax>
+		<ymax>216</ymax>
+	</bndbox>
+</object>
+</annotation>

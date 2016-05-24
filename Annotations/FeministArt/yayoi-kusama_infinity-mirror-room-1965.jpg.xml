@@ -1,0 +1,58 @@
+<annotation>
+<folder>FeministArt</folder>
+<style>FeministArt</style>
+<filename>yayoi-kusama_infinity-mirror-room-1965.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>yayoi-kusama</name>
+</owner>
+<size>
+	<width>490</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>161</xmin>
+		<ymin>282</ymin>
+		<xmax>469</xmax>
+		<ymax>407</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>9</xmin>
+		<ymin>240</ymin>
+		<xmax>242</xmax>
+		<ymax>354</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>1</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>435</xmin>
+		<ymin>130</ymin>
+		<xmax>490</xmax>
+		<ymax>173</ymax>
+	</bndbox>
+</object>
+</annotation>

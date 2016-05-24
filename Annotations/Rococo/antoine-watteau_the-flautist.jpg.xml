@@ -1,0 +1,106 @@
+<annotation>
+<folder>Rococo</folder>
+<style>Rococo</style>
+<filename>antoine-watteau_the-flautist.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>antoine-watteau</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>372</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>113</xmin>
+		<ymin>252</ymin>
+		<xmax>205</xmax>
+		<ymax>356</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>81</xmin>
+		<ymin>184</ymin>
+		<xmax>138</xmax>
+		<ymax>318</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>210</xmin>
+		<ymin>218</ymin>
+		<xmax>303</xmax>
+		<ymax>332</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>297</xmin>
+		<ymin>249</ymin>
+		<xmax>336</xmax>
+		<ymax>313</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>321</xmin>
+		<ymin>234</ymin>
+		<xmax>375</xmax>
+		<ymax>324</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>236</xmin>
+		<ymin>157</ymin>
+		<xmax>292</xmax>
+		<ymax>250</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>162</xmin>
+		<ymin>201</ymin>
+		<xmax>251</xmax>
+		<ymax>281</ymax>
+	</bndbox>
+</object>
+</annotation>

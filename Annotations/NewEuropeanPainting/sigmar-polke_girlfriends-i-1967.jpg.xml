@@ -1,0 +1,46 @@
+<annotation>
+<folder>NewEuropeanPainting</folder>
+<style>NewEuropeanPainting</style>
+<filename>sigmar-polke_girlfriends-i-1967.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>sigmar-polke</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>395</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>54</xmin>
+		<ymin>17</ymin>
+		<xmax>219</xmax>
+		<ymax>377</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>219</xmin>
+		<ymin>92</ymin>
+		<xmax>471</xmax>
+		<ymax>377</ymax>
+	</bndbox>
+</object>
+</annotation>

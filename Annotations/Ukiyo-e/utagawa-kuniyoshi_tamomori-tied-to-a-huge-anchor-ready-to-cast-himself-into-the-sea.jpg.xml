@@ -1,0 +1,58 @@
+<annotation>
+<folder>Ukiyo-e</folder>
+<style>Ukiyo-e</style>
+<filename>utagawa-kuniyoshi_tamomori-tied-to-a-huge-anchor-ready-to-cast-himself-into-the-sea.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>utagawa-kuniyoshi</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>243</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>45</xmin>
+		<ymin>117</ymin>
+		<xmax>143</xmax>
+		<ymax>220</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>185</xmin>
+		<ymin>28</ymin>
+		<xmax>315</xmax>
+		<ymax>188</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>371</xmin>
+		<ymin>84</ymin>
+		<xmax>486</xmax>
+		<ymax>231</ymax>
+	</bndbox>
+</object>
+</annotation>

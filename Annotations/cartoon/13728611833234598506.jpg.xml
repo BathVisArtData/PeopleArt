@@ -1,0 +1,58 @@
+<annotation>
+<folder>cartoon</folder>
+<style>cartoon</style>
+<filename>13728611833234598506.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>googleimage</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>unknown</name>
+</owner>
+<size>
+	<width>399</width>
+	<height>333</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>40</xmin>
+		<ymin>124</ymin>
+		<xmax>167</xmax>
+		<ymax>313</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>56</xmin>
+		<ymin>22</ymin>
+		<xmax>348</xmax>
+		<ymax>333</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>207</xmin>
+		<ymin>159</ymin>
+		<xmax>335</xmax>
+		<ymax>331</ymax>
+	</bndbox>
+</object>
+</annotation>

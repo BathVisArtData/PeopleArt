@@ -1,0 +1,46 @@
+<annotation>
+<folder>Academicism</folder>
+<style>Academicism</style>
+<filename>albert-joseph-moore_topaz-1879.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>albert-joseph-moore</name>
+</owner>
+<size>
+	<width>233</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>7</xmin>
+		<ymin>31</ymin>
+		<xmax>121</xmax>
+		<ymax>498</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>105</xmin>
+		<ymin>33</ymin>
+		<xmax>216</xmax>
+		<ymax>495</ymax>
+	</bndbox>
+</object>
+</annotation>

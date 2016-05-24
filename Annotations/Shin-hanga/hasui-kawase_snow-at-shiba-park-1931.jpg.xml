@@ -1,0 +1,34 @@
+<annotation>
+<folder>Shin-hanga</folder>
+<style>Shin-hanga</style>
+<filename>hasui-kawase_snow-at-shiba-park-1931.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>hasui-kawase</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>329</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Rear</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>169</xmin>
+		<ymin>196</ymin>
+		<xmax>196</xmax>
+		<ymax>243</ymax>
+	</bndbox>
+</object>
+</annotation>

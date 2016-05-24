@@ -1,0 +1,46 @@
+<annotation>
+<folder>Divisionism</folder>
+<style>Divisionism</style>
+<filename>jan-toorop_the-schelde-at-veere.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>jan-toorop</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>386</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>312</xmin>
+		<ymin>164</ymin>
+		<xmax>340</xmax>
+		<ymax>205</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>339</xmin>
+		<ymin>173</ymin>
+		<xmax>369</xmax>
+		<ymax>209</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,58 @@
+<annotation>
+<folder>cartoon</folder>
+<style>cartoon</style>
+<filename>kids-tv-shows-movies-2-0-s-307x512.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>googleimage</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>unknown</name>
+</owner>
+<size>
+	<width>491</width>
+	<height>307</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>116</xmin>
+		<ymin>66</ymin>
+		<xmax>328</xmax>
+		<ymax>232</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>292</xmin>
+		<ymin>104</ymin>
+		<xmax>410</xmax>
+		<ymax>242</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>73</xmin>
+		<ymin>18</ymin>
+		<xmax>198</xmax>
+		<ymax>179</ymax>
+	</bndbox>
+</object>
+</annotation>

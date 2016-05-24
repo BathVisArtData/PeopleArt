@@ -1,0 +1,46 @@
+<annotation>
+<folder>Constructivism</folder>
+<style>Constructivism</style>
+<filename>kazimir-malevich_the-athlete-of-the-future-1913-2.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>kazimir-malevich</name>
+</owner>
+<size>
+	<width>320</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>60</xmin>
+		<ymin>55</ymin>
+		<xmax>242</xmax>
+		<ymax>396</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>17</xmin>
+		<ymin>441</ymin>
+		<xmax>49</xmax>
+		<ymax>500</ymax>
+	</bndbox>
+</object>
+</annotation>

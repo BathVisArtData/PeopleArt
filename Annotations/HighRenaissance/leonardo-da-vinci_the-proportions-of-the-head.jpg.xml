@@ -1,0 +1,34 @@
+<annotation>
+<folder>HighRenaissance</folder>
+<style>HighRenaissance</style>
+<filename>leonardo-da-vinci_the-proportions-of-the-head.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>leonardo-da-vinci</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>381</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>194</xmin>
+		<ymin>37</ymin>
+		<xmax>440</xmax>
+		<ymax>381</ymax>
+	</bndbox>
+</object>
+</annotation>

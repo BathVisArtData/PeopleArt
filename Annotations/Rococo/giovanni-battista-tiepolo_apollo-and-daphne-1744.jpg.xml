@@ -1,0 +1,70 @@
+<annotation>
+<folder>Rococo</folder>
+<style>Rococo</style>
+<filename>giovanni-battista-tiepolo_apollo-and-daphne-1744.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>giovanni-battista-tiepolo</name>
+</owner>
+<size>
+	<width>410</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>65</xmin>
+		<ymin>124</ymin>
+		<xmax>224</xmax>
+		<ymax>447</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Rear</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>154</xmin>
+		<ymin>300</ymin>
+		<xmax>372</xmax>
+		<ymax>448</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Right</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>111</xmin>
+		<ymin>23</ymin>
+		<xmax>346</xmax>
+		<ymax>407</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>259</xmin>
+		<ymin>233</ymin>
+		<xmax>327</xmax>
+		<ymax>368</ymax>
+	</bndbox>
+</object>
+</annotation>

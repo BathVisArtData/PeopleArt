@@ -1,0 +1,46 @@
+<annotation>
+<folder>NorthernRenaissance</folder>
+<style>NorthernRenaissance</style>
+<filename>joachim-patinir_landscape-with-the-flight-into-egypt-1516.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>joachim-patinir</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>265</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>226</xmin>
+		<ymin>169</ymin>
+		<xmax>279</xmax>
+		<ymax>240</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>235</xmin>
+		<ymin>186</ymin>
+		<xmax>251</xmax>
+		<ymax>205</ymax>
+	</bndbox>
+</object>
+</annotation>

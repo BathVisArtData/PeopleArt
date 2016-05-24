@@ -1,0 +1,46 @@
+<annotation>
+<folder>PopArt</folder>
+<style>PopArt</style>
+<filename>patrick-procktor_departure-from-invitation-to-a-voyage-portfolio-of-5-aquatints-1969.jpg</filename>
+<source>
+	<database>art_person_v1</database>
+	<annotation>art_person_v1</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>patrick-procktor</name>
+</owner>
+<size>
+	<width>449</width>
+	<height>251</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Lying</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>144</xmin>
+		<ymin>73</ymin>
+		<xmax>274</xmax>
+		<ymax>185</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>247</xmin>
+		<ymin>76</ymin>
+		<xmax>385</xmax>
+		<ymax>219</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,58 @@
+<annotation>
+<folder>Constructivism</folder>
+<style>Constructivism</style>
+<filename>jean-david_life-and-death-on-the-roads-be-careful-1960.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>jean-david</name>
+</owner>
+<size>
+	<width>341</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>119</xmin>
+		<ymin>169</ymin>
+		<xmax>141</xmax>
+		<ymax>219</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>159</xmin>
+		<ymin>132</ymin>
+		<xmax>173</xmax>
+		<ymax>172</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>176</xmin>
+		<ymin>169</ymin>
+		<xmax>205</xmax>
+		<ymax>231</ymax>
+	</bndbox>
+</object>
+</annotation>

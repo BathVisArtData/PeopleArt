@@ -1,0 +1,46 @@
+<annotation>
+<folder>PopArt</folder>
+<style>PopArt</style>
+<filename>jim-dine_drag-johnson-and-mao-1967.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>jim-dine</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>351</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>9</xmin>
+		<ymin>31</ymin>
+		<xmax>255</xmax>
+		<ymax>347</ymax>
+	</bndbox>
+</object>
+<object>
+	<pose>Frontal</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>245</xmin>
+		<ymin>22</ymin>
+		<xmax>497</xmax>
+		<ymax>349</ymax>
+	</bndbox>
+</object>
+</annotation>

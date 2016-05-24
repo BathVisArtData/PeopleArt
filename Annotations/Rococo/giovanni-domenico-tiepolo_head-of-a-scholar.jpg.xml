@@ -1,0 +1,34 @@
+<annotation>
+<folder>Rococo</folder>
+<style>Rococo</style>
+<filename>giovanni-domenico-tiepolo_head-of-a-scholar.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>giovanni-domenico-tiepolo</name>
+</owner>
+<size>
+	<width>407</width>
+	<height>500</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>0</difficult>
+<object>
+	<pose>Left</pose>
+	<truncated>1</truncated>
+	<difficult>0</difficult>
+	<name>person</name>
+	<bndbox>
+		<xmin>55</xmin>
+		<ymin>87</ymin>
+		<xmax>405</xmax>
+		<ymax>494</ymax>
+	</bndbox>
+</object>
+</annotation>

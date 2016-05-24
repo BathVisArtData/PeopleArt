@@ -1,0 +1,22 @@
+<annotation>
+<folder>Muralism</folder>
+<style>Muralism</style>
+<filename>vela-zanetti_cradle-of-america.jpg</filename>
+<source>
+	<database>art_person_v2</database>
+	<annotation>art_person_v2</annotation>
+	<image>wikipaintings</image>
+	<flickrid>0</flickrid>
+</source>
+<owner>
+	<flickrid>0</flickrid>
+	<name>vela-zanetti</name>
+</owner>
+<size>
+	<width>500</width>
+	<height>343</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<difficult>1</difficult>
+</annotation>
