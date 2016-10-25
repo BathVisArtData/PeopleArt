@@ -20,4 +20,6 @@ Many of the images are subject to copyright. These are provided only for "data m
 ## Publications
 The dataset [v2](https://github.com/nwestlake/people-art/releases/tag/v2) features in [The Cross-Depiction Problem: Computer Vision Algorithms for Recognising Objects in Artwork and in Photographs (arXiv pre-print)](https://arxiv.org/abs/1505.00110) and  [You only look once: Unified, real-time object detection (arXiv pre-print)](http://arxiv.org/abs/1506.02640).
 
-The dataset [v2.1](https://github.com/nwestlake/people-art/releases/tag/v2.1) will feature in Detecting People in Artwork with CNNs (Visart 2016). 
+The dataset [v2.1](https://github.com/nwestlake/people-art/releases/tag/v2.1) features in [Detecting People in Artwork with CNNs](http://link.springer.com/chapter/10.1007/978-3-319-46604-0_57).
+
+If you wish to cite the dataset, please use the following [citation](citation.bib).
